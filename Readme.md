@@ -6,6 +6,10 @@ Proyek ini merupakan replika dari website yang sudah ada bernama [MyAnimeList.ne
 
 Proyek ini saya buat untuk tugas perkuliahan mobile programming. Sebenarnya platform aplikasi ini nantinya tidak berjalan atau berbentuk sebagai aplikasi web. Namun karena sempat mengalami miskomunikasi, jadi proyek ini tidak selesai sampai pada akhir kuliah mobile programming. Dan sekarang proyek aplikasi ini saya lanjutkan sendiri diluar kuliah, hanya sebagai portofolio proyek pribadi saja.
 
+## DISCLAIMER
+
+TERKADANG JIKA ANDA MENCOBA PROYEK INI PADA LAPTOP ATAU KOMPUTER YANG BERBEDA TERDAPAT PESAN ERROR SETELAH MENJALANKAN SERVER. DAN JUGA TERKADANG MUNCUL PESAN ERROR JIKA DI PUBLISH KE SUATU WEB HOSTING. MAKA DARI ITU HARAP PERHATIKAN DENGAN SEKSAMA PESAN DAN KODE ERROR YANG MUNCUL. APABILA TIDAK SANGGUP MENYELESAIKAN ERROR, ANDA BISA MEMBACA DOKUMENTASI RESMI DJANGO ATAU MENCARI KODE ERROR PADA GOOGLE UNTUK MENYELESAIKAN PERMASALAHAN. PESAN DAN KODE ERROR YANG MUNCUL TERKADANG BERBEDA, JADI CARILAH DI INTERNET YANG SESUAI DENGAN APA YANG ANDA ALAMI.
+
 -----
 
 ## Instalasi
@@ -92,6 +96,76 @@ Setelah sudah mendownload project, kamu perlu membuat virtual enviroment Python 
    ```
 
 6. Instalasi selesai
+
+-----
+
+## Sebelum Menjalankan Proyek
+
+Setelah menyelesaikan tahap instalasi, proyek ini masih belum bisa dijalankan. Ada beberapa konfigurasi yang perlu di setel sebelum menjalankan server Django, jika tidak maka proyek akan menampilkan error. Ikuti tahapan di bawah ini dengan seksama.
+
+### Membuat file environment (.env)
+
+Buat suatu file bernama .env untuk menyimpan variabel yang dibutuhkan untuk menjalankan server Django dan DBMS MySQL. Disini saya menggunakan MySQL dari aplikasi XAMPP. Jika anda belum familiar dengan penggunaan XAMPP dan cara menginstal XAMPP Control Panel, silahkan ikuti [tutorial ini](https://www.apachefriends.org/faq_windows.html). Untuk mendownload XAMPP, sikahkan kunjungi [website](https://www.apachefriends.org/download.html) berikut ini.
+
+Sebelum mulai, saya akan tunjukkan bagaimana struktur folder dan juga dimana harus menyimpan file .env pada sintaks di bawah ini
+
+```console
+(Env) D:\...\anime-indonesia|____animelist\
+                            |____api\
+                            |____artikel\
+                            |____backup\
+                            |____Env\
+                            |____myanimelist\
+                                 |____.env
+                                 |____asgi.py
+                                 |____settings.py
+                                 |____urls.py
+                                 |____views.py
+                                 |____wsgi.py
+                            |____statics\
+                            |____templates\
+                            |____.gitignore
+                            |____manages.py
+                            |____Readme.md
+                            |____requirements.txt
+```
+
+Kemudian isi file .env dengan sintaks seperti dibawah ini.
+
+```shell
+# Konfigurasi untuk Django
+SECRET_KEY = "SECRET_KEY"
+DEBUG = true
+ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+
+# Konfigurasi untuk MySQL
+DB_NAME = "anime_indo"
+DB_USER = "root" # ini adalah super user bawaan MySQL XAMPP
+DB_PASS = "" # Kosongkan saja jika anda tidak set password
+DB_HOST = "localhost"
+DB_PORT = 3306 # Ini adalah port default untuk MySQL
+```
+Berikutnya anda harus melakukan generate secret key supaya data seperti user account dan admin account terenkripsi pada database. Jika anda tidak melakukan generate secret key, maka server akan menampilkan error. Silahkan gunakan perintah dibawah ini untuk mengenerate secret key
+
+```console
+# 1. Masuk ke dalam Python Django shell
+
+(Env) D:\mobile_development\anime-indonesia> django-admin shell
+Python 3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>>
+
+# 2. Kemudian ketik seperti ini
+
+>>> from django.core.management.utils import get_random_secret_key
+
+# 3. Tampilkan fungsi get_random_secret_key
+
+>>> print(get_random_secret_key())
+```
+
+Setelah anda mendapatkan secret key berupa kombinasi angka, huruf dan karakter spesial, copy ke dalam file .env pada variabel SECRET_KEY dengan diapit tanda kutip dua.
 
 -----
 
