@@ -110,24 +110,24 @@ Buat suatu file bernama .env untuk menyimpan variabel yang dibutuhkan untuk menj
 Sebelum mulai, saya akan tunjukkan bagaimana struktur folder dan juga dimana harus menyimpan file .env pada sintaks di bawah ini
 
 ```console
-(Env) D:\...\anime-indonesia|____animelist\
-                            |____api\
-                            |____artikel\
-                            |____backup\
-                            |____Env\
-                            |____myanimelist\
-                                 |____.env
-                                 |____asgi.py
-                                 |____settings.py
-                                 |____urls.py
-                                 |____views.py
-                                 |____wsgi.py
-                            |____statics\
-                            |____templates\
-                            |____.gitignore
-                            |____manages.py
-                            |____Readme.md
-                            |____requirements.txt
+(Env) D:\mobile_development\anime-indonesia|____animelist\
+                                           |____api\
+                                           |____artikel\
+                                           |____backup\
+                                           |____Env\
+                                           |____myanimelist\
+                                                |____.env
+                                                |____asgi.py
+                                                |____settings.py
+                                                |____urls.py
+                                                |____views.py
+                                                |____wsgi.py
+                                           |____statics\
+                                           |____templates\
+                                           |____.gitignore
+                                           |____manages.py
+                                           |____Readme.md
+                                           |____requirements.txt
 ```
 
 Kemudian isi file .env dengan sintaks seperti dibawah ini.
