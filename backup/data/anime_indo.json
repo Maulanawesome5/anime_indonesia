@@ -637,6 +637,266 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2023-03-15T14:01:41.953Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "201",
+    "object_repr": "201. Isekai Yakkyoku",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2023-05-22T03:40:30.805Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "235",
+    "object_repr": "235. Naruto: Shippuden",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2023-05-22T03:50:49.133Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "236",
+    "object_repr": "236. Tensei shitara Slime Datta Ken 2nd Season",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2023-05-22T03:52:32.564Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "237",
+    "object_repr": "237. Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2023-05-22T03:53:57.744Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "238",
+    "object_repr": "238. Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2023-05-22T03:56:56.934Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "239",
+    "object_repr": "239. Isekai wa Smartphone to Tomo ni. 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2023-05-22T03:57:59.615Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "240",
+    "object_repr": "240. Isekai wa Smartphone to Tomo ni.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2023-05-22T03:59:41.842Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "241",
+    "object_repr": "241. Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2023-05-22T04:00:31.352Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "242",
+    "object_repr": "242. My Home Hero",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2023-05-22T04:06:06.059Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "104",
+    "object_repr": "104. Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai no Tsukisusumu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2023-05-22T04:21:57.471Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "1. Akame ga Kill !",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2023-05-22T04:22:02.609Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "1. Akame ga Kill !",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2023-05-22T04:28:16.672Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "240",
+    "object_repr": "240. Isekai wa Smartphone to Tomo ni.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2023-05-22T04:28:47.586Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "239",
+    "object_repr": "239. Isekai wa Smartphone to Tomo ni. 2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2023-05-22T04:29:53.238Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "242",
+    "object_repr": "242. My Home Hero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2023-05-22T04:30:26.779Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "235",
+    "object_repr": "235. Naruto: Shippuden",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2023-05-22T04:32:02.711Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "237",
+    "object_repr": "237. Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2023-05-22T04:32:22.834Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "236",
+    "object_repr": "236. Tensei shitara Slime Datta Ken 2nd Season",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2023-05-22T04:33:01.483Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "238",
+    "object_repr": "238. Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2023-05-22T04:33:36.654Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "241",
+    "object_repr": "241. Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -929,7 +1189,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$260000$5TXeNoCB6pq2jD2s0Oo1W6$A3659E7BSu5zpi9DkYXMxOioBcEYu+t2Q/KcZItWW7k=",
-    "last_login": "2023-03-04T17:31:38.966Z",
+    "last_login": "2023-05-22T03:33:19.196Z",
     "is_superuser": true,
     "username": "maulana",
     "first_name": "",
@@ -1016,6 +1276,14 @@
 },
 {
   "model": "sessions.session",
+  "pk": "j7g2vsrppwgv9fyv4rgn7yrlm6491jbu",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFA2YIevfsNZGEXqRqalPZk_Hdp0oMeZ96beYuA21rC1ngJE4mL0OL020VMT647oAfW-yzTXNdlinJX5EGbvM3Er-vh_h0UbKWvgZVDl60HP1BSwOy0YWN86gEsYwQV0Y9kvB4tZzNg9wHjmbXzmcTnC94tOAQ:1q0wIR:luwJmQLHJhMA4VrWFofhtV5g4u1IwTkOMlqtmCgqLLI",
+    "expire_date": "2023-06-05T03:33:19.290Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "rhvzz8ffgzyjpumx7tvyxv6v6v3fdll2",
   "fields": {
     "session_data": ".eJxVjMEOwiAQRP-FsyFA2YIevfsNZGEXqRqalPZk_Hdp0oMeZ96beYuA21rC1ngJE4mL0OL020VMT647oAfW-yzTXNdlinJX5EGbvM3Er-vh_h0UbKWvgZVDl60HP1BSwOy0YWN86gEsYwQV0Y9kvB4tZzNg9wHjmbXzmcTnC94tOAQ:1pXsxq:VLWxRRirnatY-3qGRiX7mUrv9wWH_Agco3-OQjtc4jA",
@@ -1040,7 +1308,7 @@
     "airing_time": "Summer 2014",
     "studio": "White Fox",
     "slug": "akame-ga-kill",
-    "updated": "2023-02-13T07:27:02.978Z",
+    "updated": "2023-05-22T04:22:02.604Z",
     "created": "2023-02-13T07:27:02.978Z",
     "api_url": "https://api.jikan.moe/v4/anime/22199/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg"
@@ -2619,12 +2887,12 @@
   "pk": 104,
   "fields": {
     "mal_id": 51213,
-    "anime_title": "Kinsou no Vermeil to Mahou Sekai no Tsukisusumu",
+    "anime_title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai no Tsukisusumu",
     "anime_score": "7.33",
     "airing_time": "Summer 2022",
     "studio": "Staple Entertainment",
-    "slug": "kinsou-no-vermeil-to-mahou-sekai-no-tsukisusumu",
-    "updated": "2023-02-14T12:26:10.322Z",
+    "slug": "kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-no-tsukisusumu",
+    "updated": "2023-05-22T04:06:06.007Z",
     "created": "2023-02-14T12:26:10.322Z",
     "api_url": "https://api.jikan.moe/v4/anime/51213/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1561/125302.jpg"
@@ -4140,11 +4408,11 @@
   "fields": {
     "mal_id": 49438,
     "anime_title": "Isekai Yakkyoku",
-    "anime_score": "9.00",
+    "anime_score": "7.33",
     "airing_time": "Winter 2021",
     "studio": "Deomedea",
     "slug": "isekai-yakkyoku",
-    "updated": "2023-02-15T16:02:02.383Z",
+    "updated": "2023-03-15T14:01:41.951Z",
     "created": "2023-02-15T16:02:02.383Z",
     "api_url": "https://api.jikan.moe/v4/anime/49438/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1120/124644.jpg"
@@ -4564,6 +4832,134 @@
     "created": "2023-03-15T07:20:15.462Z",
     "api_url": "https://api.jikan.moe/v4/anime/40507/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1877/119668.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 235,
+  "fields": {
+    "mal_id": 1735,
+    "anime_title": "Naruto: Shippuden",
+    "anime_score": "8.26",
+    "airing_time": "Winter 2007",
+    "studio": "Pierrot",
+    "slug": "naruto-shippuden",
+    "updated": "2023-05-22T04:30:26.769Z",
+    "created": "2023-05-22T03:40:30.697Z",
+    "api_url": "https://api.jikan.moe/v4/anime/1735/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 236,
+  "fields": {
+    "mal_id": 39551,
+    "anime_title": "Tensei shitara Slime Datta Ken 2nd Season",
+    "anime_score": "8.39",
+    "airing_time": "Winter 2021",
+    "studio": "8bit",
+    "slug": "tensei-shitara-slime-datta-ken-2nd-season",
+    "updated": "2023-05-22T04:32:22.827Z",
+    "created": "2023-05-22T03:50:49.057Z",
+    "api_url": "https://api.jikan.moe/v4/anime/39551/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 237,
+  "fields": {
+    "mal_id": 41487,
+    "anime_title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "anime_score": "8.33",
+    "airing_time": "Summer 2021",
+    "studio": "8bit",
+    "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2",
+    "updated": "2023-05-22T04:32:02.676Z",
+    "created": "2023-05-22T03:52:32.487Z",
+    "api_url": "https://api.jikan.moe/v4/anime/41487/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 238,
+  "fields": {
+    "mal_id": 49877,
+    "anime_title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "anime_score": "7.65",
+    "airing_time": "Fall 2022",
+    "studio": "8bit",
+    "slug": "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
+    "updated": "2023-05-22T04:33:01.475Z",
+    "created": "2023-05-22T03:53:57.727Z",
+    "api_url": "https://api.jikan.moe/v4/anime/49877/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 239,
+  "fields": {
+    "mal_id": 51632,
+    "anime_title": "Isekai wa Smartphone to Tomo ni. 2",
+    "anime_score": "6.29",
+    "airing_time": "Spring 2023",
+    "studio": "J.C.Staff",
+    "slug": "isekai-wa-smartphone-to-tomo-ni-2",
+    "updated": "2023-05-22T04:28:47.570Z",
+    "created": "2023-05-22T03:56:56.900Z",
+    "api_url": "https://api.jikan.moe/v4/anime/51632/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 240,
+  "fields": {
+    "mal_id": 35203,
+    "anime_title": "Isekai wa Smartphone to Tomo ni.",
+    "anime_score": "6.15",
+    "airing_time": "Summer 2017",
+    "studio": "Production Reed",
+    "slug": "isekai-wa-smartphone-to-tomo-ni",
+    "updated": "2023-05-22T04:28:16.571Z",
+    "created": "2023-05-22T03:57:59.191Z",
+    "api_url": "https://api.jikan.moe/v4/anime/35203/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 241,
+  "fields": {
+    "mal_id": 41488,
+    "anime_title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "anime_score": "7.59",
+    "airing_time": "Spring 2021",
+    "studio": "8bit",
+    "slug": "tensura-nikki-tensei-shitara-slime-datta-ken",
+    "updated": "2023-05-22T04:33:36.642Z",
+    "created": "2023-05-22T03:59:41.816Z",
+    "api_url": "https://api.jikan.moe/v4/anime/41488/full",
+    "post_url": ""
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 242,
+  "fields": {
+    "mal_id": 52092,
+    "anime_title": "My Home Hero",
+    "anime_score": "6.96",
+    "airing_time": "Spring 2023",
+    "studio": "Tezuka Productions",
+    "slug": "my-home-hero",
+    "updated": "2023-05-22T04:29:53.204Z",
+    "created": "2023-05-22T04:00:31.321Z",
+    "api_url": "https://api.jikan.moe/v4/anime/52092/full",
+    "post_url": ""
   }
 },
 {
