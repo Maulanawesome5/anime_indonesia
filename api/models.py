@@ -4,6 +4,9 @@ from django.utils.text import slugify
 
 # Create your models here.
 class Anime(models.Model):
+    """
+    Model untuk data Anime
+    """
     mal_id = models.IntegerField(unique=True)
     anime_title = models.CharField(max_length=255)
     anime_score = models.DecimalField(decimal_places=2, max_digits=10, default=0)
@@ -24,3 +27,20 @@ class Anime(models.Model):
     
     class Meta:
         ordering = ["-anime_score"]
+        # ordering = ["anime_title"]
+
+class Studio(models.Model):
+    studio_name = models.CharField(max_length=255)
+    slug = models.SlugField(max_length=255, editable=False)
+    updated = models.DateTimeField(auto_now=True)
+    created = models.DateTimeField(auto_now_add=True)
+
+    def save(self, *args, **kwargs):
+        self.slug = slugify(self.studio_name)
+        super(Studio, self).save(*args, **kwargs)
+    
+    def __str__(self) -> str:
+        return f"{self.id}. {self.studio_name}"
+    
+    class Meta:
+        ordering = ["studio_name"]
