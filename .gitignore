@@ -3,8 +3,8 @@ animelist/__pycache__
 animelist/migrations/__pycache__
 api/__pycache__
 api/migrations/__pycache__
-article/__pycache__
-article/migrations/__pycache__
+artikel/__pycache__
+artikel/migrations/__pycache__
 Env
 db.sqlite3
 desktop.ini
