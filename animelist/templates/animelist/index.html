@@ -1,9 +1,39 @@
 {% extends "base.html" %}
-
+{% load static %}
 {% block form_pencarian %}
-<h1 class="text-center pb-2">Temukan anime favoritmu !</h1>
-<form action="#" class="d-flex" role="search" method="get">
-    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="query">
-    <button class="btn btn-outline-success" type="submit">Search</button>
-</form>
+    <h1 class="text-center pb-2">Temukan anime favoritmu !</h1>
+    <form class="d-flex pt-2 mb-3 shadow-sm" role="search" method="post">
+        {% csrf_token %}
+        {{form_pencarian.search}}
+        <button class="btn btn-primary" type="submit">Search</button>
+    </form>
+
+    <hr>
+
+    {% block query_anime %}
+        {% if hasil_pencarian %}
+            {% for data in data_pencarian %}
+            <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                <div class="row g-0">
+                  <div class="col-md-4">
+                    <img src="{{data.images.jpg.image_url}}" class="img-fluid rounded-start" alt="{{data.title}}">
+                  </div>
+                  <div class="col-md-8">
+                    <div class="card-body">
+                      <h5 class="card-title">{{data.title}}</h5>
+                      <p class="card-text text-justify">{{data.synopsis | truncatechars:100 }}..</p>
+                      <div class="container">
+                          <p class="card-text">
+                            <small class="text-body-secondary">
+                                <img src="{% static 'img/star.png' %}" style="width: 20px; padding-right: 5px;">{{data.score}} | {{data.season}} {{data.year}} | {% for studio in data.studios %} {{studio.name}} {% endfor %}
+                            </small>
+                        </p>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+        {% endif %}
+    {% endblock query_anime %}
 {% endblock form_pencarian %}

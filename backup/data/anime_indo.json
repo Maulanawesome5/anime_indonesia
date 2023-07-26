@@ -637,6 +637,1774 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2023-03-15T14:01:41.953Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "201",
+    "object_repr": "201. Isekai Yakkyoku",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime score\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2023-05-22T03:40:30.805Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "235",
+    "object_repr": "235. Naruto: Shippuden",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2023-05-22T03:50:49.133Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "236",
+    "object_repr": "236. Tensei shitara Slime Datta Ken 2nd Season",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2023-05-22T03:52:32.564Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "237",
+    "object_repr": "237. Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2023-05-22T03:53:57.744Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "238",
+    "object_repr": "238. Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2023-05-22T03:56:56.934Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "239",
+    "object_repr": "239. Isekai wa Smartphone to Tomo ni. 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2023-05-22T03:57:59.615Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "240",
+    "object_repr": "240. Isekai wa Smartphone to Tomo ni.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2023-05-22T03:59:41.842Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "241",
+    "object_repr": "241. Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2023-05-22T04:00:31.352Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "242",
+    "object_repr": "242. My Home Hero",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2023-05-22T04:06:06.059Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "104",
+    "object_repr": "104. Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai no Tsukisusumu",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2023-05-22T04:21:57.471Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "1. Akame ga Kill !",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2023-05-22T04:22:02.609Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "1. Akame ga Kill !",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2023-05-22T04:28:16.672Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "240",
+    "object_repr": "240. Isekai wa Smartphone to Tomo ni.",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2023-05-22T04:28:47.586Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "239",
+    "object_repr": "239. Isekai wa Smartphone to Tomo ni. 2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2023-05-22T04:29:53.238Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "242",
+    "object_repr": "242. My Home Hero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2023-05-22T04:30:26.779Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "235",
+    "object_repr": "235. Naruto: Shippuden",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2023-05-22T04:32:02.711Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "237",
+    "object_repr": "237. Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2023-05-22T04:32:22.834Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "236",
+    "object_repr": "236. Tensei shitara Slime Datta Ken 2nd Season",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2023-05-22T04:33:01.483Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "238",
+    "object_repr": "238. Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2023-05-22T04:33:36.654Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "241",
+    "object_repr": "241. Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Api url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2023-05-31T21:41:10.214Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "235",
+    "object_repr": "235. Naruto: Shippuden",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Post url\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2023-05-31T21:49:14.850Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "243",
+    "object_repr": "243. Shingeki no Kyojin Season 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2023-05-31T21:50:23.025Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "244",
+    "object_repr": "244. Shingeki no Kyojin Season 3",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2023-05-31T21:51:29.362Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "245",
+    "object_repr": "245. Shingeki no Kyojin Season 3 Part 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2023-05-31T21:52:36.511Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "246",
+    "object_repr": "246. Shingeki no Kyojin: The Final Season",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2023-05-31T21:54:06.558Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "247",
+    "object_repr": "247. Shingeki no Kyojin: The Final Season Part 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2023-05-31T21:54:58.333Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "248",
+    "object_repr": "248. Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2023-05-31T22:11:15.848Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "249",
+    "object_repr": "249. Boruto: Naruto Next Generations",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2023-05-31T22:15:12.325Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "250",
+    "object_repr": "250. Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2023-05-31T22:21:42.206Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "251",
+    "object_repr": "251. Kono Subarashii Sekai ni Bakuen wo!",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2023-06-06T09:51:23.026Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "48",
+    "object_repr": "48. Fate Zero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2023-06-06T09:51:52.207Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "23. Date A Live",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2023-06-06T09:52:39.670Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "67",
+    "object_repr": "67. High School DxD",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2023-06-06T09:53:06.133Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "79",
+    "object_repr": "79. Infinite Stratos",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2023-06-06T09:53:57.965Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "101",
+    "object_repr": "101. Kimetsu no Yaiba",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2023-06-06T09:54:13.620Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "102",
+    "object_repr": "102. Kimetsu no Yaiba - Mugen Ressha hen",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2023-06-06T09:54:36.506Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "109",
+    "object_repr": "109. Kore wa Zombie Desu ka",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2023-06-06T09:55:09.827Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "178",
+    "object_repr": "178. Tate no Yuusha no Nariagari",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2023-06-06T09:55:27.419Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "183",
+    "object_repr": "183. Tokyo Ghoul",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2023-06-06T09:55:44.393Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "186",
+    "object_repr": "186. Trinity Seven",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2023-06-06T09:56:02.771Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "187",
+    "object_repr": "187. Trinity Seven OVA - Nanatsu no Taizai to Nana Madoushi",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Anime title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2023-06-06T10:12:26.417Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "1. A-1 Pictures",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2023-06-06T10:13:01.542Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "2. A.C.G.T",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2023-06-06T10:13:33.149Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "3. A.P.P.P.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2023-06-06T10:13:46.505Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "4. Actas Inc.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2023-06-06T10:14:53.325Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "3. APPP",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Studio name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2023-06-06T10:15:19.312Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "5. Kyoto Animation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2023-06-06T10:15:38.056Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "6. MAPPA",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2023-06-06T10:15:56.179Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "7. Madhouse",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2023-06-06T10:16:10.698Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "8. ufotable",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2023-06-06T10:16:46.110Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "9",
+    "object_repr": "9. Wit Studio",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2023-06-06T10:17:11.167Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "10",
+    "object_repr": "10. Bones",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2023-06-06T10:17:38.578Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "11",
+    "object_repr": "11. Studio Ghibli",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2023-06-06T10:17:53.831Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "12",
+    "object_repr": "12. Shaft",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2023-06-06T10:18:09.911Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "13",
+    "object_repr": "13. CloverWorks",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2023-06-06T10:18:26.735Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "14",
+    "object_repr": "14. Trigger",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2023-06-06T10:18:44.025Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "15",
+    "object_repr": "15. Production I.G",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2023-06-06T10:18:51.853Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "16",
+    "object_repr": "16. Sunrise",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2023-06-06T10:19:01.543Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "17",
+    "object_repr": "17. Toei Animation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2023-06-06T10:19:13.925Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "18",
+    "object_repr": "18. David Production",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2023-06-06T10:19:25.711Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "19",
+    "object_repr": "19. White Fox",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2023-06-06T10:19:39.799Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "20",
+    "object_repr": "20. Gainax",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2023-06-06T10:19:50.545Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "21",
+    "object_repr": "21. Pierrot",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2023-06-06T10:20:02.272Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "22",
+    "object_repr": "22. J.C.Staff",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2023-06-06T10:20:20.802Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "23",
+    "object_repr": "23. CoMix Wave Films",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2023-06-06T10:20:29.774Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "24",
+    "object_repr": "24. Studio Bind",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2023-06-06T10:20:42.775Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "25",
+    "object_repr": "25. P.A. Works",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 117,
+  "fields": {
+    "action_time": "2023-06-06T10:21:01.013Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "26",
+    "object_repr": "26. Aniplex",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 118,
+  "fields": {
+    "action_time": "2023-06-06T10:21:09.494Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "27",
+    "object_repr": "27. Doga Kobo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 119,
+  "fields": {
+    "action_time": "2023-06-06T10:21:19.313Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "28",
+    "object_repr": "28. Science SARU",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 120,
+  "fields": {
+    "action_time": "2023-06-06T10:21:27.125Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "29",
+    "object_repr": "29. Kadokawa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 121,
+  "fields": {
+    "action_time": "2023-06-06T10:22:12.287Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "30",
+    "object_repr": "30. TMS Entertainment",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 122,
+  "fields": {
+    "action_time": "2023-06-06T10:22:26.449Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "31",
+    "object_repr": "31. SILVER LINK.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 123,
+  "fields": {
+    "action_time": "2023-06-06T10:22:36.349Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "32",
+    "object_repr": "32. Funimation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 124,
+  "fields": {
+    "action_time": "2023-06-06T10:22:50.422Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "33",
+    "object_repr": "33. Orange",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 125,
+  "fields": {
+    "action_time": "2023-06-06T10:23:15.955Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "34",
+    "object_repr": "34. Lerche",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 126,
+  "fields": {
+    "action_time": "2023-06-06T10:23:48.132Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "35",
+    "object_repr": "35. Asahi Production",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 127,
+  "fields": {
+    "action_time": "2023-06-06T10:23:59.869Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "36",
+    "object_repr": "36. Arms",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 128,
+  "fields": {
+    "action_time": "2023-06-06T10:25:27.025Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "37",
+    "object_repr": "37. Bandai Namco Pictures",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 129,
+  "fields": {
+    "action_time": "2023-06-06T10:25:43.346Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "38",
+    "object_repr": "38. Bibury Animation Studio",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 130,
+  "fields": {
+    "action_time": "2023-06-06T10:26:05.145Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "39",
+    "object_repr": "39. C2C",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 131,
+  "fields": {
+    "action_time": "2023-06-06T10:26:17.267Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "40",
+    "object_repr": "40. C-Station",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 132,
+  "fields": {
+    "action_time": "2023-06-06T10:26:30.717Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "41",
+    "object_repr": "41. Connect",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 133,
+  "fields": {
+    "action_time": "2023-06-06T10:26:46.103Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "42",
+    "object_repr": "42. CygamesPicture",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 134,
+  "fields": {
+    "action_time": "2023-06-06T10:28:37.923Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "43",
+    "object_repr": "43. Diomedea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 135,
+  "fields": {
+    "action_time": "2023-06-06T10:28:42.560Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "44",
+    "object_repr": "44. Drive",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 136,
+  "fields": {
+    "action_time": "2023-06-06T10:29:04.966Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "45",
+    "object_repr": "45. 8Bit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 137,
+  "fields": {
+    "action_time": "2023-06-06T10:29:19.577Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "46",
+    "object_repr": "46. EMT Squared",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 138,
+  "fields": {
+    "action_time": "2023-06-06T10:29:34.084Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "47",
+    "object_repr": "47. feel.",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 139,
+  "fields": {
+    "action_time": "2023-06-06T10:29:53.743Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "48",
+    "object_repr": "48. Gainax",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 140,
+  "fields": {
+    "action_time": "2023-06-06T10:30:11.947Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "49",
+    "object_repr": "49. Gonzo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 141,
+  "fields": {
+    "action_time": "2023-06-06T10:30:32.308Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "50",
+    "object_repr": "50. Group TAC",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 142,
+  "fields": {
+    "action_time": "2023-06-06T10:30:49.248Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "51",
+    "object_repr": "51. Khara",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 143,
+  "fields": {
+    "action_time": "2023-06-06T10:31:01.676Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "52",
+    "object_repr": "52. Kinema Citrus",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 144,
+  "fields": {
+    "action_time": "2023-06-06T10:31:18.284Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "53",
+    "object_repr": "53. LIDENFILMS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 145,
+  "fields": {
+    "action_time": "2023-06-06T10:31:46.596Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "54",
+    "object_repr": "54. Passione",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 146,
+  "fields": {
+    "action_time": "2023-06-06T10:32:01.613Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "55",
+    "object_repr": "55. Pierrot Plus",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 147,
+  "fields": {
+    "action_time": "2023-06-06T10:32:13.821Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "56",
+    "object_repr": "56. Pine Jam",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 148,
+  "fields": {
+    "action_time": "2023-06-06T10:32:23.237Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "57",
+    "object_repr": "57. Project No.9",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 149,
+  "fields": {
+    "action_time": "2023-06-06T10:32:33.620Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "58",
+    "object_repr": "58. Production IMS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 150,
+  "fields": {
+    "action_time": "2023-06-06T10:33:13.204Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "59",
+    "object_repr": "59. Satelight",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 151,
+  "fields": {
+    "action_time": "2023-06-06T10:33:32.103Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "60",
+    "object_repr": "60. Seven",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 152,
+  "fields": {
+    "action_time": "2023-06-06T10:33:42.940Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "61",
+    "object_repr": "61. Seven Arcs",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 153,
+  "fields": {
+    "action_time": "2023-06-06T10:51:28.110Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "62",
+    "object_repr": "62. asread",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 154,
+  "fields": {
+    "action_time": "2023-06-06T10:51:45.923Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "63",
+    "object_repr": "63. Barnum Studio",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 155,
+  "fields": {
+    "action_time": "2023-06-06T10:52:39.526Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "64",
+    "object_repr": "64. GEEK TOYS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 156,
+  "fields": {
+    "action_time": "2023-06-06T10:53:14.685Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "65",
+    "object_repr": "65. Geneon Universal Entertainment",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 157,
+  "fields": {
+    "action_time": "2023-06-06T10:56:51.951Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "66",
+    "object_repr": "66. Graphinica",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 158,
+  "fields": {
+    "action_time": "2023-06-06T10:57:05.980Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "67",
+    "object_repr": "67. Hoods Entertainment",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 159,
+  "fields": {
+    "action_time": "2023-06-06T10:57:19.791Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "68",
+    "object_repr": "68. NARA Animation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 160,
+  "fields": {
+    "action_time": "2023-06-06T10:57:35.130Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "69",
+    "object_repr": "69. Production Reed",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 161,
+  "fields": {
+    "action_time": "2023-06-06T10:58:04.266Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "70",
+    "object_repr": "70. Signal.MD",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 162,
+  "fields": {
+    "action_time": "2023-06-06T10:58:17.483Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "71",
+    "object_repr": "71. Tezuka Productions",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 163,
+  "fields": {
+    "action_time": "2023-06-06T10:58:24.564Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "72",
+    "object_repr": "72. Xebec",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 164,
+  "fields": {
+    "action_time": "2023-06-06T10:58:32.514Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "73",
+    "object_repr": "73. TNK",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 165,
+  "fields": {
+    "action_time": "2023-06-06T10:59:00.454Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "74",
+    "object_repr": "74. Seven Arcs Pictures",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 166,
+  "fields": {
+    "action_time": "2023-06-06T10:59:18.073Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "75",
+    "object_repr": "75. DR Movie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 167,
+  "fields": {
+    "action_time": "2023-06-06T10:59:33.039Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "76",
+    "object_repr": "76. Ajia-Do",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 168,
+  "fields": {
+    "action_time": "2023-06-06T10:59:44.627Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "77",
+    "object_repr": "77. AIC PLUS+",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 169,
+  "fields": {
+    "action_time": "2023-06-06T11:01:04.067Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "78",
+    "object_repr": "78. T-Rex",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 170,
+  "fields": {
+    "action_time": "2023-06-06T11:01:20.615Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "79",
+    "object_repr": "79. Brain's Base",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 171,
+  "fields": {
+    "action_time": "2023-06-06T11:01:25.278Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "80",
+    "object_repr": "80. Nintendo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 172,
+  "fields": {
+    "action_time": "2023-06-06T11:01:37.483Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "81",
+    "object_repr": "81. Square Enix",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 173,
+  "fields": {
+    "action_time": "2023-06-06T11:02:00.550Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "82",
+    "object_repr": "82. Nippon Animation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 174,
+  "fields": {
+    "action_time": "2023-06-06T11:02:28.676Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "83",
+    "object_repr": "83. TOHO animation",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 175,
+  "fields": {
+    "action_time": "2023-06-06T11:02:43.612Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "84",
+    "object_repr": "84. Studio Chizu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 176,
+  "fields": {
+    "action_time": "2023-06-06T11:02:58.660Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "85",
+    "object_repr": "85. Tatsunoko Production",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 177,
+  "fields": {
+    "action_time": "2023-06-06T11:03:09.074Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "86",
+    "object_repr": "86. Manglobe",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 178,
+  "fields": {
+    "action_time": "2023-06-06T11:03:18.858Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "87",
+    "object_repr": "87. TV Tokyo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 179,
+  "fields": {
+    "action_time": "2023-06-06T11:03:41.880Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "88",
+    "object_repr": "88. Nitroplus",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 180,
+  "fields": {
+    "action_time": "2023-06-06T11:04:06.655Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "89",
+    "object_repr": "89. Bandai Namco Entertainment",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 181,
+  "fields": {
+    "action_time": "2023-06-06T11:04:19.539Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "90",
+    "object_repr": "90. Cygames",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 182,
+  "fields": {
+    "action_time": "2023-06-06T11:04:51.372Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "91",
+    "object_repr": "91. Studio 3Hz",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 183,
+  "fields": {
+    "action_time": "2023-06-06T11:05:00.607Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "92",
+    "object_repr": "92. Studio Kai",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 184,
+  "fields": {
+    "action_time": "2023-06-06T11:05:49.359Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "93",
+    "object_repr": "93. studio MOTHER",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 185,
+  "fields": {
+    "action_time": "2023-06-06T11:06:23.159Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "94",
+    "object_repr": "94. Bandai Namco Games",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -925,11 +2693,47 @@
   }
 },
 {
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add studio",
+    "content_type": 9,
+    "codename": "add_studio"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change studio",
+    "content_type": 9,
+    "codename": "change_studio"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete studio",
+    "content_type": 9,
+    "codename": "delete_studio"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view studio",
+    "content_type": 9,
+    "codename": "view_studio"
+  }
+},
+{
   "model": "auth.user",
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$260000$5TXeNoCB6pq2jD2s0Oo1W6$A3659E7BSu5zpi9DkYXMxOioBcEYu+t2Q/KcZItWW7k=",
-    "last_login": "2023-03-04T17:31:38.966Z",
+    "last_login": "2023-06-06T09:48:05.780Z",
     "is_superuser": true,
     "username": "maulana",
     "first_name": "",
@@ -1007,11 +2811,35 @@
   }
 },
 {
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "api",
+    "model": "studio"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "gc0kvr4gsg0w4pws1tw9l9q9gioeuhtw",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFA2YIevfsNZGEXqRqalPZk_Hdp0oMeZ96beYuA21rC1ngJE4mL0OL020VMT647oAfW-yzTXNdlinJX5EGbvM3Er-vh_h0UbKWvgZVDl60HP1BSwOy0YWN86gEsYwQV0Y9kvB4tZzNg9wHjmbXzmcTnC94tOAQ:1q6TIL:0VSSDqDVrxO97RgmrG2O0B2zoMvq-dcIS8xA_rSqdYQ",
+    "expire_date": "2023-06-20T09:48:05.987Z"
+  }
+},
+{
   "model": "sessions.session",
   "pk": "gxmyreyobfpljs5fudmjt9wq832n1bye",
   "fields": {
     "session_data": ".eJxVjDsOwjAQRO_iGln-rfmU9JwhWnt3cQDZUpxUiLuTSCmgmWLem3mrAZe5DEvnaRhJXZRVh98uYX5y3QA9sN6bzq3O05j0puiddn1rxK_r7v4dFOxlXWOMzOA9Mp6iZCGHDCIYmKLxicBDsMHYFN3ZGUkGjwEySEhriEH1-QIPpDjb:1pWhjy:Pxea7SdmU4otoPbGVFoo_Lb3l5gzL5ghmTAvFDljLic",
     "expire_date": "2023-03-13T17:56:46.089Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "j7g2vsrppwgv9fyv4rgn7yrlm6491jbu",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFA2YIevfsNZGEXqRqalPZk_Hdp0oMeZ96beYuA21rC1ngJE4mL0OL020VMT647oAfW-yzTXNdlinJX5EGbvM3Er-vh_h0UbKWvgZVDl60HP1BSwOy0YWN86gEsYwQV0Y9kvB4tZzNg9wHjmbXzmcTnC94tOAQ:1q0wIR:luwJmQLHJhMA4VrWFofhtV5g4u1IwTkOMlqtmCgqLLI",
+    "expire_date": "2023-06-05T03:33:19.290Z"
   }
 },
 {
@@ -1040,7 +2868,7 @@
     "airing_time": "Summer 2014",
     "studio": "White Fox",
     "slug": "akame-ga-kill",
-    "updated": "2023-02-13T07:27:02.978Z",
+    "updated": "2023-05-22T04:22:02.604Z",
     "created": "2023-02-13T07:27:02.978Z",
     "api_url": "https://api.jikan.moe/v4/anime/22199/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg"
@@ -1323,12 +3151,12 @@
   "pk": 23,
   "fields": {
     "mal_id": 15583,
-    "anime_title": "Date A Live 1",
+    "anime_title": "Date A Live",
     "anime_score": "7.17",
     "airing_time": "Spring 2013",
     "studio": "AIC PLUS+",
-    "slug": "date-a-live-1",
-    "updated": "2023-02-13T12:57:25.247Z",
+    "slug": "date-a-live",
+    "updated": "2023-06-06T09:51:52.157Z",
     "created": "2023-02-13T12:57:25.247Z",
     "api_url": "https://api.jikan.moe/v4/anime/15583/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/13/44844.jpg"
@@ -1723,12 +3551,12 @@
   "pk": 48,
   "fields": {
     "mal_id": 10087,
-    "anime_title": "Fate Zero 1",
+    "anime_title": "Fate Zero",
     "anime_score": "8.30",
     "airing_time": "Fall 2011",
     "studio": "ufotable",
-    "slug": "fate-zero-1",
-    "updated": "2023-02-13T14:10:08.673Z",
+    "slug": "fate-zero",
+    "updated": "2023-06-06T09:51:22.839Z",
     "created": "2023-02-13T14:10:08.673Z",
     "api_url": "https://api.jikan.moe/v4/anime/10087/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1887/117644.jpg"
@@ -2027,12 +3855,12 @@
   "pk": 67,
   "fields": {
     "mal_id": 11617,
-    "anime_title": "High School DxD 1",
+    "anime_title": "High School DxD",
     "anime_score": "7.35",
     "airing_time": "Winter 2012",
     "studio": "TNK",
-    "slug": "high-school-dxd-1",
-    "updated": "2023-02-13T14:32:29.807Z",
+    "slug": "high-school-dxd",
+    "updated": "2023-06-06T09:52:39.646Z",
     "created": "2023-02-13T14:32:29.807Z",
     "api_url": "https://api.jikan.moe/v4/anime/11617/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1331/111940.jpg"
@@ -2219,12 +4047,12 @@
   "pk": 79,
   "fields": {
     "mal_id": 9041,
-    "anime_title": "Infinite Stratos 1",
+    "anime_title": "Infinite Stratos",
     "anime_score": "6.65",
     "airing_time": "Winter 2011",
     "studio": "8bit",
-    "slug": "infinite-stratos-1",
-    "updated": "2023-02-14T12:10:43.235Z",
+    "slug": "infinite-stratos",
+    "updated": "2023-06-06T09:53:05.279Z",
     "created": "2023-02-14T12:10:43.235Z",
     "api_url": "https://api.jikan.moe/v4/anime/9041/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/3/74045.jpg"
@@ -2571,12 +4399,12 @@
   "pk": 101,
   "fields": {
     "mal_id": 38000,
-    "anime_title": "Kimetsu no Yaiba 1",
+    "anime_title": "Kimetsu no Yaiba",
     "anime_score": "8.55",
     "airing_time": "Spring 2019",
     "studio": "Ufotable",
-    "slug": "kimetsu-no-yaiba-1",
-    "updated": "2023-02-14T12:25:23.999Z",
+    "slug": "kimetsu-no-yaiba",
+    "updated": "2023-06-06T09:53:57.419Z",
     "created": "2023-02-14T12:25:23.999Z",
     "api_url": "https://api.jikan.moe/v4/anime/38000/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg"
@@ -2587,12 +4415,12 @@
   "pk": 102,
   "fields": {
     "mal_id": 49926,
-    "anime_title": "Kimetsu no Yaiba 1 - Mugen Ressha hen",
+    "anime_title": "Kimetsu no Yaiba - Mugen Ressha hen",
     "anime_score": "8.39",
     "airing_time": "Fall 2021",
     "studio": "Ufotable",
-    "slug": "kimetsu-no-yaiba-1-mugen-ressha-hen",
-    "updated": "2023-02-14T12:25:40.394Z",
+    "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+    "updated": "2023-06-06T09:54:13.468Z",
     "created": "2023-02-14T12:25:40.394Z",
     "api_url": "https://api.jikan.moe/v4/anime/49926/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg"
@@ -2619,12 +4447,12 @@
   "pk": 104,
   "fields": {
     "mal_id": 51213,
-    "anime_title": "Kinsou no Vermeil to Mahou Sekai no Tsukisusumu",
+    "anime_title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai no Tsukisusumu",
     "anime_score": "7.33",
     "airing_time": "Summer 2022",
     "studio": "Staple Entertainment",
-    "slug": "kinsou-no-vermeil-to-mahou-sekai-no-tsukisusumu",
-    "updated": "2023-02-14T12:26:10.322Z",
+    "slug": "kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-no-tsukisusumu",
+    "updated": "2023-05-22T04:06:06.007Z",
     "created": "2023-02-14T12:26:10.322Z",
     "api_url": "https://api.jikan.moe/v4/anime/51213/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1561/125302.jpg"
@@ -2699,12 +4527,12 @@
   "pk": 109,
   "fields": {
     "mal_id": 8841,
-    "anime_title": "Kore wa Zombie Desu ka 1",
+    "anime_title": "Kore wa Zombie Desu ka",
     "anime_score": "7.37",
     "airing_time": "Winter 2011",
     "studio": "Studio Deen",
-    "slug": "kore-wa-zombie-desu-ka-1",
-    "updated": "2023-02-14T12:27:31.313Z",
+    "slug": "kore-wa-zombie-desu-ka",
+    "updated": "2023-06-06T09:54:36.401Z",
     "created": "2023-02-14T12:27:31.313Z",
     "api_url": "https://api.jikan.moe/v4/anime/8841/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/13/75521.jpg"
@@ -3771,12 +5599,12 @@
   "pk": 178,
   "fields": {
     "mal_id": 35790,
-    "anime_title": "Tate no Yuusha no Nariagari 1",
+    "anime_title": "Tate no Yuusha no Nariagari",
     "anime_score": "8.01",
     "airing_time": "Winter 2019",
     "studio": "Kinema Citrus",
-    "slug": "tate-no-yuusha-no-nariagari-1",
-    "updated": "2023-02-15T15:55:51.107Z",
+    "slug": "tate-no-yuusha-no-nariagari",
+    "updated": "2023-06-06T09:55:08.675Z",
     "created": "2023-02-15T15:55:51.107Z",
     "api_url": "https://api.jikan.moe/v4/anime/35790/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
@@ -3851,12 +5679,12 @@
   "pk": 183,
   "fields": {
     "mal_id": 22319,
-    "anime_title": "Tokyo Ghoul 1",
+    "anime_title": "Tokyo Ghoul",
     "anime_score": "7.79",
     "airing_time": "Summer 2014",
     "studio": "Pierrot",
-    "slug": "tokyo-ghoul-1",
-    "updated": "2023-02-15T15:57:39.485Z",
+    "slug": "tokyo-ghoul",
+    "updated": "2023-06-06T09:55:27.403Z",
     "created": "2023-02-15T15:57:39.485Z",
     "api_url": "https://api.jikan.moe/v4/anime/22319/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/5/64449.jpg"
@@ -3899,12 +5727,12 @@
   "pk": 186,
   "fields": {
     "mal_id": 25157,
-    "anime_title": "Trinity Seven 1",
+    "anime_title": "Trinity Seven",
     "anime_score": "7.08",
     "airing_time": "Fall 2014",
     "studio": "Seven Arcs Pictures",
-    "slug": "trinity-seven-1",
-    "updated": "2023-02-15T15:58:19.273Z",
+    "slug": "trinity-seven",
+    "updated": "2023-06-06T09:55:44.393Z",
     "created": "2023-02-15T15:58:19.273Z",
     "api_url": "https://api.jikan.moe/v4/anime/25157/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/12/67795.jpg"
@@ -3915,12 +5743,12 @@
   "pk": 187,
   "fields": {
     "mal_id": 28285,
-    "anime_title": "Trinity Seven 1 OVA - Nanatsu no Taizai to Nana Madoushi",
+    "anime_title": "Trinity Seven OVA - Nanatsu no Taizai to Nana Madoushi",
     "anime_score": "7.36",
     "airing_time": "Winter 2015",
     "studio": "Seven Arcs Pictures",
-    "slug": "trinity-seven-1-ova-nanatsu-no-taizai-to-nana-madoushi",
-    "updated": "2023-02-15T15:58:29.628Z",
+    "slug": "trinity-seven-ova-nanatsu-no-taizai-to-nana-madoushi",
+    "updated": "2023-06-06T09:56:02.771Z",
     "created": "2023-02-15T15:58:29.628Z",
     "api_url": "https://api.jikan.moe/v4/anime/28285/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/3/74066.jpg"
@@ -4140,11 +5968,11 @@
   "fields": {
     "mal_id": 49438,
     "anime_title": "Isekai Yakkyoku",
-    "anime_score": "9.00",
+    "anime_score": "7.33",
     "airing_time": "Winter 2021",
     "studio": "Deomedea",
     "slug": "isekai-yakkyoku",
-    "updated": "2023-02-15T16:02:02.383Z",
+    "updated": "2023-03-15T14:01:41.951Z",
     "created": "2023-02-15T16:02:02.383Z",
     "api_url": "https://api.jikan.moe/v4/anime/49438/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1120/124644.jpg"
@@ -4564,6 +6392,1218 @@
     "created": "2023-03-15T07:20:15.462Z",
     "api_url": "https://api.jikan.moe/v4/anime/40507/full",
     "post_url": "https://cdn.myanimelist.net/images/anime/1877/119668.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 235,
+  "fields": {
+    "mal_id": 1735,
+    "anime_title": "Naruto: Shippuden",
+    "anime_score": "8.26",
+    "airing_time": "Winter 2007",
+    "studio": "Pierrot",
+    "slug": "naruto-shippuden",
+    "updated": "2023-05-31T21:41:09.861Z",
+    "created": "2023-05-22T03:40:30.697Z",
+    "api_url": "https://api.jikan.moe/v4/anime/1735/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 236,
+  "fields": {
+    "mal_id": 39551,
+    "anime_title": "Tensei shitara Slime Datta Ken 2nd Season",
+    "anime_score": "8.39",
+    "airing_time": "Winter 2021",
+    "studio": "8bit",
+    "slug": "tensei-shitara-slime-datta-ken-2nd-season",
+    "updated": "2023-05-22T04:32:22.827Z",
+    "created": "2023-05-22T03:50:49.057Z",
+    "api_url": "https://api.jikan.moe/v4/anime/39551/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 237,
+  "fields": {
+    "mal_id": 41487,
+    "anime_title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "anime_score": "8.33",
+    "airing_time": "Summer 2021",
+    "studio": "8bit",
+    "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2",
+    "updated": "2023-05-22T04:32:02.676Z",
+    "created": "2023-05-22T03:52:32.487Z",
+    "api_url": "https://api.jikan.moe/v4/anime/41487/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1033/118296.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 238,
+  "fields": {
+    "mal_id": 49877,
+    "anime_title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "anime_score": "7.65",
+    "airing_time": "Fall 2022",
+    "studio": "8bit",
+    "slug": "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
+    "updated": "2023-05-22T04:33:01.475Z",
+    "created": "2023-05-22T03:53:57.727Z",
+    "api_url": "https://api.jikan.moe/v4/anime/49877/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1745/128238.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 239,
+  "fields": {
+    "mal_id": 51632,
+    "anime_title": "Isekai wa Smartphone to Tomo ni. 2",
+    "anime_score": "6.29",
+    "airing_time": "Spring 2023",
+    "studio": "J.C.Staff",
+    "slug": "isekai-wa-smartphone-to-tomo-ni-2",
+    "updated": "2023-05-22T04:28:47.570Z",
+    "created": "2023-05-22T03:56:56.900Z",
+    "api_url": "https://api.jikan.moe/v4/anime/51632/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1932/131464.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 240,
+  "fields": {
+    "mal_id": 35203,
+    "anime_title": "Isekai wa Smartphone to Tomo ni.",
+    "anime_score": "6.15",
+    "airing_time": "Summer 2017",
+    "studio": "Production Reed",
+    "slug": "isekai-wa-smartphone-to-tomo-ni",
+    "updated": "2023-05-22T04:28:16.571Z",
+    "created": "2023-05-22T03:57:59.191Z",
+    "api_url": "https://api.jikan.moe/v4/anime/35203/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/7/86794.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 241,
+  "fields": {
+    "mal_id": 41488,
+    "anime_title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "anime_score": "7.59",
+    "airing_time": "Spring 2021",
+    "studio": "8bit",
+    "slug": "tensura-nikki-tensei-shitara-slime-datta-ken",
+    "updated": "2023-05-22T04:33:36.642Z",
+    "created": "2023-05-22T03:59:41.816Z",
+    "api_url": "https://api.jikan.moe/v4/anime/41488/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1458/117607.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 242,
+  "fields": {
+    "mal_id": 52092,
+    "anime_title": "My Home Hero",
+    "anime_score": "6.96",
+    "airing_time": "Spring 2023",
+    "studio": "Tezuka Productions",
+    "slug": "my-home-hero",
+    "updated": "2023-05-22T04:29:53.204Z",
+    "created": "2023-05-22T04:00:31.321Z",
+    "api_url": "https://api.jikan.moe/v4/anime/52092/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1525/132959.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 243,
+  "fields": {
+    "mal_id": 25777,
+    "anime_title": "Shingeki no Kyojin Season 2",
+    "anime_score": "8.50",
+    "airing_time": "Spring 2017",
+    "studio": "Wit Studio",
+    "slug": "shingeki-no-kyojin-season-2",
+    "updated": "2023-05-31T21:49:14.689Z",
+    "created": "2023-05-31T21:49:14.689Z",
+    "api_url": "https://api.jikan.moe/v4/anime/25777/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/4/84177.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 244,
+  "fields": {
+    "mal_id": 35760,
+    "anime_title": "Shingeki no Kyojin Season 3",
+    "anime_score": "8.62",
+    "airing_time": "Summer 2018",
+    "studio": "Wit Studio",
+    "slug": "shingeki-no-kyojin-season-3",
+    "updated": "2023-05-31T21:50:22.961Z",
+    "created": "2023-05-31T21:50:22.961Z",
+    "api_url": "https://api.jikan.moe/v4/anime/35760/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 245,
+  "fields": {
+    "mal_id": 38524,
+    "anime_title": "Shingeki no Kyojin Season 3 Part 2",
+    "anime_score": "9.06",
+    "airing_time": "Spring 2019",
+    "studio": "Wit Studio",
+    "slug": "shingeki-no-kyojin-season-3-part-2",
+    "updated": "2023-05-31T21:51:29.337Z",
+    "created": "2023-05-31T21:51:29.337Z",
+    "api_url": "https://api.jikan.moe/v4/anime/38524/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 246,
+  "fields": {
+    "mal_id": 40028,
+    "anime_title": "Shingeki no Kyojin: The Final Season",
+    "anime_score": "8.80",
+    "airing_time": "Winter 2021",
+    "studio": "MAPPA",
+    "slug": "shingeki-no-kyojin-the-final-season",
+    "updated": "2023-05-31T21:52:36.243Z",
+    "created": "2023-05-31T21:52:36.243Z",
+    "api_url": "https://api.jikan.moe/v4/anime/40028/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 247,
+  "fields": {
+    "mal_id": 48583,
+    "anime_title": "Shingeki no Kyojin: The Final Season Part 2",
+    "anime_score": "8.77",
+    "airing_time": "Winter 2022",
+    "studio": "MAPPA",
+    "slug": "shingeki-no-kyojin-the-final-season-part-2",
+    "updated": "2023-05-31T21:54:06.525Z",
+    "created": "2023-05-31T21:54:06.525Z",
+    "api_url": "https://api.jikan.moe/v4/anime/48583/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 248,
+  "fields": {
+    "mal_id": 51535,
+    "anime_title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "anime_score": "9.06",
+    "airing_time": "Winter 2023",
+    "studio": "MAPPA",
+    "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
+    "updated": "2023-05-31T21:54:58.277Z",
+    "created": "2023-05-31T21:54:58.277Z",
+    "api_url": "https://api.jikan.moe/v4/anime/51535/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 249,
+  "fields": {
+    "mal_id": 34566,
+    "anime_title": "Boruto: Naruto Next Generations",
+    "anime_score": "6.06",
+    "airing_time": "Spring 2017",
+    "studio": "Pierrot",
+    "slug": "boruto-naruto-next-generations",
+    "updated": "2023-05-31T22:11:15.586Z",
+    "created": "2023-05-31T22:11:15.586Z",
+    "api_url": "https://api.jikan.moe/v4/anime/34566/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1091/99847.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 250,
+  "fields": {
+    "mal_id": 51019,
+    "anime_title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "anime_score": "8.64",
+    "airing_time": "Spring 2023",
+    "studio": "ufotable",
+    "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+    "updated": "2023-05-31T22:15:12.236Z",
+    "created": "2023-05-31T22:15:12.236Z",
+    "api_url": "https://api.jikan.moe/v4/anime/51019/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1780/135985.jpg"
+  }
+},
+{
+  "model": "api.anime",
+  "pk": 251,
+  "fields": {
+    "mal_id": 51958,
+    "anime_title": "Kono Subarashii Sekai ni Bakuen wo!",
+    "anime_score": "7.78",
+    "airing_time": "Spring 2023",
+    "studio": "Drive",
+    "slug": "kono-subarashii-sekai-ni-bakuen-wo",
+    "updated": "2023-05-31T22:21:41.930Z",
+    "created": "2023-05-31T22:21:41.930Z",
+    "api_url": "https://api.jikan.moe/v4/anime/51958/full",
+    "post_url": "https://cdn.myanimelist.net/images/anime/1626/135844.jpg"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 1,
+  "fields": {
+    "studio_name": "A-1 Pictures",
+    "slug": "a-1-pictures",
+    "updated": "2023-06-06T10:12:26.401Z",
+    "created": "2023-06-06T10:12:26.401Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 2,
+  "fields": {
+    "studio_name": "A.C.G.T",
+    "slug": "acgt",
+    "updated": "2023-06-06T10:13:01.484Z",
+    "created": "2023-06-06T10:13:01.484Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 3,
+  "fields": {
+    "studio_name": "APPP",
+    "slug": "appp",
+    "updated": "2023-06-06T10:14:53.189Z",
+    "created": "2023-06-06T10:13:33.149Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 4,
+  "fields": {
+    "studio_name": "Actas Inc.",
+    "slug": "actas-inc",
+    "updated": "2023-06-06T10:13:46.497Z",
+    "created": "2023-06-06T10:13:46.497Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 5,
+  "fields": {
+    "studio_name": "Kyoto Animation",
+    "slug": "kyoto-animation",
+    "updated": "2023-06-06T10:15:19.288Z",
+    "created": "2023-06-06T10:15:19.288Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 6,
+  "fields": {
+    "studio_name": "MAPPA",
+    "slug": "mappa",
+    "updated": "2023-06-06T10:15:38.048Z",
+    "created": "2023-06-06T10:15:38.048Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 7,
+  "fields": {
+    "studio_name": "Madhouse",
+    "slug": "madhouse",
+    "updated": "2023-06-06T10:15:56.147Z",
+    "created": "2023-06-06T10:15:56.147Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 8,
+  "fields": {
+    "studio_name": "ufotable",
+    "slug": "ufotable",
+    "updated": "2023-06-06T10:16:10.666Z",
+    "created": "2023-06-06T10:16:10.666Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 9,
+  "fields": {
+    "studio_name": "Wit Studio",
+    "slug": "wit-studio",
+    "updated": "2023-06-06T10:16:45.995Z",
+    "created": "2023-06-06T10:16:45.995Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 10,
+  "fields": {
+    "studio_name": "Bones",
+    "slug": "bones",
+    "updated": "2023-06-06T10:17:11.136Z",
+    "created": "2023-06-06T10:17:11.136Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 11,
+  "fields": {
+    "studio_name": "Studio Ghibli",
+    "slug": "studio-ghibli",
+    "updated": "2023-06-06T10:17:38.519Z",
+    "created": "2023-06-06T10:17:38.519Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 12,
+  "fields": {
+    "studio_name": "Shaft",
+    "slug": "shaft",
+    "updated": "2023-06-06T10:17:53.823Z",
+    "created": "2023-06-06T10:17:53.823Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 13,
+  "fields": {
+    "studio_name": "CloverWorks",
+    "slug": "cloverworks",
+    "updated": "2023-06-06T10:18:09.895Z",
+    "created": "2023-06-06T10:18:09.895Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 14,
+  "fields": {
+    "studio_name": "Trigger",
+    "slug": "trigger",
+    "updated": "2023-06-06T10:18:26.703Z",
+    "created": "2023-06-06T10:18:26.703Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 15,
+  "fields": {
+    "studio_name": "Production I.G",
+    "slug": "production-ig",
+    "updated": "2023-06-06T10:18:43.969Z",
+    "created": "2023-06-06T10:18:43.969Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 16,
+  "fields": {
+    "studio_name": "Sunrise",
+    "slug": "sunrise",
+    "updated": "2023-06-06T10:18:51.813Z",
+    "created": "2023-06-06T10:18:51.813Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 17,
+  "fields": {
+    "studio_name": "Toei Animation",
+    "slug": "toei-animation",
+    "updated": "2023-06-06T10:19:01.511Z",
+    "created": "2023-06-06T10:19:01.519Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 18,
+  "fields": {
+    "studio_name": "David Production",
+    "slug": "david-production",
+    "updated": "2023-06-06T10:19:13.917Z",
+    "created": "2023-06-06T10:19:13.917Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 19,
+  "fields": {
+    "studio_name": "White Fox",
+    "slug": "white-fox",
+    "updated": "2023-06-06T10:19:25.671Z",
+    "created": "2023-06-06T10:19:25.671Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 20,
+  "fields": {
+    "studio_name": "Gainax",
+    "slug": "gainax",
+    "updated": "2023-06-06T10:19:39.775Z",
+    "created": "2023-06-06T10:19:39.775Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 21,
+  "fields": {
+    "studio_name": "Pierrot",
+    "slug": "pierrot",
+    "updated": "2023-06-06T10:19:50.545Z",
+    "created": "2023-06-06T10:19:50.545Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 22,
+  "fields": {
+    "studio_name": "J.C.Staff",
+    "slug": "jcstaff",
+    "updated": "2023-06-06T10:20:02.240Z",
+    "created": "2023-06-06T10:20:02.240Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 23,
+  "fields": {
+    "studio_name": "CoMix Wave Films",
+    "slug": "comix-wave-films",
+    "updated": "2023-06-06T10:20:20.794Z",
+    "created": "2023-06-06T10:20:20.794Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 24,
+  "fields": {
+    "studio_name": "Studio Bind",
+    "slug": "studio-bind",
+    "updated": "2023-06-06T10:20:29.758Z",
+    "created": "2023-06-06T10:20:29.758Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 25,
+  "fields": {
+    "studio_name": "P.A. Works",
+    "slug": "pa-works",
+    "updated": "2023-06-06T10:20:42.751Z",
+    "created": "2023-06-06T10:20:42.751Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 26,
+  "fields": {
+    "studio_name": "Aniplex",
+    "slug": "aniplex",
+    "updated": "2023-06-06T10:21:00.885Z",
+    "created": "2023-06-06T10:21:00.885Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 27,
+  "fields": {
+    "studio_name": "Doga Kobo",
+    "slug": "doga-kobo",
+    "updated": "2023-06-06T10:21:09.486Z",
+    "created": "2023-06-06T10:21:09.486Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 28,
+  "fields": {
+    "studio_name": "Science SARU",
+    "slug": "science-saru",
+    "updated": "2023-06-06T10:21:19.257Z",
+    "created": "2023-06-06T10:21:19.257Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 29,
+  "fields": {
+    "studio_name": "Kadokawa",
+    "slug": "kadokawa",
+    "updated": "2023-06-06T10:21:27.109Z",
+    "created": "2023-06-06T10:21:27.109Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 30,
+  "fields": {
+    "studio_name": "TMS Entertainment",
+    "slug": "tms-entertainment",
+    "updated": "2023-06-06T10:22:12.231Z",
+    "created": "2023-06-06T10:22:12.231Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 31,
+  "fields": {
+    "studio_name": "SILVER LINK.",
+    "slug": "silver-link",
+    "updated": "2023-06-06T10:22:26.353Z",
+    "created": "2023-06-06T10:22:26.353Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 32,
+  "fields": {
+    "studio_name": "Funimation",
+    "slug": "funimation",
+    "updated": "2023-06-06T10:22:36.333Z",
+    "created": "2023-06-06T10:22:36.333Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 33,
+  "fields": {
+    "studio_name": "Orange",
+    "slug": "orange",
+    "updated": "2023-06-06T10:22:49.905Z",
+    "created": "2023-06-06T10:22:49.905Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 34,
+  "fields": {
+    "studio_name": "Lerche",
+    "slug": "lerche",
+    "updated": "2023-06-06T10:23:15.923Z",
+    "created": "2023-06-06T10:23:15.923Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 35,
+  "fields": {
+    "studio_name": "Asahi Production",
+    "slug": "asahi-production",
+    "updated": "2023-06-06T10:23:48.100Z",
+    "created": "2023-06-06T10:23:48.100Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 36,
+  "fields": {
+    "studio_name": "Arms",
+    "slug": "arms",
+    "updated": "2023-06-06T10:23:59.858Z",
+    "created": "2023-06-06T10:23:59.858Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 37,
+  "fields": {
+    "studio_name": "Bandai Namco Pictures",
+    "slug": "bandai-namco-pictures",
+    "updated": "2023-06-06T10:25:26.929Z",
+    "created": "2023-06-06T10:25:26.929Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 38,
+  "fields": {
+    "studio_name": "Bibury Animation Studio",
+    "slug": "bibury-animation-studio",
+    "updated": "2023-06-06T10:25:43.287Z",
+    "created": "2023-06-06T10:25:43.287Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 39,
+  "fields": {
+    "studio_name": "C2C",
+    "slug": "c2c",
+    "updated": "2023-06-06T10:26:05.070Z",
+    "created": "2023-06-06T10:26:05.070Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 40,
+  "fields": {
+    "studio_name": "C-Station",
+    "slug": "c-station",
+    "updated": "2023-06-06T10:26:17.220Z",
+    "created": "2023-06-06T10:26:17.220Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 41,
+  "fields": {
+    "studio_name": "Connect",
+    "slug": "connect",
+    "updated": "2023-06-06T10:26:30.685Z",
+    "created": "2023-06-06T10:26:30.685Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 42,
+  "fields": {
+    "studio_name": "CygamesPicture",
+    "slug": "cygamespicture",
+    "updated": "2023-06-06T10:26:46.070Z",
+    "created": "2023-06-06T10:26:46.070Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 43,
+  "fields": {
+    "studio_name": "Diomedea",
+    "slug": "diomedea",
+    "updated": "2023-06-06T10:28:37.845Z",
+    "created": "2023-06-06T10:28:37.845Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 44,
+  "fields": {
+    "studio_name": "Drive",
+    "slug": "drive",
+    "updated": "2023-06-06T10:28:42.553Z",
+    "created": "2023-06-06T10:28:42.553Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 45,
+  "fields": {
+    "studio_name": "8Bit",
+    "slug": "8bit",
+    "updated": "2023-06-06T10:29:04.962Z",
+    "created": "2023-06-06T10:29:04.962Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 46,
+  "fields": {
+    "studio_name": "EMT Squared",
+    "slug": "emt-squared",
+    "updated": "2023-06-06T10:29:19.532Z",
+    "created": "2023-06-06T10:29:19.532Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 47,
+  "fields": {
+    "studio_name": "feel.",
+    "slug": "feel",
+    "updated": "2023-06-06T10:29:34.058Z",
+    "created": "2023-06-06T10:29:34.058Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 48,
+  "fields": {
+    "studio_name": "Gainax",
+    "slug": "gainax",
+    "updated": "2023-06-06T10:29:53.696Z",
+    "created": "2023-06-06T10:29:53.696Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 49,
+  "fields": {
+    "studio_name": "Gonzo",
+    "slug": "gonzo",
+    "updated": "2023-06-06T10:30:11.893Z",
+    "created": "2023-06-06T10:30:11.893Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 50,
+  "fields": {
+    "studio_name": "Group TAC",
+    "slug": "group-tac",
+    "updated": "2023-06-06T10:30:32.293Z",
+    "created": "2023-06-06T10:30:32.293Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 51,
+  "fields": {
+    "studio_name": "Khara",
+    "slug": "khara",
+    "updated": "2023-06-06T10:30:49.234Z",
+    "created": "2023-06-06T10:30:49.234Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 52,
+  "fields": {
+    "studio_name": "Kinema Citrus",
+    "slug": "kinema-citrus",
+    "updated": "2023-06-06T10:31:01.486Z",
+    "created": "2023-06-06T10:31:01.486Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 53,
+  "fields": {
+    "studio_name": "LIDENFILMS",
+    "slug": "lidenfilms",
+    "updated": "2023-06-06T10:31:18.237Z",
+    "created": "2023-06-06T10:31:18.237Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 54,
+  "fields": {
+    "studio_name": "Passione",
+    "slug": "passione",
+    "updated": "2023-06-06T10:31:46.549Z",
+    "created": "2023-06-06T10:31:46.549Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 55,
+  "fields": {
+    "studio_name": "Pierrot Plus",
+    "slug": "pierrot-plus",
+    "updated": "2023-06-06T10:32:01.596Z",
+    "created": "2023-06-06T10:32:01.596Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 56,
+  "fields": {
+    "studio_name": "Pine Jam",
+    "slug": "pine-jam",
+    "updated": "2023-06-06T10:32:13.771Z",
+    "created": "2023-06-06T10:32:13.771Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 57,
+  "fields": {
+    "studio_name": "Project No.9",
+    "slug": "project-no9",
+    "updated": "2023-06-06T10:32:23.233Z",
+    "created": "2023-06-06T10:32:23.233Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 58,
+  "fields": {
+    "studio_name": "Production IMS",
+    "slug": "production-ims",
+    "updated": "2023-06-06T10:32:33.576Z",
+    "created": "2023-06-06T10:32:33.576Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 59,
+  "fields": {
+    "studio_name": "Satelight",
+    "slug": "satelight",
+    "updated": "2023-06-06T10:33:13.174Z",
+    "created": "2023-06-06T10:33:13.174Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 60,
+  "fields": {
+    "studio_name": "Seven",
+    "slug": "seven",
+    "updated": "2023-06-06T10:33:32.041Z",
+    "created": "2023-06-06T10:33:32.041Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 61,
+  "fields": {
+    "studio_name": "Seven Arcs",
+    "slug": "seven-arcs",
+    "updated": "2023-06-06T10:33:42.728Z",
+    "created": "2023-06-06T10:33:42.728Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 62,
+  "fields": {
+    "studio_name": "asread",
+    "slug": "asread",
+    "updated": "2023-06-06T10:51:28.082Z",
+    "created": "2023-06-06T10:51:28.082Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 63,
+  "fields": {
+    "studio_name": "Barnum Studio",
+    "slug": "barnum-studio",
+    "updated": "2023-06-06T10:51:44.986Z",
+    "created": "2023-06-06T10:51:44.986Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 64,
+  "fields": {
+    "studio_name": "GEEK TOYS",
+    "slug": "geek-toys",
+    "updated": "2023-06-06T10:52:39.406Z",
+    "created": "2023-06-06T10:52:39.406Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 65,
+  "fields": {
+    "studio_name": "Geneon Universal Entertainment",
+    "slug": "geneon-universal-entertainment",
+    "updated": "2023-06-06T10:53:14.670Z",
+    "created": "2023-06-06T10:53:14.670Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 66,
+  "fields": {
+    "studio_name": "Graphinica",
+    "slug": "graphinica",
+    "updated": "2023-06-06T10:56:51.883Z",
+    "created": "2023-06-06T10:56:51.883Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 67,
+  "fields": {
+    "studio_name": "Hoods Entertainment",
+    "slug": "hoods-entertainment",
+    "updated": "2023-06-06T10:57:05.916Z",
+    "created": "2023-06-06T10:57:05.916Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 68,
+  "fields": {
+    "studio_name": "NARA Animation",
+    "slug": "nara-animation",
+    "updated": "2023-06-06T10:57:19.750Z",
+    "created": "2023-06-06T10:57:19.750Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 69,
+  "fields": {
+    "studio_name": "Production Reed",
+    "slug": "production-reed",
+    "updated": "2023-06-06T10:57:35.105Z",
+    "created": "2023-06-06T10:57:35.105Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 70,
+  "fields": {
+    "studio_name": "Signal.MD",
+    "slug": "signalmd",
+    "updated": "2023-06-06T10:58:04.240Z",
+    "created": "2023-06-06T10:58:04.240Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 71,
+  "fields": {
+    "studio_name": "Tezuka Productions",
+    "slug": "tezuka-productions",
+    "updated": "2023-06-06T10:58:17.411Z",
+    "created": "2023-06-06T10:58:17.411Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 72,
+  "fields": {
+    "studio_name": "Xebec",
+    "slug": "xebec",
+    "updated": "2023-06-06T10:58:24.546Z",
+    "created": "2023-06-06T10:58:24.546Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 73,
+  "fields": {
+    "studio_name": "TNK",
+    "slug": "tnk",
+    "updated": "2023-06-06T10:58:32.471Z",
+    "created": "2023-06-06T10:58:32.471Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 74,
+  "fields": {
+    "studio_name": "Seven Arcs Pictures",
+    "slug": "seven-arcs-pictures",
+    "updated": "2023-06-06T10:59:00.438Z",
+    "created": "2023-06-06T10:59:00.438Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 75,
+  "fields": {
+    "studio_name": "DR Movie",
+    "slug": "dr-movie",
+    "updated": "2023-06-06T10:59:18.042Z",
+    "created": "2023-06-06T10:59:18.042Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 76,
+  "fields": {
+    "studio_name": "Ajia-Do",
+    "slug": "ajia-do",
+    "updated": "2023-06-06T10:59:32.965Z",
+    "created": "2023-06-06T10:59:32.965Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 77,
+  "fields": {
+    "studio_name": "AIC PLUS+",
+    "slug": "aic-plus",
+    "updated": "2023-06-06T10:59:44.597Z",
+    "created": "2023-06-06T10:59:44.597Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 78,
+  "fields": {
+    "studio_name": "T-Rex",
+    "slug": "t-rex",
+    "updated": "2023-06-06T11:01:04.047Z",
+    "created": "2023-06-06T11:01:04.047Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 79,
+  "fields": {
+    "studio_name": "Brain's Base",
+    "slug": "brains-base",
+    "updated": "2023-06-06T11:01:20.538Z",
+    "created": "2023-06-06T11:01:20.539Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 80,
+  "fields": {
+    "studio_name": "Nintendo",
+    "slug": "nintendo",
+    "updated": "2023-06-06T11:01:25.247Z",
+    "created": "2023-06-06T11:01:25.247Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 81,
+  "fields": {
+    "studio_name": "Square Enix",
+    "slug": "square-enix",
+    "updated": "2023-06-06T11:01:37.441Z",
+    "created": "2023-06-06T11:01:37.441Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 82,
+  "fields": {
+    "studio_name": "Nippon Animation",
+    "slug": "nippon-animation",
+    "updated": "2023-06-06T11:02:00.534Z",
+    "created": "2023-06-06T11:02:00.534Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 83,
+  "fields": {
+    "studio_name": "TOHO animation",
+    "slug": "toho-animation",
+    "updated": "2023-06-06T11:02:28.656Z",
+    "created": "2023-06-06T11:02:28.656Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 84,
+  "fields": {
+    "studio_name": "Studio Chizu",
+    "slug": "studio-chizu",
+    "updated": "2023-06-06T11:02:43.593Z",
+    "created": "2023-06-06T11:02:43.593Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 85,
+  "fields": {
+    "studio_name": "Tatsunoko Production",
+    "slug": "tatsunoko-production",
+    "updated": "2023-06-06T11:02:58.633Z",
+    "created": "2023-06-06T11:02:58.633Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 86,
+  "fields": {
+    "studio_name": "Manglobe",
+    "slug": "manglobe",
+    "updated": "2023-06-06T11:03:09.022Z",
+    "created": "2023-06-06T11:03:09.022Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 87,
+  "fields": {
+    "studio_name": "TV Tokyo",
+    "slug": "tv-tokyo",
+    "updated": "2023-06-06T11:03:18.845Z",
+    "created": "2023-06-06T11:03:18.845Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 88,
+  "fields": {
+    "studio_name": "Nitroplus",
+    "slug": "nitroplus",
+    "updated": "2023-06-06T11:03:41.853Z",
+    "created": "2023-06-06T11:03:41.853Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 89,
+  "fields": {
+    "studio_name": "Bandai Namco Entertainment",
+    "slug": "bandai-namco-entertainment",
+    "updated": "2023-06-06T11:04:06.074Z",
+    "created": "2023-06-06T11:04:06.074Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 90,
+  "fields": {
+    "studio_name": "Cygames",
+    "slug": "cygames",
+    "updated": "2023-06-06T11:04:19.529Z",
+    "created": "2023-06-06T11:04:19.529Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 91,
+  "fields": {
+    "studio_name": "Studio 3Hz",
+    "slug": "studio-3hz",
+    "updated": "2023-06-06T11:04:51.305Z",
+    "created": "2023-06-06T11:04:51.305Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 92,
+  "fields": {
+    "studio_name": "Studio Kai",
+    "slug": "studio-kai",
+    "updated": "2023-06-06T11:05:00.586Z",
+    "created": "2023-06-06T11:05:00.586Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 93,
+  "fields": {
+    "studio_name": "studio MOTHER",
+    "slug": "studio-mother",
+    "updated": "2023-06-06T11:05:49.284Z",
+    "created": "2023-06-06T11:05:49.284Z"
+  }
+},
+{
+  "model": "api.studio",
+  "pk": 94,
+  "fields": {
+    "studio_name": "Bandai Namco Games",
+    "slug": "bandai-namco-games",
+    "updated": "2023-06-06T11:06:23.008Z",
+    "created": "2023-06-06T11:06:23.008Z"
   }
 },
 {
