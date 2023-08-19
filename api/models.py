@@ -21,13 +21,14 @@ class Anime(models.Model):
     def save(self, *args, **kwargs):
         self.slug = slugify(self.anime_title)
         super(Anime, self).save(*args, **kwargs)
-    
+
     def __str__(self) -> str:
         return f"{self.id}. {self.anime_title}"
-    
+
     class Meta:
         ordering = ["-anime_score"]
         # ordering = ["anime_title"]
+
 
 class Studio(models.Model):
     studio_name = models.CharField(max_length=255)
@@ -38,9 +39,9 @@ class Studio(models.Model):
     def save(self, *args, **kwargs):
         self.slug = slugify(self.studio_name)
         super(Studio, self).save(*args, **kwargs)
-    
+
     def __str__(self) -> str:
-        return f"{self.id}. {self.studio_name}"
-    
+        return f"{self.studio_name}"
+
     class Meta:
         ordering = ["studio_name"]
