@@ -17,5 +17,17 @@ SELECT
     LENGTH(anime_title) AS LEN_JUDUL
 FROM animelist_anime ORDER BY LENGTH(anime_title) DESC;
 
-SELECT id, mal_id, anime_title, anime_score, api_url, post_url FROM animelist_anime;
 SELECT * FROM animelist_studio ORDER BY studio_name ASC;
+
+-- ======================================================
+-- Query Join tabel anime, studio, dan genre anime
+-- ======================================================
+SELECT
+    animelist_anime.anime_title AS "Judul Anime",
+    animelist_anime.anime_score AS "Score Anime",
+    animelist_anime.airing_time AS "Musim Rilis",
+    animelist_studio.studio_name AS "Studio Produksi",
+    animelist_genreanime.genre AS "Genre Anime"
+FROM animelist_anime
+JOIN animelist_studio ON (animelist_studio.id = animelist_anime.studio_id)
+JOIN animelist_genreanime ON (animelist_genreanime.id = animelist_anime.genre_id); -- query berhasil
