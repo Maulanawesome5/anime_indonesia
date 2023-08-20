@@ -31,6 +31,9 @@ class Studio(Contents):
 class GenreAnime(Contents):
     genre = models.CharField(max_length=50)
 
+    def __str__(self) -> str:
+        return self.genre
+
     class Meta:
         ordering = ["genre"]
 
