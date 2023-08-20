@@ -4,6 +4,9 @@ SELECT VERSION();
 USE django_anime;
 SHOW TABLES;
 
+SELECT * FROM api_anime; SELECT * FROM api_studio;
+DROP TABLE api_anime; DROP TABLE api_studio;
+
 SELECT * FROM api_anime ORDER BY anime_title ASC;
 SELECT * FROM api_anime ORDER BY LENGTH(anime_title) DESC;
 DESCRIBE api_anime; DESCRIBE api_studio;
