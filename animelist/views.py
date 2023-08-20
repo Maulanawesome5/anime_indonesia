@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from api.models import Anime as ApiAnime
+from .models import Anime as DaftarAnime
 from .forms import Pencarian
 import requests
 
@@ -11,7 +11,7 @@ def index(request):
     """
     Function untuk menampilkan halaman pencarian anime
     """
-    anime = ApiAnime.objects.all()
+    anime = DaftarAnime.objects.all()
     form_pencarian = Pencarian()
     context = {
         "Anime": anime,
