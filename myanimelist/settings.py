@@ -31,7 +31,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = os.getenv("DEBUG")
 
 # ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS").split(",")
-ALLOWED_HOSTS = ["*"] # laptop UKM Musik Ubhara
+ALLOWED_HOSTS = ["*"]  # laptop UKM Musik Ubhara
 
 
 # Application definition
@@ -43,10 +43,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
+
     # Django apps untuk membuat REST Server
-    'api.apps.ApiConfig',
-    'rest_framework',
+    # 'api.apps.ApiConfig',
+    # 'rest_framework',
 
     # Modul untuk menangani pertukaran resource
     'corsheaders',
@@ -64,7 +64,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    
+
     # Modul untuk menangani pertukaran resource
     'corsheaders.middleware.CorsMiddleware',
 ]
@@ -108,11 +108,12 @@ WSGI_APPLICATION = 'myanimelist.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': os.getenv("DB_NAME"), # nama database
-        'USER': os.getenv("DB_USER"), # user/admin yang dapat mengakses database
-        'PASSWORD': os.getenv("DB_PASS"), # password user/admin database
-        'HOST': os.getenv("DB_HOST"), # server atau IP database
-        'PORT': os.getenv("DB_PORT"), # server atau IP port database
+        'NAME': os.getenv("DB_NAME"),  # nama database
+        # user/admin yang dapat mengakses database
+        'USER': os.getenv("DB_USER"),
+        'PASSWORD': os.getenv("DB_PASS"),  # password user/admin database
+        'HOST': os.getenv("DB_HOST"),  # server atau IP database
+        'PORT': os.getenv("DB_PORT"),  # server atau IP port database
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
         }
