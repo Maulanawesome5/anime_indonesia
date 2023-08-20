@@ -4,18 +4,18 @@ SELECT VERSION();
 USE django_anime;
 SHOW TABLES;
 
-SELECT * FROM api_anime; SELECT * FROM api_studio;
-DROP TABLE api_anime; DROP TABLE api_studio;
+SELECT * FROM animelist_anime; SELECT * FROM animelist_studio;
+DROP TABLE animelist_anime; DROP TABLE animelist_studio;
 
-SELECT * FROM api_anime ORDER BY anime_title ASC;
-SELECT * FROM api_anime ORDER BY LENGTH(anime_title) DESC;
-DESCRIBE api_anime; DESCRIBE api_studio;
+SELECT * FROM animelist_anime ORDER BY anime_title ASC;
+SELECT * FROM animelist_anime ORDER BY LENGTH(anime_title) DESC;
+DESCRIBE animelist_anime; DESCRIBE animelist_studio;
 
 SELECT
     mal_id AS MAL_ID,
     anime_title AS TITLE,
     LENGTH(anime_title) AS LEN_JUDUL
-FROM api_anime ORDER BY LENGTH(anime_title) DESC;
+FROM animelist_anime ORDER BY LENGTH(anime_title) DESC;
 
-SELECT id, mal_id, anime_title, anime_score, api_url, post_url FROM api_anime;
-SELECT * FROM api_studio ORDER BY studio_name ASC;
+SELECT id, mal_id, anime_title, anime_score, api_url, post_url FROM animelist_anime;
+SELECT * FROM animelist_studio ORDER BY studio_name ASC;
