@@ -1,0 +1,4235 @@
+[
+{
+  "model": "animelist.anime",
+  "pk": 1,
+  "fields": {
+    "mal_id": 22199,
+    "slug": "akame-ga-kill",
+    "updated": "2023-10-13T14:34:41.934Z",
+    "created": "2023-02-13T07:27:02.978Z",
+    "anime_title": "Akame ga Kill!",
+    "anime_score": "7.47",
+    "airing_time": "Summer 2014",
+    "studio": 96,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/22199/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 2,
+  "fields": {
+    "mal_id": 6987,
+    "slug": "aki-sora",
+    "updated": "2023-10-13T14:34:15.547Z",
+    "created": "2023-02-13T07:28:37.405Z",
+    "anime_title": "Aki-Sora",
+    "anime_score": "5.87",
+    "airing_time": "Fall 2009",
+    "studio": 97,
+    "genre": 13,
+    "api_url": "https://api.jikan.moe/v4/anime/6987/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/18611.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 3,
+  "fields": {
+    "mal_id": 8577,
+    "slug": "aki-sora-yume-no-naka",
+    "updated": "2023-10-13T14:34:01.580Z",
+    "created": "2023-02-13T07:29:42.436Z",
+    "anime_title": "Aki-Sora: Yume no Naka",
+    "anime_score": "5.98",
+    "airing_time": "Summer 2010",
+    "studio": 97,
+    "genre": 13,
+    "api_url": "https://api.jikan.moe/v4/anime/8577/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/23461.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 4,
+  "fields": {
+    "mal_id": 10490,
+    "slug": "blood-c",
+    "updated": "2023-10-13T14:39:10.972Z",
+    "created": "2023-02-13T07:31:24.511Z",
+    "anime_title": "Blood-C",
+    "anime_score": "6.53",
+    "airing_time": "Summer 2011",
+    "studio": 100,
+    "genre": 68,
+    "api_url": "https://api.jikan.moe/v4/anime/10490/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/31649.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 5,
+  "fields": {
+    "mal_id": 10681,
+    "slug": "blood-c-the-last-dark",
+    "updated": "2023-10-13T14:39:58.006Z",
+    "created": "2023-02-13T07:32:46.494Z",
+    "anime_title": "Blood-C: The Last Dark",
+    "anime_score": "7.17",
+    "airing_time": "Spring 2012",
+    "studio": 100,
+    "genre": 68,
+    "api_url": "https://api.jikan.moe/v4/anime/10681/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1159/94216.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 10,
+  "fields": {
+    "mal_id": 38790,
+    "slug": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu",
+    "updated": "2023-02-13T12:46:10.041Z",
+    "created": "2023-02-13T12:46:10.041Z",
+    "anime_title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu",
+    "anime_score": "7.56",
+    "airing_time": "Winter 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38790/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1579/113812.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 11,
+  "fields": {
+    "mal_id": 1575,
+    "slug": "code-geass-hangyaku-no-lelouch",
+    "updated": "2023-10-13T14:47:11.411Z",
+    "created": "2023-02-13T12:47:24.331Z",
+    "anime_title": "Code Geass: Hangyaku no Lelouch",
+    "anime_score": "8.70",
+    "airing_time": "Fall 2006",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/1575/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/50331.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 12,
+  "fields": {
+    "mal_id": 2904,
+    "slug": "code-geass-hangyaku-no-lelouch-r2",
+    "updated": "2023-10-13T14:47:46.452Z",
+    "created": "2023-02-13T12:48:13.805Z",
+    "anime_title": "Code Geass: Hangyaku no Lelouch R2",
+    "anime_score": "8.91",
+    "airing_time": "Spring 2008",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/2904/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/9391.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 13,
+  "fields": {
+    "mal_id": 8888,
+    "slug": "code-geass-boukoku-no-akito-1-yokuryuu-wa-maiorita",
+    "updated": "2023-10-13T14:44:09.048Z",
+    "created": "2023-02-13T12:49:32.283Z",
+    "anime_title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+    "anime_score": "7.36",
+    "airing_time": "Summer 2012",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/8888/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/41401.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 14,
+  "fields": {
+    "mal_id": 15197,
+    "slug": "code-geass-boukoku-no-akito-2-hikisakareshi-yokuryuu",
+    "updated": "2023-10-13T14:44:52.352Z",
+    "created": "2023-02-13T12:50:18.272Z",
+    "anime_title": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+    "anime_score": "7.48",
+    "airing_time": "Summer 2013",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/15197/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/56243.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 15,
+  "fields": {
+    "mal_id": 15199,
+    "slug": "code-geass-boukoku-no-akito-3-kagayaku-mono-ten-yori-otsu",
+    "updated": "2023-10-13T14:45:25.007Z",
+    "created": "2023-02-13T12:51:01.692Z",
+    "anime_title": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+    "anime_score": "7.29",
+    "airing_time": "Spring 2015",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/15199/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/72698.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 16,
+  "fields": {
+    "mal_id": 15201,
+    "slug": "code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara",
+    "updated": "2023-10-13T14:45:56.631Z",
+    "created": "2023-02-13T12:51:58.444Z",
+    "anime_title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+    "anime_score": "7.23",
+    "airing_time": "Summer 2015",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/15201/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/74757.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 17,
+  "fields": {
+    "mal_id": 30711,
+    "slug": "code-geass-boukoku-no-akito-5-itoshiki-mono-tachi-e",
+    "updated": "2023-10-13T14:46:27.380Z",
+    "created": "2023-02-13T12:52:39.054Z",
+    "anime_title": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+    "anime_score": "7.13",
+    "airing_time": "Winter 2016",
+    "studio": 102,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/30711/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/77640.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 18,
+  "fields": {
+    "mal_id": 34437,
+    "slug": "code-geass-fukkatsu-no-lelouch",
+    "updated": "2023-10-13T14:48:15.941Z",
+    "created": "2023-02-13T12:53:23.242Z",
+    "anime_title": "Code Geass: Fukkatsu no Lelouch",
+    "anime_score": "7.92",
+    "airing_time": "Winter 2019",
+    "studio": 102,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/34437/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1274/113436.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 19,
+  "fields": {
+    "mal_id": 15037,
+    "slug": "corpse-party-tortured-souls-bougyakusareta-tamashii-no-jukyou",
+    "updated": "2023-10-13T14:49:37.645Z",
+    "created": "2023-02-13T12:54:03.219Z",
+    "anime_title": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+    "anime_score": "6.46",
+    "airing_time": "Summer 2013",
+    "studio": 98,
+    "genre": 11,
+    "api_url": "https://api.jikan.moe/v4/anime/15037/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/78811.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 20,
+  "fields": {
+    "mal_id": 13807,
+    "slug": "corpse-party-missing-footage",
+    "updated": "2023-10-13T14:50:09.151Z",
+    "created": "2023-02-13T12:55:12.761Z",
+    "anime_title": "Corpse Party: Missing Footage",
+    "anime_score": "5.99",
+    "airing_time": "Summer 2012",
+    "studio": 98,
+    "genre": 11,
+    "api_url": "https://api.jikan.moe/v4/anime/13807/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/38331.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 21,
+  "fields": {
+    "mal_id": 12549,
+    "slug": "dakara-boku-wa-h-ga-dekinai",
+    "updated": "2023-10-23T14:27:22.638Z",
+    "created": "2023-02-13T12:55:58.478Z",
+    "anime_title": "Dakara Boku wa, H ga Dekinai",
+    "anime_score": "6.57",
+    "airing_time": "Summer 2012",
+    "studio": 120,
+    "genre": 19,
+    "api_url": "https://api.jikan.moe/v4/anime/12549/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/75102.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 22,
+  "fields": {
+    "mal_id": 35849,
+    "slug": "darling-in-the-franxx",
+    "updated": "2023-10-23T14:28:39.001Z",
+    "created": "2023-02-13T12:56:44.425Z",
+    "anime_title": "Darling in the FranXX",
+    "anime_score": "7.24",
+    "airing_time": "Winter 2018",
+    "studio": 2,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35849/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1614/90408.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 23,
+  "fields": {
+    "mal_id": 15583,
+    "slug": "date-a-live",
+    "updated": "2023-10-13T14:54:34.185Z",
+    "created": "2023-02-13T12:57:25.247Z",
+    "anime_title": "Date A Live",
+    "anime_score": "7.17",
+    "airing_time": "Spring 2013",
+    "studio": 105,
+    "genre": 33,
+    "api_url": "https://api.jikan.moe/v4/anime/15583/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/44844.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 24,
+  "fields": {
+    "mal_id": 19163,
+    "slug": "date-a-live-ii",
+    "updated": "2023-10-13T14:54:51.018Z",
+    "created": "2023-02-13T12:58:01.605Z",
+    "anime_title": "Date A Live II",
+    "anime_score": "7.20",
+    "airing_time": "Spring 2014",
+    "studio": 104,
+    "genre": 33,
+    "api_url": "https://api.jikan.moe/v4/anime/19163/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/76003.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 25,
+  "fields": {
+    "mal_id": 36633,
+    "slug": "date-a-live-iii",
+    "updated": "2023-10-13T14:55:46.630Z",
+    "created": "2023-02-13T12:58:38.506Z",
+    "anime_title": "Date A Live III",
+    "anime_score": "7.18",
+    "airing_time": "Winter 2019",
+    "studio": 106,
+    "genre": 33,
+    "api_url": "https://api.jikan.moe/v4/anime/36633/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1055/100468.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 26,
+  "fields": {
+    "mal_id": 41461,
+    "slug": "date-a-live-iv",
+    "updated": "2023-10-13T14:56:21.579Z",
+    "created": "2023-02-13T13:00:52.309Z",
+    "anime_title": "Date A Live IV",
+    "anime_score": "7.85",
+    "airing_time": "Spring 2022",
+    "studio": 103,
+    "genre": 33,
+    "api_url": "https://api.jikan.moe/v4/anime/41461/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1368/121281.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 27,
+  "fields": {
+    "mal_id": 24655,
+    "slug": "date-a-live-movie-mayuri-judgement",
+    "updated": "2023-10-13T14:57:05.843Z",
+    "created": "2023-02-13T13:01:35.313Z",
+    "anime_title": "Date A Live Movie: Mayuri Judgement",
+    "anime_score": "7.34",
+    "airing_time": "Summer 2015",
+    "studio": 104,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/24655/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/75466.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 28,
+  "fields": {
+    "mal_id": 40416,
+    "slug": "date-a-bullet-dead-or-bullet",
+    "updated": "2023-10-13T14:52:01.861Z",
+    "created": "2023-02-13T13:02:36.904Z",
+    "anime_title": "Date A Bullet: Dead or Bullet",
+    "anime_score": "7.56",
+    "airing_time": "Summer 2020",
+    "studio": 103,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40416/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1984/108425.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 29,
+  "fields": {
+    "mal_id": 42423,
+    "slug": "date-a-bullet-queens-or-nightmare",
+    "updated": "2023-10-13T14:52:25.643Z",
+    "created": "2023-02-13T13:03:25.253Z",
+    "anime_title": "Date A Bullet: Queen's or Nightmare",
+    "anime_score": "7.62",
+    "airing_time": "Fall 2020",
+    "studio": 103,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/42423/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1002/108424.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 30,
+  "fields": {
+    "mal_id": 226,
+    "slug": "elfen-lied",
+    "updated": "2023-10-13T14:59:11.803Z",
+    "created": "2023-02-13T13:04:33.453Z",
+    "anime_title": "Elfen Lied",
+    "anime_score": "7.51",
+    "airing_time": "Summer 2004",
+    "studio": 108,
+    "genre": 32,
+    "api_url": "https://api.jikan.moe/v4/anime/226/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1780/121555.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 31,
+  "fields": {
+    "mal_id": 30,
+    "slug": "neon-genesis-evangelion",
+    "updated": "2023-02-13T13:05:19.879Z",
+    "created": "2023-02-13T13:05:19.879Z",
+    "anime_title": "Neon Genesis Evangelion",
+    "anime_score": "8.34",
+    "airing_time": "Fall 1995",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1314/108941.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 32,
+  "fields": {
+    "mal_id": 32,
+    "slug": "neon-genesis-evangelion-the-end-of-evangelion",
+    "updated": "2023-02-13T13:05:59.879Z",
+    "created": "2023-02-13T13:05:59.879Z",
+    "anime_title": "Neon Genesis Evangelion: The End of Evangelion",
+    "anime_score": "8.55",
+    "airing_time": "Summer 1997",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/32/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1404/98182.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 33,
+  "fields": {
+    "mal_id": 2759,
+    "slug": "evangelion-10-you-are-not-alone",
+    "updated": "2023-10-13T15:02:13.871Z",
+    "created": "2023-02-13T13:41:05.644Z",
+    "anime_title": "Evangelion 1.0 You Are (Not) Alone",
+    "anime_score": "8.02",
+    "airing_time": "Summer 2007",
+    "studio": 109,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/2759/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/74975.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 34,
+  "fields": {
+    "mal_id": 3784,
+    "slug": "evangelion-20-you-can-not-advance",
+    "updated": "2023-10-13T15:01:51.576Z",
+    "created": "2023-02-13T13:41:54.552Z",
+    "anime_title": "Evangelion 2.0 You Can (Not) Advance",
+    "anime_score": "8.32",
+    "airing_time": "Summer 2009",
+    "studio": 109,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/3784/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/74983.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 35,
+  "fields": {
+    "mal_id": 3785,
+    "slug": "evangelion-30-you-can-not-redo",
+    "updated": "2023-10-13T15:03:25.454Z",
+    "created": "2023-02-13T13:42:09.507Z",
+    "anime_title": "Evangelion 3.0 You Can (Not) Redo",
+    "anime_score": "7.62",
+    "airing_time": "Fall 2012",
+    "studio": 109,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/3785/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/43201.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 36,
+  "fields": {
+    "mal_id": 3786,
+    "slug": "evangelion-30-10-thrice-upon-a-time",
+    "updated": "2023-10-13T15:02:45.824Z",
+    "created": "2023-02-13T13:42:22.218Z",
+    "anime_title": "Evangelion 3.0 + 1.0 Thrice Upon a Time",
+    "anime_score": "8.64",
+    "airing_time": "Winter 2021",
+    "studio": 109,
+    "genre": 44,
+    "api_url": "https://api.jikan.moe/v4/anime/3786/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1422/113533.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 37,
+  "fields": {
+    "mal_id": 34662,
+    "slug": "fateapocrypha",
+    "updated": "2023-10-13T15:04:19.468Z",
+    "created": "2023-02-13T14:07:25.679Z",
+    "anime_title": "Fate/Apocrypha",
+    "anime_score": "7.18",
+    "airing_time": "Summer 2017",
+    "studio": 96,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/34662/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/86573.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 38,
+  "fields": {
+    "mal_id": 38085,
+    "slug": "fategrand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram",
+    "updated": "2023-10-13T15:08:59.801Z",
+    "created": "2023-02-13T14:07:44.908Z",
+    "anime_title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+    "anime_score": "6.84",
+    "airing_time": "Fall 2020",
+    "studio": 110,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38085/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1535/103385.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 39,
+  "fields": {
+    "mal_id": 38086,
+    "slug": "fategrand-order-shinsei-entaku-ryouiki-camelot-2-paladin-agateram",
+    "updated": "2023-10-13T15:09:24.217Z",
+    "created": "2023-02-13T14:07:58.228Z",
+    "anime_title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram",
+    "anime_score": "7.58",
+    "airing_time": "Spring 2021",
+    "studio": 100,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38086/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1736/114615.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 40,
+  "fields": {
+    "mal_id": 38084,
+    "slug": "fategrand-order-zettai-majuu-sensen-babylonia",
+    "updated": "2023-10-13T15:10:45.719Z",
+    "created": "2023-02-13T14:08:15.206Z",
+    "anime_title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+    "anime_score": "7.94",
+    "airing_time": "Fall 2019",
+    "studio": 111,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38084/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1194/103420.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 41,
+  "fields": {
+    "mal_id": 41497,
+    "slug": "fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon",
+    "updated": "2023-10-13T15:09:39.466Z",
+    "created": "2023-02-13T14:08:32.980Z",
+    "anime_title": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+    "anime_score": "8.09",
+    "airing_time": "Summer 2021",
+    "studio": 111,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41497/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1507/114957.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 42,
+  "fields": {
+    "mal_id": 356,
+    "slug": "fatestay-night",
+    "updated": "2023-10-13T15:11:45.392Z",
+    "created": "2023-02-13T14:08:46.248Z",
+    "anime_title": "Fate/stay night",
+    "anime_score": "7.29",
+    "airing_time": "Winter 2006",
+    "studio": 112,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/356/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/30327.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 43,
+  "fields": {
+    "mal_id": 22297,
+    "slug": "fatestay-night-unlimited-blade-works",
+    "updated": "2023-10-13T15:15:13.929Z",
+    "created": "2023-02-13T14:08:58.840Z",
+    "anime_title": "Fate/stay night: Unlimited Blade Works",
+    "anime_score": "8.19",
+    "airing_time": "Fall 2014",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/22297/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/67333.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 44,
+  "fields": {
+    "mal_id": 28701,
+    "slug": "fatestay-night-unlimited-blade-works-2nd-season",
+    "updated": "2023-10-13T15:15:50.794Z",
+    "created": "2023-02-13T14:09:11.919Z",
+    "anime_title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "anime_score": "8.32",
+    "airing_time": "Spring 2015",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/28701/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1881/124810.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 45,
+  "fields": {
+    "mal_id": 25537,
+    "slug": "fatestay-night-heavens-feel-i-pressage-flower",
+    "updated": "2023-10-13T15:13:05.038Z",
+    "created": "2023-02-13T14:09:27.701Z",
+    "anime_title": "Fate/stay night: Heaven's Feel - I. Pressage Flower",
+    "anime_score": "8.20",
+    "airing_time": "Fall 2017",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/25537/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1274/102213.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 46,
+  "fields": {
+    "mal_id": 33049,
+    "slug": "fatestay-night-heavens-feel-ii-lost-butterfly",
+    "updated": "2023-10-13T15:13:57.601Z",
+    "created": "2023-02-13T14:09:40.757Z",
+    "anime_title": "Fate/stay night: Heaven's Feel - II. Lost Butterfly",
+    "anime_score": "8.54",
+    "airing_time": "Winter 2019",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/33049/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1974/98158.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 47,
+  "fields": {
+    "mal_id": 33050,
+    "slug": "fatestay-night-heavens-feel-iii-spring-song",
+    "updated": "2023-10-13T15:14:33.706Z",
+    "created": "2023-02-13T14:09:56.241Z",
+    "anime_title": "Fate/stay night: Heaven's Feel - III. Spring Song",
+    "anime_score": "8.72",
+    "airing_time": "Summer 2020",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/33050/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1142/112957.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 48,
+  "fields": {
+    "mal_id": 10087,
+    "slug": "fatezero",
+    "updated": "2023-10-13T15:16:12.543Z",
+    "created": "2023-02-13T14:10:08.673Z",
+    "anime_title": "Fate/Zero",
+    "anime_score": "8.30",
+    "airing_time": "Fall 2011",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/10087/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1887/117644.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 49,
+  "fields": {
+    "mal_id": 11741,
+    "slug": "fatezero-2nd-season",
+    "updated": "2023-10-13T15:16:36.459Z",
+    "created": "2023-02-13T14:10:21.588Z",
+    "anime_title": "Fate/Zero 2nd Season",
+    "anime_score": "8.57",
+    "airing_time": "Spring 2012",
+    "studio": 113,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/11741/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1522/117645.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 50,
+  "fields": {
+    "mal_id": 48760,
+    "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
+    "updated": "2023-10-13T15:24:44.997Z",
+    "created": "2023-02-13T14:10:33.780Z",
+    "anime_title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+    "anime_score": "7.23",
+    "airing_time": "Spring 2022",
+    "studio": 116,
+    "genre": 8,
+    "api_url": "https://api.jikan.moe/v4/anime/48760/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1361/120706.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 51,
+  "fields": {
+    "mal_id": 2775,
+    "slug": "genocyber",
+    "updated": "2023-10-13T15:27:56.869Z",
+    "created": "2023-02-13T14:10:47.672Z",
+    "anime_title": "Genocyber",
+    "anime_score": "5.81",
+    "airing_time": "Winter 1994",
+    "studio": 117,
+    "genre": 32,
+    "api_url": "https://api.jikan.moe/v4/anime/2775/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/3751.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 52,
+  "fields": {
+    "mal_id": 43,
+    "slug": "koukaku-kidoutai",
+    "updated": "2023-02-13T14:25:48.555Z",
+    "created": "2023-02-13T14:25:48.555Z",
+    "anime_title": "Koukaku Kidoutai",
+    "anime_score": "8.28",
+    "airing_time": "Fall 1995",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/43/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/82594.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 53,
+  "fields": {
+    "mal_id": 468,
+    "slug": "koukaku-kidoutai-2-innocence",
+    "updated": "2023-02-13T14:26:06.960Z",
+    "created": "2023-02-13T14:26:06.960Z",
+    "anime_title": "Koukaku Kidoutai 2 - Innocence",
+    "anime_score": "7.80",
+    "airing_time": "Winter 2004",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/468/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/75628.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 54,
+  "fields": {
+    "mal_id": 37349,
+    "slug": "goblin-slayer",
+    "updated": "2023-10-23T14:32:18.531Z",
+    "created": "2023-02-13T14:26:22.486Z",
+    "anime_title": "Goblin Slayer",
+    "anime_score": "7.42",
+    "airing_time": "Fall 2018",
+    "studio": 96,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/37349/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 55,
+  "fields": {
+    "mal_id": 39576,
+    "slug": "goblin-slayer-goblins-crown",
+    "updated": "2023-10-23T14:32:59.818Z",
+    "created": "2023-02-13T14:26:40.890Z",
+    "anime_title": "Goblin Slayer: Goblin's Crown",
+    "anime_score": "7.25",
+    "airing_time": "Winter 2020",
+    "studio": 96,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39576/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1699/110724.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 56,
+  "fields": {
+    "mal_id": 268,
+    "slug": "golden-boy",
+    "updated": "2023-10-23T14:37:50.341Z",
+    "created": "2023-02-13T14:26:59.502Z",
+    "anime_title": "Golden Boy",
+    "anime_score": "8.04",
+    "airing_time": "Fall 1996",
+    "studio": 123,
+    "genre": 6,
+    "api_url": "https://api.jikan.moe/v4/anime/268/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/3/62867.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 57,
+  "fields": {
+    "mal_id": 38101,
+    "slug": "gotoubun-no-hanayome-season-1",
+    "updated": "2023-02-13T14:29:28.853Z",
+    "created": "2023-02-13T14:29:28.853Z",
+    "anime_title": "Gotoubun no Hanayome (Season 1)",
+    "anime_score": "7.68",
+    "airing_time": "Winter 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38101/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1819/97947.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 58,
+  "fields": {
+    "mal_id": 39783,
+    "slug": "gotoubun-no-hanayome-season-2",
+    "updated": "2023-02-13T14:29:43.044Z",
+    "created": "2023-02-13T14:29:43.044Z",
+    "anime_title": "Gotoubun no Hanayome (Season 2)",
+    "anime_score": "8.12",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39783/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 59,
+  "fields": {
+    "mal_id": 10793,
+    "slug": "guilty-crown",
+    "updated": "2023-02-13T14:30:06.880Z",
+    "created": "2023-02-13T14:30:06.880Z",
+    "anime_title": "Guilty Crown",
+    "anime_score": "7.44",
+    "airing_time": "Fall 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/10793/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1566/133912.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 60,
+  "fields": {
+    "mal_id": 41911,
+    "slug": "hanyou-no-yashahime-sengoku-otogizoushi",
+    "updated": "2023-02-13T14:31:06.542Z",
+    "created": "2023-02-13T14:31:06.542Z",
+    "anime_title": "Hanyou no Yashahime - Sengoku Otogizoushi",
+    "anime_score": "6.72",
+    "airing_time": "Fall 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41911/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1005/114781.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 61,
+  "fields": {
+    "mal_id": 48505,
+    "slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-shou",
+    "updated": "2023-02-13T14:31:17.608Z",
+    "created": "2023-02-13T14:31:17.608Z",
+    "anime_title": "Hanyou no Yashahime - Sengoku Otogizoushi Ni Shou",
+    "anime_score": "7.09",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/48505/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1415/118635.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 62,
+  "fields": {
+    "mal_id": 15809,
+    "slug": "hataraku-maou-sama",
+    "updated": "2023-10-23T14:13:42.350Z",
+    "created": "2023-02-13T14:31:28.443Z",
+    "anime_title": "Hataraku Maou-sama!",
+    "anime_score": "7.74",
+    "airing_time": "Spring 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/15809/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/3/50177.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 63,
+  "fields": {
+    "mal_id": 48413,
+    "slug": "hataraku-maou-sama",
+    "updated": "2023-10-23T14:18:12.970Z",
+    "created": "2023-02-13T14:31:39.716Z",
+    "anime_title": "Hataraku Maou-sama!!",
+    "anime_score": "6.66",
+    "airing_time": "Summer 2022",
+    "studio": 118,
+    "genre": 6,
+    "api_url": "https://api.jikan.moe/v4/anime/48413/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1502/124354.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 64,
+  "fields": {
+    "mal_id": 270,
+    "slug": "hellsing",
+    "updated": "2023-02-13T14:31:51.212Z",
+    "created": "2023-02-13T14:31:51.212Z",
+    "anime_title": "Hellsing",
+    "anime_score": "7.49",
+    "airing_time": "Fall 2001",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/270/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 65,
+  "fields": {
+    "mal_id": 11077,
+    "slug": "hellsing-the-dawn",
+    "updated": "2023-02-13T14:32:05.686Z",
+    "created": "2023-02-13T14:32:05.686Z",
+    "anime_title": "Hellsing The Dawn",
+    "anime_score": "7.15",
+    "airing_time": "Summer 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/11077/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/30667.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 66,
+  "fields": {
+    "mal_id": 777,
+    "slug": "hellsing-ultimate",
+    "updated": "2023-02-13T14:32:17.575Z",
+    "created": "2023-02-13T14:32:17.575Z",
+    "anime_title": "Hellsing Ultimate",
+    "anime_score": "8.36",
+    "airing_time": "Winter 2006",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/777/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/7333.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 67,
+  "fields": {
+    "mal_id": 11617,
+    "slug": "high-school-dxd",
+    "updated": "2023-06-06T09:52:39.646Z",
+    "created": "2023-02-13T14:32:29.807Z",
+    "anime_title": "High School DxD",
+    "anime_score": "7.35",
+    "airing_time": "Winter 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/11617/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1331/111940.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 68,
+  "fields": {
+    "mal_id": 15451,
+    "slug": "high-school-dxd-2-new",
+    "updated": "2023-02-13T14:32:41.171Z",
+    "created": "2023-02-13T14:32:41.171Z",
+    "anime_title": "High School DxD 2 New",
+    "anime_score": "7.49",
+    "airing_time": "Summer 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/15451/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/47729.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 69,
+  "fields": {
+    "mal_id": 24703,
+    "slug": "high-school-dxd-3-born",
+    "updated": "2023-02-13T14:32:54.557Z",
+    "created": "2023-02-13T14:32:54.557Z",
+    "anime_title": "High School DxD 3 Born",
+    "anime_score": "7.43",
+    "airing_time": "Spring 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/24703/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/73642.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 70,
+  "fields": {
+    "mal_id": 34281,
+    "slug": "high-school-dxd-4-hero",
+    "updated": "2023-02-13T14:33:10.111Z",
+    "created": "2023-02-13T14:33:10.111Z",
+    "anime_title": "High School DxD 4 Hero",
+    "anime_score": "7.26",
+    "airing_time": "Spring 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/34281/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 71,
+  "fields": {
+    "mal_id": 8074,
+    "slug": "highschool-of-the-dead",
+    "updated": "2023-02-14T12:07:07.338Z",
+    "created": "2023-02-14T12:07:07.338Z",
+    "anime_title": "Highschool Of The Dead",
+    "anime_score": "7.08",
+    "airing_time": "Summer 2010",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/8074/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/11/78311.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 72,
+  "fields": {
+    "mal_id": 934,
+    "slug": "higurashi-no-naku-koro-ni",
+    "updated": "2023-02-14T12:08:30.083Z",
+    "created": "2023-02-14T12:08:30.083Z",
+    "anime_title": "Higurashi no Naku Koro ni",
+    "anime_score": "7.90",
+    "airing_time": "Spring 2006",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/934/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/19634.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 73,
+  "fields": {
+    "mal_id": 1889,
+    "slug": "higurashi-no-naku-koro-ni-kai",
+    "updated": "2023-02-14T12:08:45.557Z",
+    "created": "2023-02-14T12:08:45.557Z",
+    "anime_title": "Higurashi no Naku Koro ni Kai",
+    "anime_score": "8.37",
+    "airing_time": "Winter 2007",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/1889/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/14114.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 74,
+  "fields": {
+    "mal_id": 3652,
+    "slug": "higurashi-no-naku-koro-ni-rei",
+    "updated": "2023-02-14T12:08:59.895Z",
+    "created": "2023-02-14T12:08:59.895Z",
+    "anime_title": "Higurashi no Naku Koro ni Rei",
+    "anime_score": "7.41",
+    "airing_time": "Winter 2009",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/3652/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/14113.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 75,
+  "fields": {
+    "mal_id": 41006,
+    "slug": "higurashi-no-naku-koro-ni-gou",
+    "updated": "2023-02-14T12:09:15.211Z",
+    "created": "2023-02-14T12:09:15.211Z",
+    "anime_title": "Higurashi no Naku Koro ni Gou",
+    "anime_score": "7.20",
+    "airing_time": "Fall 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41006/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 76,
+  "fields": {
+    "mal_id": 48488,
+    "slug": "higurashi-no-naku-koro-ni-sotsu",
+    "updated": "2023-02-14T12:09:31.320Z",
+    "created": "2023-02-14T12:09:31.320Z",
+    "anime_title": "Higurashi no Naku Koro ni Sotsu",
+    "anime_score": "6.77",
+    "airing_time": "Summer 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/48488/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1083/115046.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 77,
+  "fields": {
+    "mal_id": 8277,
+    "slug": "hyakka-ryouran-samurai-girls",
+    "updated": "2023-02-14T12:09:59.051Z",
+    "created": "2023-02-14T12:09:59.051Z",
+    "anime_title": "Hyakka Ryouran - Samurai Girls",
+    "anime_score": "6.78",
+    "airing_time": "Fall 2010",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/8277/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/27705.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 78,
+  "fields": {
+    "mal_id": 15377,
+    "slug": "hyakka-ryouran-samurai-bride",
+    "updated": "2023-02-14T12:10:30.233Z",
+    "created": "2023-02-14T12:10:30.233Z",
+    "anime_title": "Hyakka Ryouran - Samurai Bride",
+    "anime_score": "6.73",
+    "airing_time": "Spring 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/15377/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/45248.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 79,
+  "fields": {
+    "mal_id": 9041,
+    "slug": "infinite-stratos",
+    "updated": "2023-06-06T09:53:05.279Z",
+    "created": "2023-02-14T12:10:43.235Z",
+    "anime_title": "Infinite Stratos",
+    "anime_score": "6.65",
+    "airing_time": "Winter 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/9041/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/3/74045.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 80,
+  "fields": {
+    "mal_id": 10794,
+    "slug": "infinite-stratos-1-encore-koi-ni-kogareru-rokujuusou",
+    "updated": "2023-02-14T12:15:44.589Z",
+    "created": "2023-02-14T12:15:44.589Z",
+    "anime_title": "Infinite Stratos 1 Encore - Koi ni Kogareru Rokujuusou",
+    "anime_score": "6.86",
+    "airing_time": "Fall 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/10794/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/56161.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 81,
+  "fields": {
+    "mal_id": 18247,
+    "slug": "infinite-stratos-2",
+    "updated": "2023-02-14T12:16:04.550Z",
+    "created": "2023-02-14T12:16:04.550Z",
+    "anime_title": "Infinite Stratos 2",
+    "anime_score": "6.48",
+    "airing_time": "Fall 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/18247/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/49359.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 82,
+  "fields": {
+    "mal_id": 20045,
+    "slug": "infinite-stratos-2-hitonatsu-no-omoide",
+    "updated": "2023-02-14T12:16:20.794Z",
+    "created": "2023-02-14T12:16:20.794Z",
+    "anime_title": "Infinite Stratos 2 - Hitonatsu no Omoide",
+    "anime_score": "6.88",
+    "airing_time": "Fall 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/20045/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/56159.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 83,
+  "fields": {
+    "mal_id": 21653,
+    "slug": "infinite-stratos-2-world-purge-hen",
+    "updated": "2023-02-14T12:16:43.079Z",
+    "created": "2023-02-14T12:16:43.079Z",
+    "anime_title": "Infinite Stratos 2 - World Purge-hen",
+    "anime_score": "6.88",
+    "airing_time": "Fall 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/21653/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/67545.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 84,
+  "fields": {
+    "mal_id": 33242,
+    "slug": "infinite-stratos-2-infinite-wedding",
+    "updated": "2023-02-14T12:18:18.226Z",
+    "created": "2023-02-14T12:18:18.226Z",
+    "anime_title": "Infinite Stratos 2 - Infinite Wedding",
+    "anime_score": "6.39",
+    "airing_time": "Spring 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/33242/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1323/108709.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 85,
+  "fields": {
+    "mal_id": 249,
+    "slug": "inuyasha",
+    "updated": "2023-02-14T12:18:34.263Z",
+    "created": "2023-02-14T12:18:34.263Z",
+    "anime_title": "InuYasha",
+    "anime_score": "7.85",
+    "airing_time": "Fall 2000",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/249/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 86,
+  "fields": {
+    "mal_id": 452,
+    "slug": "inuyasha-movie-1-toki-wo-koeru-omoi",
+    "updated": "2023-02-14T12:20:26.350Z",
+    "created": "2023-02-14T12:20:26.350Z",
+    "anime_title": "InuYasha Movie 1 - Toki wo Koeru Omoi",
+    "anime_score": "7.56",
+    "airing_time": "Fall 2001",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/452/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1683/94370.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 87,
+  "fields": {
+    "mal_id": 450,
+    "slug": "inuyasha-movie-2-kagami-no-naka-no-mugenjo",
+    "updated": "2023-02-14T12:20:41.197Z",
+    "created": "2023-02-14T12:20:41.197Z",
+    "anime_title": "InuYasha Movie 2 - Kagami no Naka no Mugenjo",
+    "anime_score": "7.67",
+    "airing_time": "Fall 2002",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/450/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1162/92219.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 88,
+  "fields": {
+    "mal_id": 451,
+    "slug": "inuyasha-movie-3-tenka-hadou-no-ken",
+    "updated": "2023-02-14T12:20:58.302Z",
+    "created": "2023-02-14T12:20:58.302Z",
+    "anime_title": "InuYasha Movie 3 - Tenka Hadou no Ken",
+    "anime_score": "7.80",
+    "airing_time": "Fall 2003",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/451/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 89,
+  "fields": {
+    "mal_id": 449,
+    "slug": "inuyasha-movie-4-guren-no-houraijima",
+    "updated": "2023-02-14T12:21:11.252Z",
+    "created": "2023-02-14T12:21:11.252Z",
+    "anime_title": "InuYasha Movie 4 - Guren no Houraijima",
+    "anime_score": "7.55",
+    "airing_time": "Fall 2004",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/449/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1216/94369.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 90,
+  "fields": {
+    "mal_id": 6811,
+    "slug": "inuyasha-the-final-act",
+    "updated": "2023-02-14T12:21:23.585Z",
+    "created": "2023-02-14T12:21:23.585Z",
+    "anime_title": "InuYasha The Final Act",
+    "anime_score": "8.20",
+    "airing_time": "Fall 2009",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/6811/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/75570.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 91,
+  "fields": {
+    "mal_id": 44524,
+    "slug": "isekai-meikyuu-de-harem-wo",
+    "updated": "2023-02-14T12:21:40.082Z",
+    "created": "2023-02-14T12:21:40.082Z",
+    "anime_title": "Isekai Meikyuu de Harem wo",
+    "anime_score": "6.61",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/44524/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1490/126919.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 92,
+  "fields": {
+    "mal_id": 635,
+    "slug": "juubee-chan-1-lovely-gantai-no-himitsu",
+    "updated": "2023-02-14T12:22:16.172Z",
+    "created": "2023-02-14T12:22:16.172Z",
+    "anime_title": "Juubee-chan 1: Lovely Gantai no Himitsu",
+    "anime_score": "6.67",
+    "airing_time": "Spring 1999",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/635/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/60987.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 93,
+  "fields": {
+    "mal_id": 636,
+    "slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu",
+    "updated": "2023-02-14T12:22:31.481Z",
+    "created": "2023-02-14T12:22:31.481Z",
+    "anime_title": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+    "anime_score": "6.85",
+    "airing_time": "Winter 2004",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/636/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/20768.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 94,
+  "fields": {
+    "mal_id": 40750,
+    "slug": "kaifuku-jutsushi-no-yarinaoshi",
+    "updated": "2023-02-14T12:22:47.236Z",
+    "created": "2023-02-14T12:22:47.236Z",
+    "anime_title": "Kaifuku Jutsushi no Yarinaoshi",
+    "anime_score": "6.33",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40750/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1301/110018.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 95,
+  "fields": {
+    "mal_id": 40839,
+    "slug": "kanojo-okarishimasu",
+    "updated": "2023-02-14T12:23:06.297Z",
+    "created": "2023-02-14T12:23:06.297Z",
+    "anime_title": "Kanojo Okarishimasu",
+    "anime_score": "7.23",
+    "airing_time": "Summer 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40839/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1902/128382.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 96,
+  "fields": {
+    "mal_id": 42963,
+    "slug": "kanojo-okarishimasu-2",
+    "updated": "2023-02-14T12:23:24.036Z",
+    "created": "2023-02-14T12:23:24.036Z",
+    "anime_title": "Kanojo Okarishimasu 2",
+    "anime_score": "6.88",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/42963/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1070/124592.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 97,
+  "fields": {
+    "mal_id": 45613,
+    "slug": "kawaii-dake-ja-nai-shikimori-san",
+    "updated": "2023-02-14T12:23:37.290Z",
+    "created": "2023-02-14T12:23:37.290Z",
+    "anime_title": "Kawaii dake ja Nai Shikimori-san",
+    "anime_score": "6.69",
+    "airing_time": "Spring 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/45613/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1995/121695.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 98,
+  "fields": {
+    "mal_id": 1606,
+    "slug": "kekkaishi",
+    "updated": "2023-02-14T12:23:57.859Z",
+    "created": "2023-02-14T12:23:57.859Z",
+    "anime_title": "Kekkaishi",
+    "anime_score": "7.60",
+    "airing_time": "Fall 2006",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/1606/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/75191.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 99,
+  "fields": {
+    "mal_id": 40908,
+    "slug": "kemono-jihen",
+    "updated": "2023-02-14T12:24:13.335Z",
+    "created": "2023-02-14T12:24:13.335Z",
+    "anime_title": "Kemono Jihen",
+    "anime_score": "7.42",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40908/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1258/108331.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 100,
+  "fields": {
+    "mal_id": 34964,
+    "slug": "killing-bites",
+    "updated": "2023-02-14T12:24:29.400Z",
+    "created": "2023-02-14T12:24:29.400Z",
+    "anime_title": "Killing Bites",
+    "anime_score": "6.58",
+    "airing_time": "Winter 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/34964/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/90087.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 101,
+  "fields": {
+    "mal_id": 38000,
+    "slug": "kimetsu-no-yaiba",
+    "updated": "2023-06-06T09:53:57.419Z",
+    "created": "2023-02-14T12:25:23.999Z",
+    "anime_title": "Kimetsu no Yaiba",
+    "anime_score": "8.55",
+    "airing_time": "Spring 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38000/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 102,
+  "fields": {
+    "mal_id": 49926,
+    "slug": "kimetsu-no-yaiba-mugen-ressha-hen",
+    "updated": "2023-06-06T09:54:13.468Z",
+    "created": "2023-02-14T12:25:40.394Z",
+    "anime_title": "Kimetsu no Yaiba - Mugen Ressha hen",
+    "anime_score": "8.39",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/49926/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1065/118763.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 103,
+  "fields": {
+    "mal_id": 47778,
+    "slug": "kimetsu-no-yaiba-2-yuukaku-hen",
+    "updated": "2023-02-14T12:25:55.828Z",
+    "created": "2023-02-14T12:25:55.828Z",
+    "anime_title": "Kimetsu no Yaiba 2 - Yuukaku hen",
+    "anime_score": "8.87",
+    "airing_time": "Winter 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/47778/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1908/120036.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 104,
+  "fields": {
+    "mal_id": 51213,
+    "slug": "kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-no-tsukisusumu",
+    "updated": "2023-05-22T04:06:06.007Z",
+    "created": "2023-02-14T12:26:10.322Z",
+    "anime_title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai no Tsukisusumu",
+    "anime_score": "7.33",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51213/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1561/125302.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 105,
+  "fields": {
+    "mal_id": 22535,
+    "slug": "kiseijuu-sei-no-kakuritsu",
+    "updated": "2023-02-14T12:26:24.798Z",
+    "created": "2023-02-14T12:26:24.798Z",
+    "anime_title": "Kiseijuu Sei no Kakuritsu",
+    "anime_score": "8.35",
+    "airing_time": "Fall 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/22535/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/3/73178.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 106,
+  "fields": {
+    "mal_id": 30831,
+    "slug": "kono-subarashii-sekai-ni-syukufuku-wo",
+    "updated": "2023-03-15T13:53:39.663Z",
+    "created": "2023-02-14T12:26:41.995Z",
+    "anime_title": "Kono Subarashii Sekai ni Syukufuku Wo",
+    "anime_score": "8.12",
+    "airing_time": "Winter 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30831/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/8/77831.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 107,
+  "fields": {
+    "mal_id": 32937,
+    "slug": "kono-subarashii-sekai-ni-syukufuku-wo-2",
+    "updated": "2023-02-14T12:26:56.506Z",
+    "created": "2023-02-14T12:26:56.506Z",
+    "anime_title": "Kono Subarashii Sekai ni Syukufuku Wo 2",
+    "anime_score": "8.28",
+    "airing_time": "Winter 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/32937/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/83188.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 108,
+  "fields": {
+    "mal_id": 38040,
+    "slug": "konosuba-movie-kurenai-densetsu",
+    "updated": "2023-02-14T12:27:10.810Z",
+    "created": "2023-02-14T12:27:10.810Z",
+    "anime_title": "Konosuba Movie - Kurenai Densetsu",
+    "anime_score": "8.47",
+    "airing_time": "Summer 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38040/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1638/119321.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 109,
+  "fields": {
+    "mal_id": 8841,
+    "slug": "kore-wa-zombie-desu-ka",
+    "updated": "2023-06-06T09:54:36.401Z",
+    "created": "2023-02-14T12:27:31.313Z",
+    "anime_title": "Kore wa Zombie Desu ka",
+    "anime_score": "7.37",
+    "airing_time": "Winter 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/8841/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/75521.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 110,
+  "fields": {
+    "mal_id": 10790,
+    "slug": "kore-wa-zombie-desu-ka-2",
+    "updated": "2023-02-14T12:27:45.142Z",
+    "created": "2023-02-14T12:27:45.142Z",
+    "anime_title": "Kore wa Zombie Desu ka 2",
+    "anime_score": "7.51",
+    "airing_time": "Spring 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/10790/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/37451.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 111,
+  "fields": {
+    "mal_id": 10620,
+    "slug": "mirai-nikki",
+    "updated": "2023-02-14T12:28:00.091Z",
+    "created": "2023-02-14T12:28:00.091Z",
+    "anime_title": "Mirai Nikki",
+    "anime_score": "7.45",
+    "airing_time": "Fall 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/10620/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/33465.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 112,
+  "fields": {
+    "mal_id": 14833,
+    "slug": "maoyuu-maou-yuusha",
+    "updated": "2023-02-14T12:28:13.971Z",
+    "created": "2023-02-14T12:28:13.971Z",
+    "anime_title": "Maoyuu Maou Yuusha",
+    "anime_score": "7.26",
+    "airing_time": "Winter 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/14833/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/46041.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 113,
+  "fields": {
+    "mal_id": 5081,
+    "slug": "bakemonogatari",
+    "updated": "2023-10-13T14:37:45.044Z",
+    "created": "2023-02-14T12:28:27.733Z",
+    "anime_title": "Bakemonogatari",
+    "anime_score": "8.34",
+    "airing_time": "Summer 2009",
+    "studio": 99,
+    "genre": 12,
+    "api_url": "https://api.jikan.moe/v4/anime/5081/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/11/75274.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 114,
+  "fields": {
+    "mal_id": 9260,
+    "slug": "kizumonogatari-1-tekketsu-hen",
+    "updated": "2023-02-14T12:28:41.510Z",
+    "created": "2023-02-14T12:28:41.510Z",
+    "anime_title": "Kizumonogatari 1 - Tekketsu hen",
+    "anime_score": "8.38",
+    "airing_time": "Winter 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/9260/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1783/112810.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 115,
+  "fields": {
+    "mal_id": 31757,
+    "slug": "kizumonogatari-2-nekketsu-hen",
+    "updated": "2023-02-14T12:28:55.523Z",
+    "created": "2023-02-14T12:28:55.523Z",
+    "anime_title": "Kizumonogatari 2 - Nekketsu hen",
+    "anime_score": "8.59",
+    "airing_time": "Summer 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/31757/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1981/112812.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 116,
+  "fields": {
+    "mal_id": 31758,
+    "slug": "kizumonogatari-3-reiketsu-hen",
+    "updated": "2023-02-14T12:29:09.067Z",
+    "created": "2023-02-14T12:29:09.067Z",
+    "anime_title": "Kizumonogatari 3 - Reiketsu hen",
+    "anime_score": "8.80",
+    "airing_time": "Winter 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/31758/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1084/112813.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 117,
+  "fields": {
+    "mal_id": 32268,
+    "slug": "koyomimonogatari",
+    "updated": "2023-02-14T12:29:27.884Z",
+    "created": "2023-02-14T12:29:27.884Z",
+    "anime_title": "Koyomimonogatari",
+    "anime_score": "7.64",
+    "airing_time": "Winter 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/32268/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/77744.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 118,
+  "fields": {
+    "mal_id": 17074,
+    "slug": "monogatari-series-2nd-season",
+    "updated": "2023-02-14T12:29:41.822Z",
+    "created": "2023-02-14T12:29:41.822Z",
+    "anime_title": "Monogatari Series 2nd Season",
+    "anime_score": "8.78",
+    "airing_time": "Summer 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/17074/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1807/121534.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 119,
+  "fields": {
+    "mal_id": 15689,
+    "slug": "nekomonogatari-kuro",
+    "updated": "2023-02-14T12:30:16.431Z",
+    "created": "2023-02-14T12:30:16.431Z",
+    "anime_title": "Nekomonogatari - Kuro",
+    "anime_score": "7.49",
+    "airing_time": "Fall 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/15689/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1170/121597.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 120,
+  "fields": {
+    "mal_id": 11597,
+    "slug": "nisemonogatari",
+    "updated": "2023-02-14T12:30:31.323Z",
+    "created": "2023-02-14T12:30:31.323Z",
+    "anime_title": "Nisemonogatari",
+    "anime_score": "8.15",
+    "airing_time": "Winter 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/11597/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1044/103654.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 121,
+  "fields": {
+    "mal_id": 31181,
+    "slug": "owarimonogatari",
+    "updated": "2023-02-14T12:30:45.689Z",
+    "created": "2023-02-14T12:30:45.689Z",
+    "anime_title": "Owarimonogatari",
+    "anime_score": "8.46",
+    "airing_time": "Fall 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/31181/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/8/76479.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 122,
+  "fields": {
+    "mal_id": 35247,
+    "slug": "owarimonogatari-2",
+    "updated": "2023-02-14T12:30:59.110Z",
+    "created": "2023-02-14T12:30:59.110Z",
+    "anime_title": "Owarimonogatari 2",
+    "anime_score": "8.90",
+    "airing_time": "Summer 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35247/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/87322.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 123,
+  "fields": {
+    "mal_id": 28025,
+    "slug": "tsukimonogatari",
+    "updated": "2023-02-14T12:31:13.845Z",
+    "created": "2023-02-14T12:31:13.845Z",
+    "anime_title": "Tsukimonogatari",
+    "anime_score": "8.11",
+    "airing_time": "Fall 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/28025/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/68259.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 124,
+  "fields": {
+    "mal_id": 40708,
+    "slug": "monster-musume-no-oisha-san",
+    "updated": "2023-02-14T12:31:34.146Z",
+    "created": "2023-02-14T12:31:34.146Z",
+    "anime_title": "Monster Musume no Oisha-san",
+    "anime_score": "6.25",
+    "airing_time": "Summer 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40708/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1762/106598.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 125,
+  "fields": {
+    "mal_id": 617,
+    "slug": "juubee-ninpuuchou",
+    "updated": "2023-02-14T12:31:52.739Z",
+    "created": "2023-02-14T12:31:52.739Z",
+    "anime_title": "Juubee Ninpuuchou",
+    "anime_score": "7.61",
+    "airing_time": "Spring 1993",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/617/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1834/116568.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 126,
+  "fields": {
+    "mal_id": 618,
+    "slug": "juubee-ninpuuchou-ryuuhougyoku-hen",
+    "updated": "2023-02-14T12:32:10.517Z",
+    "created": "2023-02-14T12:32:10.517Z",
+    "anime_title": "Juubee Ninpuuchou - Ryuuhougyoku hen",
+    "anime_score": "6.68",
+    "airing_time": "Spring 2003",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/618/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1898/103439.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 127,
+  "fields": {
+    "mal_id": 18897,
+    "slug": "nisekoi-1",
+    "updated": "2023-02-14T12:32:28.395Z",
+    "created": "2023-02-14T12:32:28.395Z",
+    "anime_title": "Nisekoi 1",
+    "anime_score": "7.59",
+    "airing_time": "Winter 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/18897/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/75587.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 128,
+  "fields": {
+    "mal_id": 27787,
+    "slug": "nisekoi-2",
+    "updated": "2023-02-14T12:32:46.027Z",
+    "created": "2023-02-14T12:32:46.027Z",
+    "anime_title": "Nisekoi 2",
+    "anime_score": "7.36",
+    "airing_time": "Spring 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/27787/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/13/72626.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 129,
+  "fields": {
+    "mal_id": 24227,
+    "slug": "nisekoi-ova",
+    "updated": "2023-02-14T12:33:18.274Z",
+    "created": "2023-02-14T12:33:18.274Z",
+    "anime_title": "Nisekoi OVA",
+    "anime_score": "7.37",
+    "airing_time": "Fall 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/24227/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/71754.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 130,
+  "fields": {
+    "mal_id": 41345,
+    "slug": "nobless",
+    "updated": "2023-02-14T12:33:30.501Z",
+    "created": "2023-02-14T12:33:30.501Z",
+    "anime_title": "Nobless",
+    "anime_score": "6.87",
+    "airing_time": "Fall 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41345/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1903/111646.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 131,
+  "fields": {
+    "mal_id": 28819,
+    "slug": "okusama-ga-seitokaichou",
+    "updated": "2023-02-14T12:33:42.659Z",
+    "created": "2023-02-14T12:33:42.659Z",
+    "anime_title": "Okusama ga Seitokaichou",
+    "anime_score": "6.60",
+    "airing_time": "Summer 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/28819/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/75012.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 132,
+  "fields": {
+    "mal_id": 32603,
+    "slug": "okusama-ga-seitokaichou",
+    "updated": "2023-02-14T12:33:55.621Z",
+    "created": "2023-02-14T12:33:55.621Z",
+    "anime_title": "Okusama ga Seitokaichou +",
+    "anime_score": "6.60",
+    "airing_time": "Fall 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/32603/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/8/82409.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 133,
+  "fields": {
+    "mal_id": 41899,
+    "slug": "ore-dake-haireru-kakushi-dungeon",
+    "updated": "2023-02-14T12:34:08.241Z",
+    "created": "2023-02-14T12:34:08.241Z",
+    "anime_title": "Ore dake Haireru Kakushi Dungeon",
+    "anime_score": "6.30",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41899/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1988/115708.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 134,
+  "fields": {
+    "mal_id": 29803,
+    "slug": "overlord-i",
+    "updated": "2023-02-14T12:34:21.762Z",
+    "created": "2023-02-14T12:34:21.762Z",
+    "anime_title": "Overlord I",
+    "anime_score": "7.92",
+    "airing_time": "Summer 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/29803/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/88019.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 135,
+  "fields": {
+    "mal_id": 35073,
+    "slug": "overlord-ii",
+    "updated": "2023-02-14T12:34:51.258Z",
+    "created": "2023-02-14T12:34:51.258Z",
+    "anime_title": "Overlord II",
+    "anime_score": "7.76",
+    "airing_time": "Winter 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35073/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1212/113415.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 136,
+  "fields": {
+    "mal_id": 37675,
+    "slug": "overlord-iii",
+    "updated": "2023-02-14T12:40:29.802Z",
+    "created": "2023-02-14T12:40:29.802Z",
+    "anime_title": "Overlord III",
+    "anime_score": "7.92",
+    "airing_time": "Summer 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/37675/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1511/93473.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 137,
+  "fields": {
+    "mal_id": 48895,
+    "slug": "overlord-iv",
+    "updated": "2023-02-14T12:40:42.685Z",
+    "created": "2023-02-14T12:40:42.685Z",
+    "anime_title": "Overlord IV",
+    "anime_score": "8.33",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/48895/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1530/120110.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 138,
+  "fields": {
+    "mal_id": 30240,
+    "slug": "prison-school",
+    "updated": "2023-02-14T12:40:53.842Z",
+    "created": "2023-02-14T12:40:53.842Z",
+    "anime_title": "Prison School",
+    "anime_score": "7.62",
+    "airing_time": "Summer 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30240/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1286/112161.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 139,
+  "fields": {
+    "mal_id": 2993,
+    "slug": "rosario-to-vampire-1",
+    "updated": "2023-02-14T12:41:05.945Z",
+    "created": "2023-02-14T12:41:05.945Z",
+    "anime_title": "Rosario to Vampire 1",
+    "anime_score": "6.77",
+    "airing_time": "Winter 2008",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/2993/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/75242.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 140,
+  "fields": {
+    "mal_id": 4214,
+    "slug": "rosario-to-vampire-2",
+    "updated": "2023-02-14T12:41:18.355Z",
+    "created": "2023-02-14T12:41:18.355Z",
+    "anime_title": "Rosario to Vampire 2",
+    "anime_score": "6.91",
+    "airing_time": "Fall 2008",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/4214/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/25093.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 143,
+  "fields": {
+    "mal_id": 23277,
+    "slug": "saenai-heroine-no-sodatekata-1",
+    "updated": "2023-02-15T15:47:49.731Z",
+    "created": "2023-02-15T15:47:49.731Z",
+    "anime_title": "Saenai Heroine no Sodatekata 1",
+    "anime_score": "7.50",
+    "airing_time": "Winter 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/23277/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/68783.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 144,
+  "fields": {
+    "mal_id": 30727,
+    "slug": "saenai-heroine-no-sodatekata-2",
+    "updated": "2023-02-15T15:48:03.481Z",
+    "created": "2023-02-15T15:48:03.481Z",
+    "anime_title": "Saenai Heroine no Sodatekata 2",
+    "anime_score": "7.78",
+    "airing_time": "Spring 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30727/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/84797.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 145,
+  "fields": {
+    "mal_id": 30749,
+    "slug": "saijaku-muhai-no-bahamut",
+    "updated": "2023-02-15T15:48:16.256Z",
+    "created": "2023-02-15T15:48:16.256Z",
+    "anime_title": "Saijaku Muhai no Bahamut",
+    "anime_score": "6.55",
+    "airing_time": "Winter 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30749/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/76664.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 146,
+  "fields": {
+    "mal_id": 2476,
+    "slug": "school-days",
+    "updated": "2023-02-15T15:48:29.917Z",
+    "created": "2023-02-15T15:48:29.917Z",
+    "anime_title": "School Days",
+    "anime_score": "5.55",
+    "airing_time": "Summer 2007",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/2476/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1593/122440.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 147,
+  "fields": {
+    "mal_id": 4063,
+    "slug": "sekirei-1",
+    "updated": "2023-02-15T15:48:48.385Z",
+    "created": "2023-02-15T15:48:48.385Z",
+    "anime_title": "Sekirei 1",
+    "anime_score": "7.06",
+    "airing_time": "Summer 2008",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/4063/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/15182.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 148,
+  "fields": {
+    "mal_id": 5277,
+    "slug": "sekirei-2-pure-engagement",
+    "updated": "2023-02-15T15:49:01.520Z",
+    "created": "2023-02-15T15:49:01.520Z",
+    "anime_title": "Sekirei 2 - Pure Engagement",
+    "anime_score": "7.30",
+    "airing_time": "Summer 2010",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/5277/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/75178.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 149,
+  "fields": {
+    "mal_id": 29786,
+    "slug": "shimoneta-to-lu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+    "updated": "2023-02-15T15:49:25.861Z",
+    "created": "2023-02-15T15:49:25.861Z",
+    "anime_title": "Shimoneta to lu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "anime_score": "7.27",
+    "airing_time": "Summer 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/29786/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/75106.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 150,
+  "fields": {
+    "mal_id": 21843,
+    "slug": "shingeki-no-bahamut-genesis",
+    "updated": "2023-02-15T15:49:39.488Z",
+    "created": "2023-02-15T15:49:39.488Z",
+    "anime_title": "Shingeki no Bahamut - Genesis",
+    "anime_score": "7.63",
+    "airing_time": "Fall 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/21843/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/67513.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 151,
+  "fields": {
+    "mal_id": 169,
+    "slug": "shingetsutan-tsukihime",
+    "updated": "2023-02-15T15:49:55.411Z",
+    "created": "2023-02-15T15:49:55.411Z",
+    "anime_title": "Shingetsutan Tsukihime",
+    "anime_score": "6.89",
+    "airing_time": "Fall 2003",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/169/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/20669.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 152,
+  "fields": {
+    "mal_id": 23233,
+    "slug": "shinmai-maou-no-testament-1",
+    "updated": "2023-02-15T15:50:08.104Z",
+    "created": "2023-02-15T15:50:08.104Z",
+    "anime_title": "Shinmai Maou no Testament 1",
+    "anime_score": "6.73",
+    "airing_time": "Winter 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/23233/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1654/112033.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 153,
+  "fields": {
+    "mal_id": 29027,
+    "slug": "shinmai-maou-no-testament-1-ova-toujou-basara-no-hard-sweet-na-nichijou",
+    "updated": "2023-02-15T15:50:29.469Z",
+    "created": "2023-02-15T15:50:29.469Z",
+    "anime_title": "Shinmai Maou no Testament 1 OVA - Toujou Basara no Hard Sweet na Nichijou",
+    "anime_score": "6.93",
+    "airing_time": "Spring 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/29027/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/69911.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 154,
+  "fields": {
+    "mal_id": 30363,
+    "slug": "shinmai-maou-no-testament-2-burst",
+    "updated": "2023-02-15T15:50:41.375Z",
+    "created": "2023-02-15T15:50:41.375Z",
+    "anime_title": "Shinmai Maou no Testament 2 Burst",
+    "anime_score": "6.83",
+    "airing_time": "Fall 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30363/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1151/94750.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 155,
+  "fields": {
+    "mal_id": 30365,
+    "slug": "shinmai-maou-no-testament-2-burst-toujou-basara-no-shigoku-heiwa-na-nichijou",
+    "updated": "2023-02-15T15:50:57.882Z",
+    "created": "2023-02-15T15:50:57.882Z",
+    "anime_title": "Shinmai Maou no Testament 2 Burst - Toujou Basara no Shigoku Heiwa na Nichijou",
+    "anime_score": "6.77",
+    "airing_time": "Winter 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30365/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1568/95614.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 156,
+  "fields": {
+    "mal_id": 36688,
+    "slug": "shinmai-maou-no-testament-departure",
+    "updated": "2023-02-15T15:51:09.625Z",
+    "created": "2023-02-15T15:51:09.625Z",
+    "anime_title": "Shinmai Maou no Testament - Departure",
+    "anime_score": "6.92",
+    "airing_time": "Winter 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/36688/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1395/95778.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 157,
+  "fields": {
+    "mal_id": 41946,
+    "slug": "shuumatsu-no-harem",
+    "updated": "2023-02-15T15:51:21.094Z",
+    "created": "2023-02-15T15:51:21.094Z",
+    "anime_title": "Shuumatsu no Harem",
+    "anime_score": "5.99",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41946/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1491/117296.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 158,
+  "fields": {
+    "mal_id": 40586,
+    "slug": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita",
+    "updated": "2023-02-15T15:51:34.861Z",
+    "created": "2023-02-15T15:51:34.861Z",
+    "anime_title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+    "anime_score": "6.97",
+    "airing_time": "Spring 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40586/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1888/133089.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 159,
+  "fields": {
+    "mal_id": 9253,
+    "slug": "steins-gate",
+    "updated": "2023-02-15T15:51:51.842Z",
+    "created": "2023-02-15T15:51:51.842Z",
+    "anime_title": "Steins Gate",
+    "anime_score": "9.08",
+    "airing_time": "Spring 2011",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/9253/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 160,
+  "fields": {
+    "mal_id": 11577,
+    "slug": "steins-gate-movie-load-region-of-deja-vu",
+    "updated": "2023-02-15T15:52:02.056Z",
+    "created": "2023-02-15T15:52:02.056Z",
+    "anime_title": "Steins Gate Movie - Load Region of Deja Vu",
+    "anime_score": "8.46",
+    "airing_time": "Fall 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/11577/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1611/112806.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 161,
+  "fields": {
+    "mal_id": 30484,
+    "slug": "steins-gate-0",
+    "updated": "2023-02-15T15:52:14.419Z",
+    "created": "2023-02-15T15:52:14.419Z",
+    "anime_title": "Steins Gate 0",
+    "anime_score": "8.52",
+    "airing_time": "Spring 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30484/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1375/93521.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 162,
+  "fields": {
+    "mal_id": 18277,
+    "slug": "strike-the-blood-1",
+    "updated": "2023-02-15T15:52:25.645Z",
+    "created": "2023-02-15T15:52:25.645Z",
+    "anime_title": "Strike The Blood 1",
+    "anime_score": "7.07",
+    "airing_time": "Fall 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/18277/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/56163.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 163,
+  "fields": {
+    "mal_id": 30321,
+    "slug": "strike-the-blood-1-ova-valkyria-no-oukoku-hen",
+    "updated": "2023-02-15T15:52:40.824Z",
+    "created": "2023-02-15T15:52:40.824Z",
+    "anime_title": "Strike The Blood 1 OVA: Valkyria no Oukoku-hen",
+    "anime_score": "7.25",
+    "airing_time": "Fall 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30321/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/77275.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 164,
+  "fields": {
+    "mal_id": 33286,
+    "slug": "strike-the-blood-2",
+    "updated": "2023-02-15T15:52:52.419Z",
+    "created": "2023-02-15T15:52:52.419Z",
+    "anime_title": "Strike The Blood 2",
+    "anime_score": "7.00",
+    "airing_time": "Fall 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/33286/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1600/111675.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 165,
+  "fields": {
+    "mal_id": 37449,
+    "slug": "strike-the-blood-3",
+    "updated": "2023-02-15T15:53:07.687Z",
+    "created": "2023-02-15T15:53:07.687Z",
+    "anime_title": "Strike The Blood 3",
+    "anime_score": "7.02",
+    "airing_time": "Fall 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/37449/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1768/111676.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 166,
+  "fields": {
+    "mal_id": 40486,
+    "slug": "strike-the-blood-3-ova-kieta-seisou-hen",
+    "updated": "2023-02-15T15:53:20.431Z",
+    "created": "2023-02-15T15:53:20.431Z",
+    "anime_title": "Strike The Blood 3 OVA: Kieta Seisou-hen",
+    "anime_score": "6.93",
+    "airing_time": "Winter 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40486/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1918/103377.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 167,
+  "fields": {
+    "mal_id": 40485,
+    "slug": "strike-the-blood-4",
+    "updated": "2023-02-15T15:53:31.294Z",
+    "created": "2023-02-15T15:53:31.294Z",
+    "anime_title": "Strike The Blood 4",
+    "anime_score": "7.00",
+    "airing_time": "Spring 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40485/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1692/116875.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 168,
+  "fields": {
+    "mal_id": 49316,
+    "slug": "strike-the-blood-5",
+    "updated": "2023-02-15T15:53:41.692Z",
+    "created": "2023-02-15T15:53:41.692Z",
+    "anime_title": "Strike The Blood 5",
+    "anime_score": "7.25",
+    "airing_time": "Winter 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/49316/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1208/120085.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 169,
+  "fields": {
+    "mal_id": 11757,
+    "slug": "sword-art-online-1",
+    "updated": "2023-02-15T15:53:56.057Z",
+    "created": "2023-02-15T15:53:56.057Z",
+    "anime_title": "Sword Art Online 1",
+    "anime_score": "7.20",
+    "airing_time": "Summer 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/11757/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 170,
+  "fields": {
+    "mal_id": 21881,
+    "slug": "sword-art-online-2",
+    "updated": "2023-02-15T15:54:06.221Z",
+    "created": "2023-02-15T15:54:06.221Z",
+    "anime_title": "Sword Art Online 2",
+    "anime_score": "6.71",
+    "airing_time": "Summer 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/21881/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1223/121999.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 171,
+  "fields": {
+    "mal_id": 36474,
+    "slug": "sword-art-online-3-alicization",
+    "updated": "2023-02-15T15:54:16.042Z",
+    "created": "2023-02-15T15:54:16.042Z",
+    "anime_title": "Sword Art Online 3 - Alicization",
+    "anime_score": "7.56",
+    "airing_time": "Fall 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/36474/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1993/93837.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 172,
+  "fields": {
+    "mal_id": 39597,
+    "slug": "sword-art-online-3-alicization-war-of-underworld-i",
+    "updated": "2023-02-15T15:54:26.613Z",
+    "created": "2023-02-15T15:54:26.613Z",
+    "anime_title": "Sword Art Online 3 - Alicization War of Underworld I",
+    "anime_score": "7.58",
+    "airing_time": "Fall 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39597/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1630/103417.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 173,
+  "fields": {
+    "mal_id": 40540,
+    "slug": "sword-art-online-3-alicization-war-of-underworld-ii",
+    "updated": "2023-02-15T15:54:43.995Z",
+    "created": "2023-02-15T15:54:43.995Z",
+    "anime_title": "Sword Art Online 3 - Alicization War of Underworld II",
+    "anime_score": "7.46",
+    "airing_time": "Summer 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40540/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 174,
+  "fields": {
+    "mal_id": 31765,
+    "slug": "sword-art-online-movie-ordinal-scale",
+    "updated": "2023-02-15T15:54:57.440Z",
+    "created": "2023-02-15T15:54:57.440Z",
+    "anime_title": "Sword Art Online Movie - Ordinal Scale",
+    "anime_score": "7.57",
+    "airing_time": "Winter 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/31765/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1557/123313.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 175,
+  "fields": {
+    "mal_id": 20021,
+    "slug": "sword-art-online-movie-extra-edition",
+    "updated": "2023-02-15T15:55:09.949Z",
+    "created": "2023-02-15T15:55:09.949Z",
+    "anime_title": "Sword Art Online Movie - Extra Edition",
+    "anime_score": "6.55",
+    "airing_time": "Fall 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/20021/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1927/121997.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 176,
+  "fields": {
+    "mal_id": 42916,
+    "slug": "sword-art-online-movie-1-progressive-hoshi-naki-yoru-no-aria",
+    "updated": "2023-02-15T15:55:24.395Z",
+    "created": "2023-02-15T15:55:24.395Z",
+    "anime_title": "Sword Art Online Movie 1 Progressive - Hoshi Naki Yoru no Aria",
+    "anime_score": "7.95",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/42916/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1590/116274.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 177,
+  "fields": {
+    "mal_id": 12445,
+    "slug": "tasogare-otome-x-amnesia",
+    "updated": "2023-02-15T15:55:34.618Z",
+    "created": "2023-02-15T15:55:34.618Z",
+    "anime_title": "Tasogare Otome x Amnesia",
+    "anime_score": "7.84",
+    "airing_time": "Spring 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/12445/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/64435.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 178,
+  "fields": {
+    "mal_id": 35790,
+    "slug": "tate-no-yuusha-no-nariagari",
+    "updated": "2023-06-06T09:55:08.675Z",
+    "created": "2023-02-15T15:55:51.107Z",
+    "anime_title": "Tate no Yuusha no Nariagari",
+    "anime_score": "8.01",
+    "airing_time": "Winter 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35790/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1490/101365.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 179,
+  "fields": {
+    "mal_id": 40356,
+    "slug": "tate-no-yuusha-no-nariagari-2",
+    "updated": "2023-03-15T13:51:27.278Z",
+    "created": "2023-02-15T15:56:06.029Z",
+    "anime_title": "Tate no Yuusha no Nariagari 2",
+    "anime_score": "6.55",
+    "airing_time": "Spring 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40356/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1143/121873.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 180,
+  "fields": {
+    "mal_id": 38610,
+    "slug": "tejina-senpai",
+    "updated": "2023-02-15T15:56:17.483Z",
+    "created": "2023-02-15T15:56:17.483Z",
+    "anime_title": "Tejina Senpai",
+    "anime_score": "6.43",
+    "airing_time": "Summer 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38610/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1510/99891.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 181,
+  "fields": {
+    "mal_id": 479,
+    "slug": "the-law-of-ueki",
+    "updated": "2023-02-15T15:56:28.592Z",
+    "created": "2023-02-15T15:56:28.592Z",
+    "anime_title": "The Law of Ueki",
+    "anime_score": "7.73",
+    "airing_time": "Spring 2005",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/479/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/8/20596.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 182,
+  "fields": {
+    "mal_id": 1107,
+    "slug": "youjuu-toshi",
+    "updated": "2023-02-15T15:57:26.997Z",
+    "created": "2023-02-15T15:57:26.997Z",
+    "anime_title": "Youjuu Toshi",
+    "anime_score": "6.45",
+    "airing_time": "Spring 1987",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/1107/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/2/50021.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 183,
+  "fields": {
+    "mal_id": 22319,
+    "slug": "tokyo-ghoul",
+    "updated": "2023-06-06T09:55:27.403Z",
+    "created": "2023-02-15T15:57:39.485Z",
+    "anime_title": "Tokyo Ghoul",
+    "anime_score": "7.79",
+    "airing_time": "Summer 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/22319/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/64449.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 184,
+  "fields": {
+    "mal_id": 27899,
+    "slug": "tokyo-ghoul-2",
+    "updated": "2023-02-15T15:57:50.493Z",
+    "created": "2023-02-15T15:57:50.493Z",
+    "anime_title": "Tokyo Ghoul 2",
+    "anime_score": "7.03",
+    "airing_time": "Winter 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/27899/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1889/123307.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 185,
+  "fields": {
+    "mal_id": 36511,
+    "slug": "tokyo-ghoul-re",
+    "updated": "2023-02-15T15:58:03.563Z",
+    "created": "2023-02-15T15:58:03.563Z",
+    "anime_title": "Tokyo Ghoul re",
+    "anime_score": "6.38",
+    "airing_time": "Spring 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/36511/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1063/95086.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 186,
+  "fields": {
+    "mal_id": 25157,
+    "slug": "trinity-seven",
+    "updated": "2023-06-06T09:55:44.393Z",
+    "created": "2023-02-15T15:58:19.273Z",
+    "anime_title": "Trinity Seven",
+    "anime_score": "7.08",
+    "airing_time": "Fall 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/25157/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/12/67795.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 187,
+  "fields": {
+    "mal_id": 28285,
+    "slug": "trinity-seven-ova-nanatsu-no-taizai-to-nana-madoushi",
+    "updated": "2023-06-06T09:56:02.771Z",
+    "created": "2023-02-15T15:58:29.628Z",
+    "anime_title": "Trinity Seven OVA - Nanatsu no Taizai to Nana Madoushi",
+    "anime_score": "7.36",
+    "airing_time": "Winter 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/28285/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/3/74066.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 188,
+  "fields": {
+    "mal_id": 33581,
+    "slug": "trinity-seven-movie-1-eternity-library-to-alchemic-girl",
+    "updated": "2023-02-15T15:58:40.179Z",
+    "created": "2023-02-15T15:58:40.179Z",
+    "anime_title": "Trinity Seven Movie 1 - Eternity Library to Alchemic Girl",
+    "anime_score": "7.26",
+    "airing_time": "Winter 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/33581/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1031/112821.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 189,
+  "fields": {
+    "mal_id": 37986,
+    "slug": "trinity-seven-movie-2-tenkuu-toshokan-to-shinku-no-maou",
+    "updated": "2023-02-15T15:59:00.636Z",
+    "created": "2023-02-15T15:59:00.636Z",
+    "anime_title": "Trinity Seven Movie 2 - Tenkuu Toshokan to Shinku no Maou",
+    "anime_score": "7.35",
+    "airing_time": "Winter 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/37986/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1215/100764.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 190,
+  "fields": {
+    "mal_id": 38573,
+    "slug": "tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka",
+    "updated": "2023-02-15T15:59:16.618Z",
+    "created": "2023-02-15T15:59:16.618Z",
+    "anime_title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+    "anime_score": "5.55",
+    "airing_time": "Summer 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38573/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1225/102250.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 191,
+  "fields": {
+    "mal_id": 39799,
+    "slug": "val-x-love",
+    "updated": "2023-02-15T15:59:29.729Z",
+    "created": "2023-02-15T15:59:29.729Z",
+    "anime_title": "Val x Love",
+    "anime_score": "5.90",
+    "airing_time": "Fall 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39799/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1577/111404.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 192,
+  "fields": {
+    "mal_id": 732,
+    "slug": "vampire-hunter-d",
+    "updated": "2023-02-15T15:59:41.434Z",
+    "created": "2023-02-15T15:59:41.434Z",
+    "anime_title": "Vampire Hunter D",
+    "anime_score": "7.05",
+    "airing_time": "Fall 1985",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/732/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/24228.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 193,
+  "fields": {
+    "mal_id": 543,
+    "slug": "vampire-hunter-d-bloodlust",
+    "updated": "2023-02-15T15:59:54.728Z",
+    "created": "2023-02-15T15:59:54.728Z",
+    "anime_title": "Vampire Hunter D: Bloodlust",
+    "anime_score": "7.89",
+    "airing_time": "Summer 2000",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/543/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/21432.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 194,
+  "fields": {
+    "mal_id": 21085,
+    "slug": "witch-craft-works",
+    "updated": "2023-02-15T16:00:09.435Z",
+    "created": "2023-02-15T16:00:09.435Z",
+    "anime_title": "Witch Craft Works",
+    "anime_score": "7.02",
+    "airing_time": "Winter 2014",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/21085/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1949/112982.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 195,
+  "fields": {
+    "mal_id": 35507,
+    "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsue",
+    "updated": "2023-02-15T16:00:20.065Z",
+    "created": "2023-02-15T16:00:20.065Z",
+    "anime_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsue",
+    "anime_score": "7.86",
+    "airing_time": "Summer 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35507/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/5/86830.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 196,
+  "fields": {
+    "mal_id": 51096,
+    "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsue-2nd-season",
+    "updated": "2023-02-15T16:00:57.038Z",
+    "created": "2023-02-15T16:00:57.038Z",
+    "anime_title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsue 2nd Season",
+    "anime_score": "8.03",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51096/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1010/124180.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 197,
+  "fields": {
+    "mal_id": 36726,
+    "slug": "yuragi-sou-no-yuuna-san",
+    "updated": "2023-03-15T13:47:47.282Z",
+    "created": "2023-02-15T16:01:11.383Z",
+    "anime_title": "Yuragi sou no Yuuna-san",
+    "anime_score": "7.02",
+    "airing_time": "Summer 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/36726/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1462/98802.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 198,
+  "fields": {
+    "mal_id": 16656,
+    "slug": "zettai-junpaku-mahou-shoujo",
+    "updated": "2023-03-15T13:47:05.521Z",
+    "created": "2023-02-15T16:01:23.274Z",
+    "anime_title": "Zettai Junpaku Mahou Shoujo",
+    "anime_score": "5.25",
+    "airing_time": "Summer 2012",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/16656/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/65213.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 199,
+  "fields": {
+    "mal_id": 48649,
+    "slug": "fuuto-tantei",
+    "updated": "2023-10-13T15:21:08.608Z",
+    "created": "2023-02-15T16:01:34.944Z",
+    "anime_title": "Fuuto Tantei",
+    "anime_score": "7.37",
+    "airing_time": "Summer 2022",
+    "studio": 116,
+    "genre": 29,
+    "api_url": "https://api.jikan.moe/v4/anime/48649/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1945/123588.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 200,
+  "fields": {
+    "mal_id": 40938,
+    "slug": "hige-wo-soru-soshite-joshikousei-wo-hirou",
+    "updated": "2023-02-15T16:01:51.422Z",
+    "created": "2023-02-15T16:01:51.422Z",
+    "anime_title": "Hige wo Soru Soshite Joshikousei wo Hirou",
+    "anime_score": "7.29",
+    "airing_time": "Spring 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40938/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1146/113477.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 201,
+  "fields": {
+    "mal_id": 49438,
+    "slug": "isekai-yakkyoku",
+    "updated": "2023-03-15T14:01:41.951Z",
+    "created": "2023-02-15T16:02:02.383Z",
+    "anime_title": "Isekai Yakkyoku",
+    "anime_score": "7.33",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/49438/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1120/124644.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 202,
+  "fields": {
+    "mal_id": 51064,
+    "slug": "kuro-no-shoukanshi",
+    "updated": "2023-02-15T16:02:12.941Z",
+    "created": "2023-02-15T16:02:12.941Z",
+    "anime_title": "Kuro no Shoukanshi",
+    "anime_score": "7.12",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51064/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1517/125496.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 203,
+  "fields": {
+    "mal_id": 30307,
+    "slug": "monster-musume-no-iru-nichijou",
+    "updated": "2023-02-15T16:02:30.106Z",
+    "created": "2023-02-15T16:02:30.106Z",
+    "anime_title": "Monster Musume no Iru Nichijou",
+    "anime_score": "6.98",
+    "airing_time": "Summer 2015",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/30307/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/75104.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 204,
+  "fields": {
+    "mal_id": 437,
+    "slug": "perfect-blue",
+    "updated": "2023-02-15T16:02:42.440Z",
+    "created": "2023-02-15T16:02:42.440Z",
+    "anime_title": "Perfect Blue",
+    "anime_score": "8.53",
+    "airing_time": "Winter 1998",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/437/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/11/79127.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 205,
+  "fields": {
+    "mal_id": 46985,
+    "slug": "shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+    "updated": "2023-02-15T16:02:55.403Z",
+    "created": "2023-02-15T16:02:55.403Z",
+    "anime_title": "Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei",
+    "anime_score": "6.23",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/46985/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1537/117590.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 206,
+  "fields": {
+    "mal_id": 50175,
+    "slug": "yuusha-yamemasu",
+    "updated": "2023-03-15T13:45:32.480Z",
+    "created": "2023-02-15T16:03:07.421Z",
+    "anime_title": "Yuusha Yamemasu",
+    "anime_score": "7.04",
+    "airing_time": "Spring 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/50175/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1934/122301.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 207,
+  "fields": {
+    "mal_id": 36882,
+    "slug": "arifureta-shokugyou-de-sekai-saikyou",
+    "updated": "2023-10-13T14:35:55.116Z",
+    "created": "2023-03-13T04:35:28.830Z",
+    "anime_title": "Arifureta Shokugyou de Sekai Saikyou",
+    "anime_score": "6.70",
+    "airing_time": "Summer 2019",
+    "studio": 98,
+    "genre": 2,
+    "api_url": "https://api.jikan.moe/v4/anime/36882/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1776/97682.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 208,
+  "fields": {
+    "mal_id": 44511,
+    "slug": "chainsaw-man",
+    "updated": "2023-10-13T14:42:09.419Z",
+    "created": "2023-03-13T04:36:53.634Z",
+    "anime_title": "Chainsaw Man",
+    "anime_score": "8.55",
+    "airing_time": "Fall 2022",
+    "studio": 1,
+    "genre": 32,
+    "api_url": "https://api.jikan.moe/v4/anime/44511/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1806/126216.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 209,
+  "fields": {
+    "mal_id": 50425,
+    "slug": "fuufu-ijou-koibito-miman",
+    "updated": "2023-10-13T15:18:41.618Z",
+    "created": "2023-03-13T04:38:49.227Z",
+    "anime_title": "Fuufu Ijou, Koibito Miman.",
+    "anime_score": "7.60",
+    "airing_time": "Fall 2022",
+    "studio": 114,
+    "genre": 7,
+    "api_url": "https://api.jikan.moe/v4/anime/50425/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1713/126442.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 210,
+  "fields": {
+    "mal_id": 51837,
+    "slug": "saikin-yatotta-maid-ga-ayashii",
+    "updated": "2023-03-13T04:40:17.053Z",
+    "created": "2023-03-13T04:40:17.053Z",
+    "anime_title": "Saikin Yatotta Maid ga Ayashii",
+    "anime_score": "6.58",
+    "airing_time": "Summer 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51837/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1022/123845.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 211,
+  "fields": {
+    "mal_id": 47790,
+    "slug": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+    "updated": "2023-03-13T04:41:58.546Z",
+    "created": "2023-03-13T04:41:58.546Z",
+    "anime_title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+    "anime_score": "7.37",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/47790/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1928/117620.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 212,
+  "fields": {
+    "mal_id": 51495,
+    "slug": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",
+    "updated": "2023-03-13T04:43:50.394Z",
+    "created": "2023-03-13T04:43:50.394Z",
+    "anime_title": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+    "anime_score": "5.94",
+    "airing_time": "Winter 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51495/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1862/128297.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 213,
+  "fields": {
+    "mal_id": 53446,
+    "slug": "tondemo-skill-de-isekai-hourou-meshi",
+    "updated": "2023-03-13T04:45:13.784Z",
+    "created": "2023-03-13T04:45:13.784Z",
+    "anime_title": "Tondemo Skill de Isekai Hourou Meshi",
+    "anime_score": "7.65",
+    "airing_time": "Winter 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/53446/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1661/131889.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 214,
+  "fields": {
+    "mal_id": 37430,
+    "slug": "tensei-shitara-slime-datta-ken",
+    "updated": "2023-03-13T04:52:26.476Z",
+    "created": "2023-03-13T04:52:26.476Z",
+    "anime_title": "Tensei shitara Slime Datta Ken",
+    "anime_score": "8.14",
+    "airing_time": "Fall 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/37430/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1069/123309.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 215,
+  "fields": {
+    "mal_id": 39607,
+    "slug": "tensei-shitara-slime-datta-ken-kanwa-veldora-nikki",
+    "updated": "2023-03-13T04:53:30.416Z",
+    "created": "2023-03-13T04:53:30.416Z",
+    "anime_title": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+    "anime_score": "6.69",
+    "airing_time": "Winter 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39607/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1672/100144.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 216,
+  "fields": {
+    "mal_id": 52046,
+    "slug": "yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau",
+    "updated": "2023-03-15T13:46:13.861Z",
+    "created": "2023-03-13T04:57:48.349Z",
+    "anime_title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
+    "anime_score": "6.96",
+    "airing_time": "Fall 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/52046/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1084/126652.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 217,
+  "fields": {
+    "mal_id": 36999,
+    "slug": "zoku-owarimonogatari",
+    "updated": "2023-03-15T13:44:30.771Z",
+    "created": "2023-03-13T04:58:54.585Z",
+    "anime_title": "Zoku Owarimonogatari",
+    "anime_score": "8.45",
+    "airing_time": "Fall 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/36999/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1022/96168.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 218,
+  "fields": {
+    "mal_id": 41710,
+    "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki",
+    "updated": "2023-10-13T15:25:56.843Z",
+    "created": "2023-03-13T05:02:05.840Z",
+    "anime_title": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+    "anime_score": "7.24",
+    "airing_time": "Summer 2021",
+    "studio": 106,
+    "genre": 8,
+    "api_url": "https://api.jikan.moe/v4/anime/41710/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1297/118764.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 219,
+  "fields": {
+    "mal_id": 49930,
+    "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
+    "updated": "2023-10-13T15:26:16.158Z",
+    "created": "2023-03-13T05:03:07.519Z",
+    "anime_title": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
+    "anime_score": "7.44",
+    "airing_time": "Winter 2022",
+    "studio": 106,
+    "genre": 8,
+    "api_url": "https://api.jikan.moe/v4/anime/49930/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1088/120068.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 220,
+  "fields": {
+    "mal_id": 41514,
+    "slug": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2",
+    "updated": "2023-03-13T05:04:20.169Z",
+    "created": "2023-03-13T05:04:20.169Z",
+    "anime_title": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2",
+    "anime_score": "7.40",
+    "airing_time": "Winter 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41514/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1782/128859.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 221,
+  "fields": {
+    "mal_id": 49458,
+    "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "updated": "2023-03-13T05:06:59.279Z",
+    "created": "2023-03-13T05:06:59.279Z",
+    "anime_title": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+    "anime_score": "0.00",
+    "airing_time": "",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/49458/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1893/124134.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 222,
+  "fields": {
+    "mal_id": 16498,
+    "slug": "shingeki-no-kyojin",
+    "updated": "2023-03-13T05:09:09.657Z",
+    "created": "2023-03-13T05:09:09.657Z",
+    "anime_title": "Shingeki no Kyojin",
+    "anime_score": "8.53",
+    "airing_time": "Spring 2013",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/16498/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 223,
+  "fields": {
+    "mal_id": 1535,
+    "slug": "death-note",
+    "updated": "2023-10-13T14:58:13.105Z",
+    "created": "2023-03-13T05:09:57.179Z",
+    "anime_title": "Death Note",
+    "anime_score": "8.62",
+    "airing_time": "Fall 2006",
+    "studio": 107,
+    "genre": 17,
+    "api_url": "https://api.jikan.moe/v4/anime/1535/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 224,
+  "fields": {
+    "mal_id": 5114,
+    "slug": "fullmetal-alchemist-brotherhood",
+    "updated": "2023-10-13T15:19:42.065Z",
+    "created": "2023-03-13T05:10:56.301Z",
+    "anime_title": "Fullmetal Alchemist: Brotherhood",
+    "anime_score": "9.11",
+    "airing_time": "Spring 2009",
+    "studio": 115,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/5114/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 225,
+  "fields": {
+    "mal_id": 34599,
+    "slug": "made-in-abyss",
+    "updated": "2023-03-13T05:14:06.617Z",
+    "created": "2023-03-13T05:14:06.617Z",
+    "anime_title": "Made in Abyss",
+    "anime_score": "8.66",
+    "airing_time": "Summer 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/34599/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/6/86733.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 226,
+  "fields": {
+    "mal_id": 50265,
+    "slug": "spy-x-family",
+    "updated": "2023-03-13T05:19:45.529Z",
+    "created": "2023-03-13T05:19:45.529Z",
+    "anime_title": "Spy x Family",
+    "anime_score": "8.66",
+    "airing_time": "Spring 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/50265/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1441/122795.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 227,
+  "fields": {
+    "mal_id": 40507,
+    "slug": "arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+    "updated": "2023-10-13T14:36:30.465Z",
+    "created": "2023-03-15T07:20:15.462Z",
+    "anime_title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+    "anime_score": "7.18",
+    "airing_time": "Winter 2022",
+    "studio": 98,
+    "genre": 2,
+    "api_url": "https://api.jikan.moe/v4/anime/40507/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1877/119668.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 235,
+  "fields": {
+    "mal_id": 1735,
+    "slug": "naruto-shippuden",
+    "updated": "2023-05-31T21:41:09.861Z",
+    "created": "2023-05-22T03:40:30.697Z",
+    "anime_title": "Naruto: Shippuden",
+    "anime_score": "8.26",
+    "airing_time": "Winter 2007",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/1735/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 236,
+  "fields": {
+    "mal_id": 39551,
+    "slug": "tensei-shitara-slime-datta-ken-2nd-season",
+    "updated": "2023-05-22T04:32:22.827Z",
+    "created": "2023-05-22T03:50:49.057Z",
+    "anime_title": "Tensei shitara Slime Datta Ken 2nd Season",
+    "anime_score": "8.39",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39551/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1271/109841.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 237,
+  "fields": {
+    "mal_id": 41487,
+    "slug": "tensei-shitara-slime-datta-ken-2nd-season-part-2",
+    "updated": "2023-05-22T04:32:02.676Z",
+    "created": "2023-05-22T03:52:32.487Z",
+    "anime_title": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+    "anime_score": "8.33",
+    "airing_time": "Summer 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41487/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1033/118296.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 238,
+  "fields": {
+    "mal_id": 49877,
+    "slug": "tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
+    "updated": "2023-05-22T04:33:01.475Z",
+    "created": "2023-05-22T03:53:57.727Z",
+    "anime_title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "anime_score": "7.65",
+    "airing_time": "Fall 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/49877/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1745/128238.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 239,
+  "fields": {
+    "mal_id": 51632,
+    "slug": "isekai-wa-smartphone-to-tomo-ni-2",
+    "updated": "2023-05-22T04:28:47.570Z",
+    "created": "2023-05-22T03:56:56.900Z",
+    "anime_title": "Isekai wa Smartphone to Tomo ni. 2",
+    "anime_score": "6.29",
+    "airing_time": "Spring 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51632/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1932/131464.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 240,
+  "fields": {
+    "mal_id": 35203,
+    "slug": "isekai-wa-smartphone-to-tomo-ni",
+    "updated": "2023-05-22T04:28:16.571Z",
+    "created": "2023-05-22T03:57:59.191Z",
+    "anime_title": "Isekai wa Smartphone to Tomo ni.",
+    "anime_score": "6.15",
+    "airing_time": "Summer 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35203/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/86794.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 241,
+  "fields": {
+    "mal_id": 41488,
+    "slug": "tensura-nikki-tensei-shitara-slime-datta-ken",
+    "updated": "2023-05-22T04:33:36.642Z",
+    "created": "2023-05-22T03:59:41.816Z",
+    "anime_title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "anime_score": "7.59",
+    "airing_time": "Spring 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/41488/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1458/117607.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 242,
+  "fields": {
+    "mal_id": 52092,
+    "slug": "my-home-hero",
+    "updated": "2023-05-22T04:29:53.204Z",
+    "created": "2023-05-22T04:00:31.321Z",
+    "anime_title": "My Home Hero",
+    "anime_score": "6.96",
+    "airing_time": "Spring 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/52092/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1525/132959.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 243,
+  "fields": {
+    "mal_id": 25777,
+    "slug": "shingeki-no-kyojin-season-2",
+    "updated": "2023-05-31T21:49:14.689Z",
+    "created": "2023-05-31T21:49:14.689Z",
+    "anime_title": "Shingeki no Kyojin Season 2",
+    "anime_score": "8.50",
+    "airing_time": "Spring 2017",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/25777/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/4/84177.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 244,
+  "fields": {
+    "mal_id": 35760,
+    "slug": "shingeki-no-kyojin-season-3",
+    "updated": "2023-05-31T21:50:22.961Z",
+    "created": "2023-05-31T21:50:22.961Z",
+    "anime_title": "Shingeki no Kyojin Season 3",
+    "anime_score": "8.62",
+    "airing_time": "Summer 2018",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/35760/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1173/92110.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 245,
+  "fields": {
+    "mal_id": 38524,
+    "slug": "shingeki-no-kyojin-season-3-part-2",
+    "updated": "2023-05-31T21:51:29.337Z",
+    "created": "2023-05-31T21:51:29.337Z",
+    "anime_title": "Shingeki no Kyojin Season 3 Part 2",
+    "anime_score": "9.06",
+    "airing_time": "Spring 2019",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/38524/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 246,
+  "fields": {
+    "mal_id": 40028,
+    "slug": "shingeki-no-kyojin-the-final-season",
+    "updated": "2023-05-31T21:52:36.243Z",
+    "created": "2023-05-31T21:52:36.243Z",
+    "anime_title": "Shingeki no Kyojin: The Final Season",
+    "anime_score": "8.80",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40028/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 247,
+  "fields": {
+    "mal_id": 48583,
+    "slug": "shingeki-no-kyojin-the-final-season-part-2",
+    "updated": "2023-05-31T21:54:06.525Z",
+    "created": "2023-05-31T21:54:06.525Z",
+    "anime_title": "Shingeki no Kyojin: The Final Season Part 2",
+    "anime_score": "8.77",
+    "airing_time": "Winter 2022",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/48583/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1948/120625.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 248,
+  "fields": {
+    "mal_id": 51535,
+    "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
+    "updated": "2023-05-31T21:54:58.277Z",
+    "created": "2023-05-31T21:54:58.277Z",
+    "anime_title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "anime_score": "9.06",
+    "airing_time": "Winter 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51535/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1279/131078.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 249,
+  "fields": {
+    "mal_id": 34566,
+    "slug": "boruto-naruto-next-generations",
+    "updated": "2023-10-13T14:41:18.164Z",
+    "created": "2023-05-31T22:11:15.586Z",
+    "anime_title": "Boruto: Naruto Next Generations",
+    "anime_score": "6.06",
+    "airing_time": "Spring 2017",
+    "studio": 101,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/34566/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1091/99847.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 250,
+  "fields": {
+    "mal_id": 51019,
+    "slug": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+    "updated": "2023-05-31T22:15:12.236Z",
+    "created": "2023-05-31T22:15:12.236Z",
+    "anime_title": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "anime_score": "8.64",
+    "airing_time": "Spring 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51019/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1780/135985.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 251,
+  "fields": {
+    "mal_id": 51958,
+    "slug": "kono-subarashii-sekai-ni-bakuen-wo",
+    "updated": "2023-05-31T22:21:41.930Z",
+    "created": "2023-05-31T22:21:41.930Z",
+    "anime_title": "Kono Subarashii Sekai ni Bakuen wo!",
+    "anime_score": "7.78",
+    "airing_time": "Spring 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51958/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1626/135844.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 252,
+  "fields": {
+    "mal_id": 40748,
+    "slug": "jujutsu-kaisen",
+    "updated": "2023-07-28T03:00:00.553Z",
+    "created": "2023-07-28T03:00:00.553Z",
+    "anime_title": "Jujutsu Kaisen",
+    "anime_score": "8.63",
+    "airing_time": "Fall 2020",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/40748/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 253,
+  "fields": {
+    "mal_id": 48561,
+    "slug": "jujutsu-kaisen-0",
+    "updated": "2023-08-19T23:12:10.552Z",
+    "created": "2023-08-19T23:12:10.552Z",
+    "anime_title": "Jujutsu Kaisen 0",
+    "anime_score": "8.47",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/48561/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1121/119044.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 254,
+  "fields": {
+    "mal_id": 51009,
+    "slug": "jujutsu-kaisen-2nd-season",
+    "updated": "2023-08-19T23:13:13.797Z",
+    "created": "2023-08-19T23:13:13.797Z",
+    "anime_title": "Jujutsu Kaisen 2nd Season",
+    "anime_score": "8.78",
+    "airing_time": "Summer 2023",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/51009/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1600/134703.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 255,
+  "fields": {
+    "mal_id": 31845,
+    "slug": "masou-gakuen-hxh",
+    "updated": "2023-08-19T23:15:22.483Z",
+    "created": "2023-08-19T23:15:22.483Z",
+    "anime_title": "Masou Gakuen HxH",
+    "anime_score": "6.13",
+    "airing_time": "Summer 2016",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/31845/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/7/80262.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 256,
+  "fields": {
+    "mal_id": 3342,
+    "slug": "mnemosyne-mnemosyne-no-musume-tachi",
+    "updated": "2023-08-19T23:16:40.038Z",
+    "created": "2023-08-19T23:16:40.038Z",
+    "anime_title": "Mnemosyne: Mnemosyne no Musume-tachi",
+    "anime_score": "7.26",
+    "airing_time": "Winter 2008",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/3342/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/10/10918.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 257,
+  "fields": {
+    "mal_id": 39535,
+    "slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+    "updated": "2023-08-19T23:18:00.644Z",
+    "created": "2023-08-19T23:18:00.644Z",
+    "anime_title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "anime_score": "8.83",
+    "airing_time": "Winter 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/39535/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1530/117776.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 258,
+  "fields": {
+    "mal_id": 45576,
+    "slug": "mushoku-tensei-isekai-ittara-honki-dasu-part-2",
+    "updated": "2023-08-19T23:18:54.344Z",
+    "created": "2023-08-19T23:18:54.344Z",
+    "anime_title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+    "anime_score": "8.69",
+    "airing_time": "Fall 2021",
+    "studio": 1,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/45576/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1028/117777.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 259,
+  "fields": {
+    "mal_id": 53200,
+    "slug": "hataraku-maou-sama-2nd-season",
+    "updated": "2023-10-23T14:19:32.046Z",
+    "created": "2023-10-23T14:19:32.046Z",
+    "anime_title": "Hataraku Maou-sama!! 2nd Season",
+    "anime_score": "6.64",
+    "airing_time": "Summer 2023",
+    "studio": 118,
+    "genre": 6,
+    "api_url": "https://api.jikan.moe/v4/anime/53200/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1392/136670.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 260,
+  "fields": {
+    "mal_id": 55878,
+    "slug": "hataraku-maou-sama-recap",
+    "updated": "2023-10-23T14:20:37.326Z",
+    "created": "2023-10-23T14:20:37.326Z",
+    "anime_title": "Hataraku Maou-sama!! Recap",
+    "anime_score": "5.96",
+    "airing_time": "Summer 2023",
+    "studio": 118,
+    "genre": 6,
+    "api_url": "https://api.jikan.moe/v4/anime/55878/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1463/136983.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 261,
+  "fields": {
+    "mal_id": 54790,
+    "slug": "undead-girl-murder-farce",
+    "updated": "2023-10-23T14:21:58.207Z",
+    "created": "2023-10-23T14:21:58.207Z",
+    "anime_title": "Undead Girl Murder Farce",
+    "anime_score": "7.93",
+    "airing_time": "Summer 2023",
+    "studio": 119,
+    "genre": 12,
+    "api_url": "https://api.jikan.moe/v4/anime/54790/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1946/136661.jpg"
+  }
+},
+{
+  "model": "animelist.anime",
+  "pk": 262,
+  "fields": {
+    "mal_id": 47160,
+    "slug": "goblin-slayer-ii",
+    "updated": "2023-10-23T14:36:01.922Z",
+    "created": "2023-10-23T14:36:01.922Z",
+    "anime_title": "Goblin Slayer II",
+    "anime_score": "7.69",
+    "airing_time": "Fall 2023",
+    "studio": 122,
+    "genre": 1,
+    "api_url": "https://api.jikan.moe/v4/anime/47160/full",
+    "poster_url": "https://cdn.myanimelist.net/images/anime/1100/138338.jpg"
+  }
+}
+]

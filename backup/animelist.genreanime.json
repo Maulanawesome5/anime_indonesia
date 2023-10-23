@@ -1,0 +1,838 @@
+[
+{
+  "model": "animelist.genreanime",
+  "pk": 1,
+  "fields": {
+    "mal_id": 1,
+    "slug": "",
+    "updated": "2023-10-07T04:38:53.376Z",
+    "created": "2023-10-07T04:38:53.376Z",
+    "genre": "Action"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 2,
+  "fields": {
+    "mal_id": 2,
+    "slug": "",
+    "updated": "2023-10-07T04:39:07.910Z",
+    "created": "2023-10-07T04:39:07.911Z",
+    "genre": "Adventure"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 3,
+  "fields": {
+    "mal_id": 5,
+    "slug": "",
+    "updated": "2023-10-07T04:39:29.851Z",
+    "created": "2023-10-07T04:39:29.851Z",
+    "genre": "Avant Garde"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 4,
+  "fields": {
+    "mal_id": 46,
+    "slug": "",
+    "updated": "2023-10-07T04:39:51.256Z",
+    "created": "2023-10-07T04:39:51.256Z",
+    "genre": "Award Winning"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 5,
+  "fields": {
+    "mal_id": 28,
+    "slug": "",
+    "updated": "2023-10-07T04:40:05.359Z",
+    "created": "2023-10-07T04:40:05.359Z",
+    "genre": "Boys Love"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 6,
+  "fields": {
+    "mal_id": 4,
+    "slug": "",
+    "updated": "2023-10-07T04:40:32.007Z",
+    "created": "2023-10-07T04:40:32.007Z",
+    "genre": "Comedy"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 7,
+  "fields": {
+    "mal_id": 8,
+    "slug": "",
+    "updated": "2023-10-07T04:40:45.264Z",
+    "created": "2023-10-07T04:40:45.264Z",
+    "genre": "Drama"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 8,
+  "fields": {
+    "mal_id": 10,
+    "slug": "",
+    "updated": "2023-10-07T04:40:56.182Z",
+    "created": "2023-10-07T04:40:56.182Z",
+    "genre": "Fantasy"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 9,
+  "fields": {
+    "mal_id": 26,
+    "slug": "",
+    "updated": "2023-10-07T04:41:15.332Z",
+    "created": "2023-10-07T04:41:15.332Z",
+    "genre": "Girls Love"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 10,
+  "fields": {
+    "mal_id": 47,
+    "slug": "",
+    "updated": "2023-10-07T04:41:33.484Z",
+    "created": "2023-10-07T04:41:33.484Z",
+    "genre": "Gourmet"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 11,
+  "fields": {
+    "mal_id": 14,
+    "slug": "",
+    "updated": "2023-10-07T04:42:01.163Z",
+    "created": "2023-10-07T04:42:01.163Z",
+    "genre": "Horror"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 12,
+  "fields": {
+    "mal_id": 7,
+    "slug": "",
+    "updated": "2023-10-07T04:42:33.310Z",
+    "created": "2023-10-07T04:42:33.310Z",
+    "genre": "Mystery"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 13,
+  "fields": {
+    "mal_id": 22,
+    "slug": "",
+    "updated": "2023-10-07T04:42:45.876Z",
+    "created": "2023-10-07T04:42:45.876Z",
+    "genre": "Romance"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 14,
+  "fields": {
+    "mal_id": 24,
+    "slug": "",
+    "updated": "2023-10-07T04:43:01.464Z",
+    "created": "2023-10-07T04:43:01.464Z",
+    "genre": "Sci-Fi"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 15,
+  "fields": {
+    "mal_id": 36,
+    "slug": "",
+    "updated": "2023-10-07T04:43:23.159Z",
+    "created": "2023-10-07T04:43:23.159Z",
+    "genre": "Slice of Life"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 16,
+  "fields": {
+    "mal_id": 30,
+    "slug": "",
+    "updated": "2023-10-07T04:43:42.551Z",
+    "created": "2023-10-07T04:43:42.551Z",
+    "genre": "Sports"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 17,
+  "fields": {
+    "mal_id": 37,
+    "slug": "",
+    "updated": "2023-10-07T04:43:55.979Z",
+    "created": "2023-10-07T04:43:55.979Z",
+    "genre": "Supernatural"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 18,
+  "fields": {
+    "mal_id": 41,
+    "slug": "",
+    "updated": "2023-10-07T04:44:07.818Z",
+    "created": "2023-10-07T04:44:07.818Z",
+    "genre": "Suspense"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 19,
+  "fields": {
+    "mal_id": 9,
+    "slug": "",
+    "updated": "2023-10-07T04:47:07.600Z",
+    "created": "2023-10-07T04:47:07.600Z",
+    "genre": "Ecchi"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 20,
+  "fields": {
+    "mal_id": 49,
+    "slug": "",
+    "updated": "2023-10-07T04:47:17.395Z",
+    "created": "2023-10-07T04:47:17.395Z",
+    "genre": "Erotica"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 21,
+  "fields": {
+    "mal_id": 12,
+    "slug": "",
+    "updated": "2023-10-07T04:47:29.510Z",
+    "created": "2023-10-07T04:47:29.510Z",
+    "genre": "Hentai"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 22,
+  "fields": {
+    "mal_id": 50,
+    "slug": "",
+    "updated": "2023-10-07T04:47:42.746Z",
+    "created": "2023-10-07T04:47:42.746Z",
+    "genre": "Adult Cast"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 23,
+  "fields": {
+    "mal_id": 51,
+    "slug": "",
+    "updated": "2023-10-07T04:48:06.639Z",
+    "created": "2023-10-07T04:48:06.639Z",
+    "genre": "Anthropomorphic"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 24,
+  "fields": {
+    "mal_id": 52,
+    "slug": "",
+    "updated": "2023-10-07T04:48:31.030Z",
+    "created": "2023-10-07T04:48:31.030Z",
+    "genre": "CGDCT"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 25,
+  "fields": {
+    "mal_id": 53,
+    "slug": "",
+    "updated": "2023-10-07T04:48:46.283Z",
+    "created": "2023-10-07T04:48:46.283Z",
+    "genre": "Childcare"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 26,
+  "fields": {
+    "mal_id": 54,
+    "slug": "",
+    "updated": "2023-10-07T04:48:59.164Z",
+    "created": "2023-10-07T04:48:59.164Z",
+    "genre": "Combat Sports"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 27,
+  "fields": {
+    "mal_id": 81,
+    "slug": "",
+    "updated": "2023-10-07T04:49:15.249Z",
+    "created": "2023-10-07T04:49:15.249Z",
+    "genre": "Crossdressing"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 28,
+  "fields": {
+    "mal_id": 55,
+    "slug": "",
+    "updated": "2023-10-07T04:49:30.173Z",
+    "created": "2023-10-07T04:49:30.173Z",
+    "genre": "Delinquents"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 29,
+  "fields": {
+    "mal_id": 39,
+    "slug": "",
+    "updated": "2023-10-07T04:49:57.582Z",
+    "created": "2023-10-07T04:49:57.582Z",
+    "genre": "Detective"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 30,
+  "fields": {
+    "mal_id": 56,
+    "slug": "",
+    "updated": "2023-10-07T04:50:07.418Z",
+    "created": "2023-10-07T04:50:07.418Z",
+    "genre": "Educational"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 31,
+  "fields": {
+    "mal_id": 57,
+    "slug": "",
+    "updated": "2023-10-07T04:50:19.526Z",
+    "created": "2023-10-07T04:50:19.526Z",
+    "genre": "Gag Humor"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 32,
+  "fields": {
+    "mal_id": 58,
+    "slug": "",
+    "updated": "2023-10-07T04:50:32.783Z",
+    "created": "2023-10-07T04:50:32.783Z",
+    "genre": "Gore"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 33,
+  "fields": {
+    "mal_id": 35,
+    "slug": "",
+    "updated": "2023-10-07T04:50:45.973Z",
+    "created": "2023-10-07T04:50:45.973Z",
+    "genre": "Harem"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 34,
+  "fields": {
+    "mal_id": 59,
+    "slug": "",
+    "updated": "2023-10-07T04:51:05.958Z",
+    "created": "2023-10-07T04:51:05.958Z",
+    "genre": "High Stakes Game"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 35,
+  "fields": {
+    "mal_id": 13,
+    "slug": "",
+    "updated": "2023-10-07T04:51:16.710Z",
+    "created": "2023-10-07T04:51:16.710Z",
+    "genre": "Historical"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 36,
+  "fields": {
+    "mal_id": 60,
+    "slug": "",
+    "updated": "2023-10-07T04:51:29.655Z",
+    "created": "2023-10-07T04:51:29.655Z",
+    "genre": "Idols (Female)"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 37,
+  "fields": {
+    "mal_id": 61,
+    "slug": "",
+    "updated": "2023-10-07T04:51:41.358Z",
+    "created": "2023-10-07T04:51:41.358Z",
+    "genre": "Idols (Male)"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 38,
+  "fields": {
+    "mal_id": 62,
+    "slug": "",
+    "updated": "2023-10-07T04:51:53.322Z",
+    "created": "2023-10-07T04:51:53.322Z",
+    "genre": "Isekai"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 39,
+  "fields": {
+    "mal_id": 63,
+    "slug": "",
+    "updated": "2023-10-07T04:52:11.455Z",
+    "created": "2023-10-07T04:52:11.455Z",
+    "genre": "Iyashikei"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 40,
+  "fields": {
+    "mal_id": 64,
+    "slug": "",
+    "updated": "2023-10-07T04:52:23.222Z",
+    "created": "2023-10-07T04:52:23.222Z",
+    "genre": "Love Polygon"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 41,
+  "fields": {
+    "mal_id": 65,
+    "slug": "",
+    "updated": "2023-10-07T04:52:35.086Z",
+    "created": "2023-10-07T04:52:35.086Z",
+    "genre": "Magical Sex Shift"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 42,
+  "fields": {
+    "mal_id": 66,
+    "slug": "",
+    "updated": "2023-10-07T04:52:46.587Z",
+    "created": "2023-10-07T04:52:46.587Z",
+    "genre": "Mahou Shoujo"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 43,
+  "fields": {
+    "mal_id": 17,
+    "slug": "",
+    "updated": "2023-10-07T04:52:59.405Z",
+    "created": "2023-10-07T04:52:59.405Z",
+    "genre": "Martial Arts"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 44,
+  "fields": {
+    "mal_id": 18,
+    "slug": "",
+    "updated": "2023-10-07T04:53:11.780Z",
+    "created": "2023-10-07T04:53:11.780Z",
+    "genre": "Mecha"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 45,
+  "fields": {
+    "mal_id": 67,
+    "slug": "",
+    "updated": "2023-10-07T04:53:29.906Z",
+    "created": "2023-10-07T04:53:29.906Z",
+    "genre": "Medical"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 46,
+  "fields": {
+    "mal_id": 38,
+    "slug": "",
+    "updated": "2023-10-07T04:53:45.513Z",
+    "created": "2023-10-07T04:53:45.513Z",
+    "genre": "Military"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 47,
+  "fields": {
+    "mal_id": 19,
+    "slug": "",
+    "updated": "2023-10-07T04:53:55.432Z",
+    "created": "2023-10-07T04:53:55.432Z",
+    "genre": "Music"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 48,
+  "fields": {
+    "mal_id": 6,
+    "slug": "",
+    "updated": "2023-10-07T04:54:06.114Z",
+    "created": "2023-10-07T04:54:06.114Z",
+    "genre": "Mythology"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 49,
+  "fields": {
+    "mal_id": 68,
+    "slug": "",
+    "updated": "2023-10-07T04:54:19.655Z",
+    "created": "2023-10-07T04:54:19.655Z",
+    "genre": "Organized Crime"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 50,
+  "fields": {
+    "mal_id": 69,
+    "slug": "",
+    "updated": "2023-10-07T04:54:39.768Z",
+    "created": "2023-10-07T04:54:39.768Z",
+    "genre": "Otaku Culture"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 51,
+  "fields": {
+    "mal_id": 20,
+    "slug": "",
+    "updated": "2023-10-07T04:54:50.231Z",
+    "created": "2023-10-07T04:54:50.231Z",
+    "genre": "Parody"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 52,
+  "fields": {
+    "mal_id": 70,
+    "slug": "",
+    "updated": "2023-10-07T04:55:00.896Z",
+    "created": "2023-10-07T04:55:00.896Z",
+    "genre": "Performing Arts"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 53,
+  "fields": {
+    "mal_id": 71,
+    "slug": "",
+    "updated": "2023-10-07T04:55:12.291Z",
+    "created": "2023-10-07T04:55:12.291Z",
+    "genre": "Pets"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 54,
+  "fields": {
+    "mal_id": 40,
+    "slug": "",
+    "updated": "2023-10-07T04:55:23.283Z",
+    "created": "2023-10-07T04:55:23.283Z",
+    "genre": "Psychological"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 55,
+  "fields": {
+    "mal_id": 3,
+    "slug": "",
+    "updated": "2023-10-07T04:55:57.267Z",
+    "created": "2023-10-07T04:55:57.267Z",
+    "genre": "Racing"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 56,
+  "fields": {
+    "mal_id": 72,
+    "slug": "",
+    "updated": "2023-10-07T04:56:10.024Z",
+    "created": "2023-10-07T04:56:10.024Z",
+    "genre": "Reincarnation"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 57,
+  "fields": {
+    "mal_id": 73,
+    "slug": "",
+    "updated": "2023-10-07T04:56:22.543Z",
+    "created": "2023-10-07T04:56:22.543Z",
+    "genre": "Reverse Harem"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 58,
+  "fields": {
+    "mal_id": 74,
+    "slug": "",
+    "updated": "2023-10-07T04:56:34.543Z",
+    "created": "2023-10-07T04:56:34.543Z",
+    "genre": "Romantic Subtext"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 59,
+  "fields": {
+    "mal_id": 21,
+    "slug": "",
+    "updated": "2023-10-07T04:56:48.882Z",
+    "created": "2023-10-07T04:56:48.882Z",
+    "genre": "Samurai"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 60,
+  "fields": {
+    "mal_id": 23,
+    "slug": "",
+    "updated": "2023-10-07T04:57:13.775Z",
+    "created": "2023-10-07T04:57:13.775Z",
+    "genre": "School"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 61,
+  "fields": {
+    "mal_id": 75,
+    "slug": "",
+    "updated": "2023-10-07T05:08:04.104Z",
+    "created": "2023-10-07T05:08:04.104Z",
+    "genre": "Showbiz"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 62,
+  "fields": {
+    "mal_id": 29,
+    "slug": "",
+    "updated": "2023-10-07T05:08:15.148Z",
+    "created": "2023-10-07T05:08:15.148Z",
+    "genre": "Space"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 63,
+  "fields": {
+    "mal_id": 11,
+    "slug": "",
+    "updated": "2023-10-07T05:08:27.698Z",
+    "created": "2023-10-07T05:08:27.698Z",
+    "genre": "Strategy Game"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 64,
+  "fields": {
+    "mal_id": 31,
+    "slug": "",
+    "updated": "2023-10-07T05:08:39.331Z",
+    "created": "2023-10-07T05:08:39.331Z",
+    "genre": "Super Power"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 65,
+  "fields": {
+    "mal_id": 76,
+    "slug": "",
+    "updated": "2023-10-07T05:08:56.110Z",
+    "created": "2023-10-07T05:08:56.110Z",
+    "genre": "Survival"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 66,
+  "fields": {
+    "mal_id": 77,
+    "slug": "",
+    "updated": "2023-10-07T05:09:11.032Z",
+    "created": "2023-10-07T05:09:11.032Z",
+    "genre": "Team Sports"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 67,
+  "fields": {
+    "mal_id": 78,
+    "slug": "",
+    "updated": "2023-10-07T05:09:21.806Z",
+    "created": "2023-10-07T05:09:21.806Z",
+    "genre": "Time Travel"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 68,
+  "fields": {
+    "mal_id": 32,
+    "slug": "",
+    "updated": "2023-10-07T05:09:33.047Z",
+    "created": "2023-10-07T05:09:33.047Z",
+    "genre": "Vampire"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 69,
+  "fields": {
+    "mal_id": 79,
+    "slug": "",
+    "updated": "2023-10-07T05:09:44.574Z",
+    "created": "2023-10-07T05:09:44.574Z",
+    "genre": "Video Game"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 70,
+  "fields": {
+    "mal_id": 80,
+    "slug": "",
+    "updated": "2023-10-07T05:09:56.911Z",
+    "created": "2023-10-07T05:09:56.911Z",
+    "genre": "Visual Arts"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 71,
+  "fields": {
+    "mal_id": 48,
+    "slug": "",
+    "updated": "2023-10-07T05:10:13.211Z",
+    "created": "2023-10-07T05:10:13.211Z",
+    "genre": "Workplace"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 72,
+  "fields": {
+    "mal_id": 43,
+    "slug": "",
+    "updated": "2023-10-07T05:10:25.974Z",
+    "created": "2023-10-07T05:10:25.974Z",
+    "genre": "Josei"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 73,
+  "fields": {
+    "mal_id": 15,
+    "slug": "",
+    "updated": "2023-10-07T05:10:35.958Z",
+    "created": "2023-10-07T05:10:35.958Z",
+    "genre": "Kids"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 74,
+  "fields": {
+    "mal_id": 42,
+    "slug": "",
+    "updated": "2023-10-07T05:10:46.892Z",
+    "created": "2023-10-07T05:10:46.892Z",
+    "genre": "Seinen"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 75,
+  "fields": {
+    "mal_id": 25,
+    "slug": "",
+    "updated": "2023-10-07T05:10:59.691Z",
+    "created": "2023-10-07T05:10:59.691Z",
+    "genre": "Shoujo"
+  }
+},
+{
+  "model": "animelist.genreanime",
+  "pk": 76,
+  "fields": {
+    "mal_id": 27,
+    "slug": "",
+    "updated": "2023-10-07T05:11:13.386Z",
+    "created": "2023-10-07T05:11:13.386Z",
+    "genre": "Shounen"
+  }
+}
+]
