@@ -466,5 +466,65 @@
     "studio_name": "8Bit",
     "company_name": "Eight Bit Co., Ltd."
   }
+},
+{
+  "model": "animelist.studio",
+  "pk": 133,
+  "fields": {
+    "mal_id": 40,
+    "slug": "tezuka-productions",
+    "updated": "2023-10-29T16:23:31.630Z",
+    "created": "2023-10-29T16:23:31.630Z",
+    "studio_name": "Tezuka Productions",
+    "company_name": "Tezuka Productions"
+  }
+},
+{
+  "model": "animelist.studio",
+  "pk": 134,
+  "fields": {
+    "mal_id": 42,
+    "slug": "bibury-animation-studio",
+    "updated": "2023-10-29T16:24:52.846Z",
+    "created": "2023-10-29T16:24:52.846Z",
+    "studio_name": "Bibury Animation Studio",
+    "company_name": "Bibury Animation Studio"
+  }
+},
+{
+  "model": "animelist.studio",
+  "pk": 135,
+  "fields": {
+    "mal_id": 43,
+    "slug": "gonzo",
+    "updated": "2023-10-29T16:30:46.141Z",
+    "created": "2023-10-29T16:30:46.141Z",
+    "studio_name": "Gonzo",
+    "company_name": "Gonzo"
+  }
+},
+{
+  "model": "animelist.studio",
+  "pk": 136,
+  "fields": {
+    "mal_id": 44,
+    "slug": "graphinica",
+    "updated": "2023-10-29T16:32:01.424Z",
+    "created": "2023-10-29T16:32:01.424Z",
+    "studio_name": "Graphinica",
+    "company_name": "Graphinica"
+  }
+},
+{
+  "model": "animelist.studio",
+  "pk": 137,
+  "fields": {
+    "mal_id": 45,
+    "slug": "project-no9",
+    "updated": "2023-10-29T16:33:54.998Z",
+    "created": "2023-10-29T16:33:54.998Z",
+    "studio_name": "Project No.9",
+    "company_name": "Project No.9"
+  }
 }
 ]

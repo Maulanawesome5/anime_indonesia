@@ -888,14 +888,14 @@
   "pk": 57,
   "fields": {
     "mal_id": 38101,
-    "slug": "gotoubun-no-hanayome-season-1",
-    "updated": "2023-02-13T14:29:28.853Z",
+    "slug": "5-toubun-no-hanayome",
+    "updated": "2023-10-29T16:23:44.501Z",
     "created": "2023-02-13T14:29:28.853Z",
-    "anime_title": "Gotoubun no Hanayome (Season 1)",
+    "anime_title": "5-toubun no Hanayome",
     "anime_score": "7.68",
     "airing_time": "Winter 2019",
-    "studio": 1,
-    "genre": 1,
+    "studio": 133,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/38101/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1819/97947.jpg"
   }
@@ -905,14 +905,14 @@
   "pk": 58,
   "fields": {
     "mal_id": 39783,
-    "slug": "gotoubun-no-hanayome-season-2",
-    "updated": "2023-02-13T14:29:43.044Z",
+    "slug": "5-toubun-no-hanayome-2nd-season",
+    "updated": "2023-10-29T17:09:16.560Z",
     "created": "2023-02-13T14:29:43.044Z",
-    "anime_title": "Gotoubun no Hanayome (Season 2)",
+    "anime_title": "5-toubun no Hanayome 2nd Season",
     "anime_score": "8.12",
     "airing_time": "Winter 2021",
-    "studio": 1,
-    "genre": 1,
+    "studio": 134,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/39783/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1775/109514.jpg"
   }
@@ -923,12 +923,12 @@
   "fields": {
     "mal_id": 10793,
     "slug": "guilty-crown",
-    "updated": "2023-02-13T14:30:06.880Z",
+    "updated": "2023-10-29T16:26:08.248Z",
     "created": "2023-02-13T14:30:06.880Z",
     "anime_title": "Guilty Crown",
     "anime_score": "7.44",
     "airing_time": "Fall 2011",
-    "studio": 1,
+    "studio": 100,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/10793/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1566/133912.jpg"
@@ -940,12 +940,12 @@
   "fields": {
     "mal_id": 41911,
     "slug": "hanyou-no-yashahime-sengoku-otogizoushi",
-    "updated": "2023-02-13T14:31:06.542Z",
+    "updated": "2023-10-29T16:27:48.304Z",
     "created": "2023-02-13T14:31:06.542Z",
-    "anime_title": "Hanyou no Yashahime - Sengoku Otogizoushi",
+    "anime_title": "Hanyou no Yashahime: Sengoku Otogizoushi",
     "anime_score": "6.72",
     "airing_time": "Fall 2020",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/41911/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1005/114781.jpg"
@@ -957,12 +957,12 @@
   "fields": {
     "mal_id": 48505,
     "slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-shou",
-    "updated": "2023-02-13T14:31:17.608Z",
+    "updated": "2023-10-29T16:28:29.216Z",
     "created": "2023-02-13T14:31:17.608Z",
-    "anime_title": "Hanyou no Yashahime - Sengoku Otogizoushi Ni Shou",
+    "anime_title": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni Shou",
     "anime_score": "7.09",
     "airing_time": "Fall 2021",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/48505/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1415/118635.jpg"
@@ -1008,13 +1008,13 @@
   "fields": {
     "mal_id": 270,
     "slug": "hellsing",
-    "updated": "2023-02-13T14:31:51.212Z",
+    "updated": "2023-10-29T16:30:58.409Z",
     "created": "2023-02-13T14:31:51.212Z",
     "anime_title": "Hellsing",
     "anime_score": "7.49",
     "airing_time": "Fall 2001",
-    "studio": 1,
-    "genre": 1,
+    "studio": 135,
+    "genre": 68,
     "api_url": "https://api.jikan.moe/v4/anime/270/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/10/19956.jpg"
   }
@@ -1025,13 +1025,13 @@
   "fields": {
     "mal_id": 11077,
     "slug": "hellsing-the-dawn",
-    "updated": "2023-02-13T14:32:05.686Z",
+    "updated": "2023-10-29T16:32:14.521Z",
     "created": "2023-02-13T14:32:05.686Z",
     "anime_title": "Hellsing The Dawn",
     "anime_score": "7.15",
     "airing_time": "Summer 2011",
-    "studio": 1,
-    "genre": 1,
+    "studio": 136,
+    "genre": 68,
     "api_url": "https://api.jikan.moe/v4/anime/11077/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/5/30667.jpg"
   }
@@ -1042,13 +1042,13 @@
   "fields": {
     "mal_id": 777,
     "slug": "hellsing-ultimate",
-    "updated": "2023-02-13T14:32:17.575Z",
+    "updated": "2023-10-29T16:32:47.130Z",
     "created": "2023-02-13T14:32:17.575Z",
     "anime_title": "Hellsing Ultimate",
     "anime_score": "8.36",
     "airing_time": "Winter 2006",
-    "studio": 1,
-    "genre": 1,
+    "studio": 107,
+    "genre": 68,
     "api_url": "https://api.jikan.moe/v4/anime/777/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/6/7333.jpg"
   }
@@ -1059,13 +1059,13 @@
   "fields": {
     "mal_id": 11617,
     "slug": "high-school-dxd",
-    "updated": "2023-06-06T09:52:39.646Z",
+    "updated": "2023-10-29T16:36:06.124Z",
     "created": "2023-02-13T14:32:29.807Z",
     "anime_title": "High School DxD",
     "anime_score": "7.35",
     "airing_time": "Winter 2012",
-    "studio": 1,
-    "genre": 1,
+    "studio": 125,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/11617/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1331/111940.jpg"
   }
@@ -1076,13 +1076,13 @@
   "fields": {
     "mal_id": 15451,
     "slug": "high-school-dxd-2-new",
-    "updated": "2023-02-13T14:32:41.171Z",
+    "updated": "2023-10-29T16:36:36.571Z",
     "created": "2023-02-13T14:32:41.171Z",
     "anime_title": "High School DxD 2 New",
     "anime_score": "7.49",
     "airing_time": "Summer 2013",
-    "studio": 1,
-    "genre": 1,
+    "studio": 125,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/15451/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/12/47729.jpg"
   }
@@ -1093,13 +1093,13 @@
   "fields": {
     "mal_id": 24703,
     "slug": "high-school-dxd-3-born",
-    "updated": "2023-02-13T14:32:54.557Z",
+    "updated": "2023-10-29T16:37:01.687Z",
     "created": "2023-02-13T14:32:54.557Z",
     "anime_title": "High School DxD 3 Born",
     "anime_score": "7.43",
     "airing_time": "Spring 2015",
-    "studio": 1,
-    "genre": 1,
+    "studio": 125,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/24703/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/12/73642.jpg"
   }
@@ -1110,13 +1110,13 @@
   "fields": {
     "mal_id": 34281,
     "slug": "high-school-dxd-4-hero",
-    "updated": "2023-02-13T14:33:10.111Z",
+    "updated": "2023-10-29T16:37:26.136Z",
     "created": "2023-02-13T14:33:10.111Z",
     "anime_title": "High School DxD 4 Hero",
     "anime_score": "7.26",
     "airing_time": "Spring 2018",
-    "studio": 1,
-    "genre": 1,
+    "studio": 124,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/34281/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1189/93528.jpg"
   }
@@ -1127,13 +1127,13 @@
   "fields": {
     "mal_id": 8074,
     "slug": "highschool-of-the-dead",
-    "updated": "2023-02-14T12:07:07.338Z",
+    "updated": "2023-10-29T16:38:45.381Z",
     "created": "2023-02-14T12:07:07.338Z",
     "anime_title": "Highschool Of The Dead",
     "anime_score": "7.08",
     "airing_time": "Summer 2010",
-    "studio": 1,
-    "genre": 1,
+    "studio": 107,
+    "genre": 11,
     "api_url": "https://api.jikan.moe/v4/anime/8074/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/11/78311.jpg"
   }
@@ -1144,13 +1144,13 @@
   "fields": {
     "mal_id": 934,
     "slug": "higurashi-no-naku-koro-ni",
-    "updated": "2023-02-14T12:08:30.083Z",
+    "updated": "2023-10-29T16:40:22.192Z",
     "created": "2023-02-14T12:08:30.083Z",
     "anime_title": "Higurashi no Naku Koro ni",
     "anime_score": "7.90",
     "airing_time": "Spring 2006",
-    "studio": 1,
-    "genre": 1,
+    "studio": 112,
+    "genre": 32,
     "api_url": "https://api.jikan.moe/v4/anime/934/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/12/19634.jpg"
   }
@@ -1161,13 +1161,13 @@
   "fields": {
     "mal_id": 1889,
     "slug": "higurashi-no-naku-koro-ni-kai",
-    "updated": "2023-02-14T12:08:45.557Z",
+    "updated": "2023-10-29T16:41:40.604Z",
     "created": "2023-02-14T12:08:45.557Z",
     "anime_title": "Higurashi no Naku Koro ni Kai",
     "anime_score": "8.37",
     "airing_time": "Winter 2007",
-    "studio": 1,
-    "genre": 1,
+    "studio": 112,
+    "genre": 54,
     "api_url": "https://api.jikan.moe/v4/anime/1889/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/12/14114.jpg"
   }
@@ -1178,13 +1178,13 @@
   "fields": {
     "mal_id": 3652,
     "slug": "higurashi-no-naku-koro-ni-rei",
-    "updated": "2023-02-14T12:08:59.895Z",
+    "updated": "2023-10-29T16:42:30.152Z",
     "created": "2023-02-14T12:08:59.895Z",
     "anime_title": "Higurashi no Naku Koro ni Rei",
     "anime_score": "7.41",
     "airing_time": "Winter 2009",
-    "studio": 1,
-    "genre": 1,
+    "studio": 112,
+    "genre": 54,
     "api_url": "https://api.jikan.moe/v4/anime/3652/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/4/14113.jpg"
   }
@@ -1195,13 +1195,13 @@
   "fields": {
     "mal_id": 41006,
     "slug": "higurashi-no-naku-koro-ni-gou",
-    "updated": "2023-02-14T12:09:15.211Z",
+    "updated": "2023-10-29T16:41:00.671Z",
     "created": "2023-02-14T12:09:15.211Z",
     "anime_title": "Higurashi no Naku Koro ni Gou",
     "anime_score": "7.20",
     "airing_time": "Fall 2020",
-    "studio": 1,
-    "genre": 1,
+    "studio": 124,
+    "genre": 32,
     "api_url": "https://api.jikan.moe/v4/anime/41006/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1716/111533.jpg"
   }
@@ -1212,13 +1212,13 @@
   "fields": {
     "mal_id": 48488,
     "slug": "higurashi-no-naku-koro-ni-sotsu",
-    "updated": "2023-02-14T12:09:31.320Z",
+    "updated": "2023-10-29T16:43:01.400Z",
     "created": "2023-02-14T12:09:31.320Z",
     "anime_title": "Higurashi no Naku Koro ni Sotsu",
     "anime_score": "6.77",
     "airing_time": "Summer 2021",
-    "studio": 1,
-    "genre": 1,
+    "studio": 124,
+    "genre": 32,
     "api_url": "https://api.jikan.moe/v4/anime/48488/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1083/115046.jpg"
   }
@@ -1229,13 +1229,13 @@
   "fields": {
     "mal_id": 8277,
     "slug": "hyakka-ryouran-samurai-girls",
-    "updated": "2023-02-14T12:09:59.051Z",
+    "updated": "2023-10-29T16:47:02.885Z",
     "created": "2023-02-14T12:09:59.051Z",
-    "anime_title": "Hyakka Ryouran - Samurai Girls",
+    "anime_title": "Hyakka Ryouran: Samurai Girls",
     "anime_score": "6.78",
     "airing_time": "Fall 2010",
-    "studio": 1,
-    "genre": 1,
+    "studio": 108,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/8277/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/9/27705.jpg"
   }
@@ -1246,13 +1246,13 @@
   "fields": {
     "mal_id": 15377,
     "slug": "hyakka-ryouran-samurai-bride",
-    "updated": "2023-02-14T12:10:30.233Z",
+    "updated": "2023-10-29T16:46:31.244Z",
     "created": "2023-02-14T12:10:30.233Z",
-    "anime_title": "Hyakka Ryouran - Samurai Bride",
+    "anime_title": "Hyakka Ryouran: Samurai Bride",
     "anime_score": "6.73",
     "airing_time": "Spring 2013",
-    "studio": 1,
-    "genre": 1,
+    "studio": 108,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/15377/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/5/45248.jpg"
   }
@@ -1262,14 +1262,14 @@
   "pk": 79,
   "fields": {
     "mal_id": 9041,
-    "slug": "infinite-stratos",
-    "updated": "2023-06-06T09:53:05.279Z",
+    "slug": "is-infinite-stratos",
+    "updated": "2023-10-29T16:49:56.242Z",
     "created": "2023-02-14T12:10:43.235Z",
-    "anime_title": "Infinite Stratos",
+    "anime_title": "IS: Infinite Stratos",
     "anime_score": "6.65",
     "airing_time": "Winter 2011",
-    "studio": 1,
-    "genre": 1,
+    "studio": 132,
+    "genre": 44,
     "api_url": "https://api.jikan.moe/v4/anime/9041/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/3/74045.jpg"
   }
@@ -1279,14 +1279,14 @@
   "pk": 80,
   "fields": {
     "mal_id": 10794,
-    "slug": "infinite-stratos-1-encore-koi-ni-kogareru-rokujuusou",
-    "updated": "2023-02-14T12:15:44.589Z",
+    "slug": "is-infinite-stratos-encore-koi-ni-kogareru-rokujuusou",
+    "updated": "2023-10-29T16:51:34.652Z",
     "created": "2023-02-14T12:15:44.589Z",
-    "anime_title": "Infinite Stratos 1 Encore - Koi ni Kogareru Rokujuusou",
+    "anime_title": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
     "anime_score": "6.86",
     "airing_time": "Fall 2011",
-    "studio": 1,
-    "genre": 1,
+    "studio": 132,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/10794/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/4/56161.jpg"
   }
@@ -1296,14 +1296,14 @@
   "pk": 81,
   "fields": {
     "mal_id": 18247,
-    "slug": "infinite-stratos-2",
-    "updated": "2023-02-14T12:16:04.550Z",
+    "slug": "is-infinite-stratos-2",
+    "updated": "2023-10-29T16:52:28.650Z",
     "created": "2023-02-14T12:16:04.550Z",
-    "anime_title": "Infinite Stratos 2",
+    "anime_title": "IS: Infinite Stratos 2",
     "anime_score": "6.48",
     "airing_time": "Fall 2013",
-    "studio": 1,
-    "genre": 1,
+    "studio": 132,
+    "genre": 44,
     "api_url": "https://api.jikan.moe/v4/anime/18247/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/12/49359.jpg"
   }
@@ -1313,14 +1313,14 @@
   "pk": 82,
   "fields": {
     "mal_id": 20045,
-    "slug": "infinite-stratos-2-hitonatsu-no-omoide",
-    "updated": "2023-02-14T12:16:20.794Z",
+    "slug": "is-infinite-stratos-2-hitonatsu-no-omoide",
+    "updated": "2023-10-29T16:53:50.546Z",
     "created": "2023-02-14T12:16:20.794Z",
-    "anime_title": "Infinite Stratos 2 - Hitonatsu no Omoide",
+    "anime_title": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
     "anime_score": "6.88",
     "airing_time": "Fall 2013",
-    "studio": 1,
-    "genre": 1,
+    "studio": 132,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/20045/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/7/56159.jpg"
   }
@@ -1330,14 +1330,14 @@
   "pk": 83,
   "fields": {
     "mal_id": 21653,
-    "slug": "infinite-stratos-2-world-purge-hen",
-    "updated": "2023-02-14T12:16:43.079Z",
+    "slug": "is-infinite-stratos-2-world-purge-hen",
+    "updated": "2023-10-29T16:54:47.339Z",
     "created": "2023-02-14T12:16:43.079Z",
-    "anime_title": "Infinite Stratos 2 - World Purge-hen",
+    "anime_title": "IS: Infinite Stratos 2 - World Purge-hen",
     "anime_score": "6.88",
     "airing_time": "Fall 2014",
-    "studio": 1,
-    "genre": 1,
+    "studio": 132,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/21653/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/9/67545.jpg"
   }
@@ -1347,14 +1347,14 @@
   "pk": 84,
   "fields": {
     "mal_id": 33242,
-    "slug": "infinite-stratos-2-infinite-wedding",
-    "updated": "2023-02-14T12:18:18.226Z",
+    "slug": "is-infinite-stratos-2-infinite-wedding",
+    "updated": "2023-10-29T16:54:18.910Z",
     "created": "2023-02-14T12:18:18.226Z",
-    "anime_title": "Infinite Stratos 2 - Infinite Wedding",
+    "anime_title": "IS: Infinite Stratos 2 - Infinite Wedding",
     "anime_score": "6.39",
     "airing_time": "Spring 2016",
-    "studio": 1,
-    "genre": 1,
+    "studio": 132,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/33242/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1323/108709.jpg"
   }
@@ -1365,12 +1365,12 @@
   "fields": {
     "mal_id": 249,
     "slug": "inuyasha",
-    "updated": "2023-02-14T12:18:34.263Z",
+    "updated": "2023-10-29T16:56:30.267Z",
     "created": "2023-02-14T12:18:34.263Z",
     "anime_title": "InuYasha",
     "anime_score": "7.85",
     "airing_time": "Fall 2000",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/249/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1589/95329.jpg"
@@ -1382,12 +1382,12 @@
   "fields": {
     "mal_id": 452,
     "slug": "inuyasha-movie-1-toki-wo-koeru-omoi",
-    "updated": "2023-02-14T12:20:26.350Z",
+    "updated": "2023-10-29T16:57:03.833Z",
     "created": "2023-02-14T12:20:26.350Z",
-    "anime_title": "InuYasha Movie 1 - Toki wo Koeru Omoi",
+    "anime_title": "InuYasha Movie 1: Toki wo Koeru Omoi",
     "anime_score": "7.56",
     "airing_time": "Fall 2001",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/452/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1683/94370.jpg"
@@ -1399,12 +1399,12 @@
   "fields": {
     "mal_id": 450,
     "slug": "inuyasha-movie-2-kagami-no-naka-no-mugenjo",
-    "updated": "2023-02-14T12:20:41.197Z",
+    "updated": "2023-10-29T16:57:30.699Z",
     "created": "2023-02-14T12:20:41.197Z",
-    "anime_title": "InuYasha Movie 2 - Kagami no Naka no Mugenjo",
+    "anime_title": "InuYasha Movie 2: Kagami no Naka no Mugenjo",
     "anime_score": "7.67",
     "airing_time": "Fall 2002",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/450/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1162/92219.jpg"
@@ -1416,12 +1416,12 @@
   "fields": {
     "mal_id": 451,
     "slug": "inuyasha-movie-3-tenka-hadou-no-ken",
-    "updated": "2023-02-14T12:20:58.302Z",
+    "updated": "2023-10-29T16:57:55.516Z",
     "created": "2023-02-14T12:20:58.302Z",
-    "anime_title": "InuYasha Movie 3 - Tenka Hadou no Ken",
+    "anime_title": "InuYasha Movie 3: Tenka Hadou no Ken",
     "anime_score": "7.80",
     "airing_time": "Fall 2003",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/451/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1658/95332.jpg"
@@ -1433,12 +1433,12 @@
   "fields": {
     "mal_id": 449,
     "slug": "inuyasha-movie-4-guren-no-houraijima",
-    "updated": "2023-02-14T12:21:11.252Z",
+    "updated": "2023-10-29T16:58:18.177Z",
     "created": "2023-02-14T12:21:11.252Z",
-    "anime_title": "InuYasha Movie 4 - Guren no Houraijima",
+    "anime_title": "InuYasha Movie 4: Guren no Houraijima",
     "anime_score": "7.55",
     "airing_time": "Fall 2004",
-    "studio": 1,
+    "studio": 102,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/449/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1216/94369.jpg"
@@ -3286,12 +3286,12 @@
   "fields": {
     "mal_id": 40938,
     "slug": "hige-wo-soru-soshite-joshikousei-wo-hirou",
-    "updated": "2023-02-15T16:01:51.422Z",
+    "updated": "2023-10-29T16:34:00.680Z",
     "created": "2023-02-15T16:01:51.422Z",
     "anime_title": "Hige wo Soru Soshite Joshikousei wo Hirou",
     "anime_score": "7.29",
     "airing_time": "Spring 2021",
-    "studio": 1,
+    "studio": 137,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/40938/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1146/113477.jpg"
