@@ -3252,13 +3252,13 @@
   "fields": {
     "mal_id": 16656,
     "slug": "zettai-junpaku-mahou-shoujo",
-    "updated": "2023-03-15T13:47:05.521Z",
+    "updated": "2023-10-29T17:15:22.993Z",
     "created": "2023-02-15T16:01:23.274Z",
     "anime_title": "Zettai Junpaku Mahou Shoujo",
     "anime_score": "5.25",
     "airing_time": "Summer 2012",
-    "studio": 1,
-    "genre": 1,
+    "studio": 137,
+    "genre": 42,
     "api_url": "https://api.jikan.moe/v4/anime/16656/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/9/65213.jpg"
   }
@@ -3388,12 +3388,12 @@
   "fields": {
     "mal_id": 50175,
     "slug": "yuusha-yamemasu",
-    "updated": "2023-03-15T13:45:32.480Z",
+    "updated": "2023-10-29T17:17:30.402Z",
     "created": "2023-02-15T16:03:07.421Z",
     "anime_title": "Yuusha Yamemasu",
     "anime_score": "7.04",
     "airing_time": "Spring 2022",
-    "studio": 1,
+    "studio": 138,
     "genre": 1,
     "api_url": "https://api.jikan.moe/v4/anime/50175/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1934/122301.jpg"
@@ -3558,13 +3558,13 @@
   "fields": {
     "mal_id": 52046,
     "slug": "yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau",
-    "updated": "2023-03-15T13:46:13.861Z",
+    "updated": "2023-10-29T17:19:11.076Z",
     "created": "2023-03-13T04:57:48.349Z",
     "anime_title": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
     "anime_score": "6.96",
     "airing_time": "Fall 2022",
-    "studio": 1,
-    "genre": 1,
+    "studio": 138,
+    "genre": 33,
     "api_url": "https://api.jikan.moe/v4/anime/52046/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1084/126652.jpg"
   }
@@ -3575,13 +3575,13 @@
   "fields": {
     "mal_id": 36999,
     "slug": "zoku-owarimonogatari",
-    "updated": "2023-03-15T13:44:30.771Z",
+    "updated": "2023-10-29T17:14:37.796Z",
     "created": "2023-03-13T04:58:54.585Z",
     "anime_title": "Zoku Owarimonogatari",
     "anime_score": "8.45",
     "airing_time": "Fall 2018",
-    "studio": 1,
-    "genre": 1,
+    "studio": 99,
+    "genre": 12,
     "api_url": "https://api.jikan.moe/v4/anime/36999/full",
     "poster_url": "https://cdn.myanimelist.net/images/anime/1022/96168.jpg"
   }
